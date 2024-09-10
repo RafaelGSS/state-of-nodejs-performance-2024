@@ -1,0 +1,23 @@
+{
+  "name": "state-of-nodejs-performance-2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelGSS/state-of-nodejs-performance-2024.git"
+  },
+  "author": "RafaelGSS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RafaelGSS/state-of-nodejs-performance-2024/issues"
+  },
+  "homepage": "https://github.com/RafaelGSS/state-of-nodejs-performance-2024#readme",
+  "dependencies": {
+    "express": "^4.20.0",
+    "fastify": "^4.28.1"
+  }
+}
