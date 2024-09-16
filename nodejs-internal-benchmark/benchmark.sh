@@ -3,7 +3,7 @@
 
 
 # assert
-echo "assert...\n"
+echo "assert..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
@@ -15,7 +15,7 @@ node benchmark/compare.js \
   assert  > compare-assert-20-22.csv
 
 # # crypto
-# echo "crypto...\n"
+# echo "crypto..."
 # node benchmark/compare.js \
 #   --old ./node18 \
 #   --new ./node20 \
@@ -27,7 +27,7 @@ node benchmark/compare.js \
 #   assert  > compare-crypto-20-22.csv
 
 # diagnostics_channel
-echo "diagnostics_channel...\n"
+echo "diagnostics_channel..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
@@ -39,7 +39,7 @@ node benchmark/compare.js \
   diagnostics_channel  > compare-dc-20-22.csv
 
 # error
-echo "error...\n"
+echo "error..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
@@ -55,7 +55,7 @@ node benchmark/compare.js \
   error  > compare-dc-20-22.csv
 
 # esm
-echo "esm...\n"
+echo "esm..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
@@ -71,7 +71,7 @@ node benchmark/compare.js \
   esm  > compare-esm-20-22.csv
 
 # fs
-echo "fs...\n"
+echo "fs..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
@@ -89,7 +89,7 @@ node benchmark/compare.js \
   fs  > compare-fs-20-22.csv
 
 # events
-echo "events...\n"
+echo "events..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
@@ -113,7 +113,7 @@ node benchmark/compare.js \
   events  > compare-events-20-22.csv
 
 # http
-# echo "http...\n"
+# echo "http..."
 # node benchmark/compare.js \
 #   --old ./node18 \
 #   --new ./node20 \
@@ -131,7 +131,7 @@ node benchmark/compare.js \
 #   http  > compare-http-20-22.csv
 
 # misc
-echo "misc...\n"
+echo "misc..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
@@ -149,7 +149,7 @@ node benchmark/compare.js \
   misc  > compare-misc-20-22.csv
 
 # module
-echo "module...\n"
+echo "module..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
@@ -165,21 +165,39 @@ node benchmark/compare.js \
   module  > compare-module-20-22.csv
 
 # path
-echo "path...\n"
+echo "path..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
-  --filter "*-posix.js" \
+  --filter "basename-posix.js" \
+  --filter "dirname-posix.js" \
+  --filter "extname-posix.js" \
+  --filter "format-posix.js" \
+  --filter "isAbsolute-posix.js" \
+  --filter "join-posix.js" \
+  --filter "normalize-posix.js" \
+  --filter "relative-posix.js" \
+  --filter "resolve-posix.js" \
+  --filter "toNamespacedPath-posix.js" \
   path  > compare-path-18-20.csv
 
 node benchmark/compare.js \
   --old ./node20 \
   --new ./node22 \
-  --filter "*-posix.js" \
+  --filter "basename-posix.js" \
+  --filter "dirname-posix.js" \
+  --filter "extname-posix.js" \
+  --filter "format-posix.js" \
+  --filter "isAbsolute-posix.js" \
+  --filter "join-posix.js" \
+  --filter "normalize-posix.js" \
+  --filter "relative-posix.js" \
+  --filter "resolve-posix.js" \
+  --filter "toNamespacedPath-posix.js" \
   module  > compare-module-20-22.csv
 
 # streams
-echo "streams...\n"
+echo "streams..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
@@ -204,20 +222,20 @@ node benchmark/compare.js \
   --filter "pipe.js" \
   streams  > compare-streams-20-22.csv
 
-# test_runner
-echo "test_runner...\n"
-node benchmark/compare.js \
-  --old ./node18 \
-  --new ./node20 \
-  test_runner  > compare-test-runner-18-20.csv
+# # test_runner
+# echo "test_runner..."
+# node benchmark/compare.js \
+#   --old ./node18 \
+#   --new ./node20 \
+#   test_runner  > compare-test-runner-18-20.csv
 
-node benchmark/compare.js \
-  --old ./node20 \
-  --new ./node22 \
-  test_runner  > compare-test-runner-20-22.csv
+# node benchmark/compare.js \
+#   --old ./node20 \
+#   --new ./node22 \
+#   test_runner  > compare-test-runner-20-22.csv
 
 # url
-echo "url...\n"
+echo "url..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
@@ -235,7 +253,7 @@ node benchmark/compare.js \
   url  > compare-url-20-22.csv
 
 # webstreams
-echo "webstreams...\n"
+echo "webstreams..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
@@ -253,7 +271,7 @@ node benchmark/compare.js \
   webstreams  > compare-webstreams-20-22.csv
 
 # zlib
-echo "zlib...\n"
+echo "zlib..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
@@ -273,7 +291,7 @@ node benchmark/compare.js \
   zlib  > compare-zlib-20-22.csv
 
 # buffers
-echo "buffers...\n"
+echo "buffers..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
@@ -287,7 +305,7 @@ node benchmark/compare.js \
   buffers  > compare-buffers-20-22.csv
 
 # util
-echo "util...\n"
+echo "util..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
