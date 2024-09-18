@@ -51,14 +51,14 @@ node benchmark/compare.js \
   --new ./node20 \
   --filter "error.js" \
   --filter "node-error*" \
-  error  > compare-dc-18-20.csv
+  error  > compare-error-18-20.csv
 
 node benchmark/compare.js \
   --old ./node20 \
   --new ./node22 \
   --filter "error.js" \
   --filter "node-error*" \
-  error  > compare-dc-20-22.csv
+  error  > compare-error-20-22.csv
 
 # esm
 echo "esm..."
