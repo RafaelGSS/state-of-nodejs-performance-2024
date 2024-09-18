@@ -50,14 +50,14 @@ node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
   --filter "error.js" \
-  --filter "node-error*" \
+  --filter "node-error" \
   error  > compare-error-18-20.csv
 
 node benchmark/compare.js \
   --old ./node20 \
   --new ./node22 \
   --filter "error.js" \
-  --filter "node-error*" \
+  --filter "node-error" \
   error  > compare-error-20-22.csv
 
 # esm
@@ -81,7 +81,7 @@ echo "fs..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
-  --filter "bench-*" \
+  --filter "bench-" \
   --filter "readfile.js" \
   --filter "writefile-promises.js" \
   fs  > compare-fs-18-20.csv
@@ -89,7 +89,7 @@ node benchmark/compare.js \
 node benchmark/compare.js \
   --old ./node20 \
   --new ./node22 \
-  --filter "bench-*" \
+  --filter "bench-" \
   --filter "readfile.js" \
   --filter "writefile-promises.js" \
   fs  > compare-fs-20-22.csv
@@ -143,7 +143,7 @@ node benchmark/compare.js \
   --new ./node20 \
   --filter "trace.js" \
   --filter "structured-clone.js" \
-  --filter "startup*" \
+  --filter "startup" \
   misc  > compare-misc-18-20.csv
 
 node benchmark/compare.js \
@@ -151,7 +151,7 @@ node benchmark/compare.js \
   --new ./node22 \
   --filter "trace.js" \
   --filter "structured-clone.js" \
-  --filter "startup*" \
+  --filter "startup" \
   misc  > compare-misc-20-22.csv
 
 # module
