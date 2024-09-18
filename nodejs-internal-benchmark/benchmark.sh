@@ -14,17 +14,23 @@ node benchmark/compare.js \
   --new ./node22 \
   assert  > compare-assert-20-22.csv
 
-# # crypto
-# echo "crypto..."
-# node benchmark/compare.js \
-#   --old ./node18 \
-#   --new ./node20 \
-#   crypto  > compare-crypto-18-20.csv
+# crypto
+echo "crypto..."
+node benchmark/compare.js \
+  --old ./node18 \
+  --new ./node20 \
+  --filter "create-hash.js" \
+  --filter "randomUUID.js" \
+  --filter "oneshot-sign.js" \
+  crypto  > compare-crypto-18-20.csv
 
-# node benchmark/compare.js \
-#   --old ./node20 \
-#   --new ./node22 \
-#   assert  > compare-crypto-20-22.csv
+node benchmark/compare.js \
+  --old ./node20 \
+  --new ./node22 \
+  --filter "create-hash.js" \
+  --filter "randomUUID.js" \
+  --filter "oneshot-sign.js" \
+  assert  > compare-crypto-20-22.csv
 
 # diagnostics_channel
 echo "diagnostics_channel..."
@@ -113,22 +119,22 @@ node benchmark/compare.js \
   events  > compare-events-20-22.csv
 
 # http
-# echo "http..."
-# node benchmark/compare.js \
-#   --old ./node18 \
-#   --new ./node20 \
-#   --filter "client-request-body.js" \
-#   --filter "bench-parser.js" \
-#   --filter "simple.js" \
-#   http  > compare-http-18-20.csv
+echo "http..."
+node benchmark/compare.js \
+  --old ./node18 \
+  --new ./node20 \
+  --filter "client-request-body.js" \
+  --filter "bench-parser.js" \
+  --filter "simple.js" \
+  http  > compare-http-18-20.csv
 
-# node benchmark/compare.js \
-#   --old ./node20 \
-#   --new ./node22 \
-#   --filter "client-request-body.js" \
-#   --filter "bench-parser.js" \
-#   --filter "simple.js" \
-#   http  > compare-http-20-22.csv
+node benchmark/compare.js \
+  --old ./node20 \
+  --new ./node22 \
+  --filter "client-request-body.js" \
+  --filter "bench-parser.js" \
+  --filter "simple.js" \
+  http  > compare-http-20-22.csv
 
 # misc
 echo "misc..."
@@ -222,17 +228,17 @@ node benchmark/compare.js \
   --filter "pipe.js" \
   streams  > compare-streams-20-22.csv
 
-# # test_runner
-# echo "test_runner..."
-# node benchmark/compare.js \
-#   --old ./node18 \
-#   --new ./node20 \
-#   test_runner  > compare-test-runner-18-20.csv
+# test_runner
+echo "test_runner..."
+node benchmark/compare.js \
+  --old ./node18 \
+  --new ./node20 \
+  test_runner  > compare-test-runner-18-20.csv
 
-# node benchmark/compare.js \
-#   --old ./node20 \
-#   --new ./node22 \
-#   test_runner  > compare-test-runner-20-22.csv
+node benchmark/compare.js \
+  --old ./node20 \
+  --new ./node22 \
+  test_runner  > compare-test-runner-20-22.csv
 
 # url
 echo "url..."
@@ -295,13 +301,13 @@ echo "buffers..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
-  --filter "buffer-*" \
+  --filter "buffer-" \
   buffers  > compare-buffers-18-20.csv
 
 node benchmark/compare.js \
   --old ./node20 \
   --new ./node22 \
-  --filter "buffer-*" \
+  --filter "buffer-" \
   buffers  > compare-buffers-20-22.csv
 
 # util
