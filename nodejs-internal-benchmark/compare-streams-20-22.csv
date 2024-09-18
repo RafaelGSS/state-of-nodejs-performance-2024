@@ -1,0 +1,961 @@
+"binary","filename","configuration","rate","time"
+"old","streams/creation.js","kind='duplex' n=50000000",15893238.267932871,3.145991972
+"old","streams/creation.js","kind='readable' n=50000000",27780574.170373768,1.799818812
+"old","streams/creation.js","kind='transform' n=50000000",9020820.810013462,5.542732868
+"old","streams/creation.js","kind='writable' n=50000000",27360730.879718095,1.827436563
+"new","streams/creation.js","kind='duplex' n=50000000",15872964.489962254,3.150010197
+"new","streams/creation.js","kind='readable' n=50000000",28391921.781641014,1.761064305
+"new","streams/creation.js","kind='transform' n=50000000",9982219.253808351,5.008906209
+"new","streams/creation.js","kind='writable' n=50000000",26280432.47142748,1.902556210
+"old","streams/creation.js","kind='duplex' n=50000000",15910547.900881177,3.142569339
+"old","streams/creation.js","kind='readable' n=50000000",28375413.130834337,1.762088882
+"old","streams/creation.js","kind='transform' n=50000000",8747714.747436766,5.715778514
+"old","streams/creation.js","kind='writable' n=50000000",27105144.2578983,1.844668286
+"new","streams/creation.js","kind='duplex' n=50000000",15621787.633227276,3.200658028
+"new","streams/creation.js","kind='readable' n=50000000",27883647.246151384,1.793165706
+"new","streams/creation.js","kind='transform' n=50000000",9926182.977448456,5.037182985
+"new","streams/creation.js","kind='writable' n=50000000",26573861.78415339,1.881548132
+"old","streams/creation.js","kind='duplex' n=50000000",15842746.153887173,3.156018503
+"old","streams/creation.js","kind='readable' n=50000000",28570713.40565672,1.750043805
+"old","streams/creation.js","kind='transform' n=50000000",8879152.177933257,5.631168269
+"old","streams/creation.js","kind='writable' n=50000000",27161358.901016522,1.840850459
+"new","streams/creation.js","kind='duplex' n=50000000",15412897.643943036,3.244036336
+"new","streams/creation.js","kind='readable' n=50000000",28027048.289951734,1.783990932
+"new","streams/creation.js","kind='transform' n=50000000",9856043.154090434,5.073029736
+"new","streams/creation.js","kind='writable' n=50000000",26541090.75852745,1.883871332
+"old","streams/creation.js","kind='duplex' n=50000000",15660204.482243055,3.192806330
+"old","streams/creation.js","kind='readable' n=50000000",28349850.94779531,1.763677703
+"old","streams/creation.js","kind='transform' n=50000000",8845230.86726924,5.652763704
+"old","streams/creation.js","kind='writable' n=50000000",27323764.975632332,1.829908874
+"new","streams/creation.js","kind='duplex' n=50000000",15934534.974632418,3.137838668
+"new","streams/creation.js","kind='readable' n=50000000",28137891.38900882,1.776963288
+"new","streams/creation.js","kind='transform' n=50000000",8936234.09771339,5.595198095
+"new","streams/creation.js","kind='writable' n=50000000",26024961.13567634,1.921232456
+"old","streams/creation.js","kind='duplex' n=50000000",15911327.581766888,3.142415348
+"old","streams/creation.js","kind='readable' n=50000000",28566745.339197665,1.750286895
+"old","streams/creation.js","kind='transform' n=50000000",8828036.582978923,5.663773539
+"old","streams/creation.js","kind='writable' n=50000000",27220086.490986448,1.836878807
+"new","streams/creation.js","kind='duplex' n=50000000",15696727.846048944,3.185377264
+"new","streams/creation.js","kind='readable' n=50000000",27775607.993574,1.800140613
+"new","streams/creation.js","kind='transform' n=50000000",10401444.681115959,4.807024556
+"new","streams/creation.js","kind='writable' n=50000000",26048824.625899035,1.919472403
+"old","streams/creation.js","kind='duplex' n=50000000",15762348.295531029,3.172116176
+"old","streams/creation.js","kind='readable' n=50000000",28389890.680847876,1.761190297
+"old","streams/creation.js","kind='transform' n=50000000",8875201.404967671,5.633674969
+"old","streams/creation.js","kind='writable' n=50000000",27061501.097482424,1.847643256
+"new","streams/creation.js","kind='duplex' n=50000000",15594811.685373921,3.206194535
+"new","streams/creation.js","kind='readable' n=50000000",27674261.526057612,1.806732944
+"new","streams/creation.js","kind='transform' n=50000000",8641310.414213851,5.786159460
+"new","streams/creation.js","kind='writable' n=50000000",26584138.979045775,1.880820742
+"old","streams/creation.js","kind='duplex' n=50000000",15889954.948367523,3.146642024
+"old","streams/creation.js","kind='readable' n=50000000",28600967.389053427,1.748192616
+"old","streams/creation.js","kind='transform' n=50000000",8886872.568885144,5.626276242
+"old","streams/creation.js","kind='writable' n=50000000",27260694.48644129,1.834142561
+"new","streams/creation.js","kind='duplex' n=50000000",15712481.958617894,3.182183447
+"new","streams/creation.js","kind='readable' n=50000000",28097561.479118057,1.779513857
+"new","streams/creation.js","kind='transform' n=50000000",10157952.424099851,4.922251839
+"new","streams/creation.js","kind='writable' n=50000000",26149824.068716783,1.912058753
+"old","streams/creation.js","kind='duplex' n=50000000",15759759.2387885,3.172637300
+"old","streams/creation.js","kind='readable' n=50000000",28494188.722762037,1.754743765
+"old","streams/creation.js","kind='transform' n=50000000",8776228.505966533,5.697208085
+"old","streams/creation.js","kind='writable' n=50000000",27136345.398420602,1.842547302
+"new","streams/creation.js","kind='duplex' n=50000000",15582193.678540997,3.208790818
+"new","streams/creation.js","kind='readable' n=50000000",28116339.65074983,1.778325366
+"new","streams/creation.js","kind='transform' n=50000000",9974914.47859443,5.012574304
+"new","streams/creation.js","kind='writable' n=50000000",26262664.471354436,1.903843384
+"old","streams/creation.js","kind='duplex' n=50000000",15764156.14742971,3.171752394
+"old","streams/creation.js","kind='readable' n=50000000",27851480.28356167,1.795236716
+"old","streams/creation.js","kind='transform' n=50000000",8609748.827241274,5.807370343
+"old","streams/creation.js","kind='writable' n=50000000",27216719.944357615,1.837106018
+"new","streams/creation.js","kind='duplex' n=50000000",15517885.80018576,3.222088411
+"new","streams/creation.js","kind='readable' n=50000000",28190135.213769305,1.773670102
+"new","streams/creation.js","kind='transform' n=50000000",10134043.54731917,4.933864727
+"new","streams/creation.js","kind='writable' n=50000000",26622147.86154645,1.878135463
+"old","streams/creation.js","kind='duplex' n=50000000",16007057.770445043,3.123622137
+"old","streams/creation.js","kind='readable' n=50000000",28381626.73456646,1.761703107
+"old","streams/creation.js","kind='transform' n=50000000",8980655.532554593,5.567522306
+"old","streams/creation.js","kind='writable' n=50000000",27239863.788586557,1.835545155
+"new","streams/creation.js","kind='duplex' n=50000000",15663594.460416943,3.192115330
+"new","streams/creation.js","kind='readable' n=50000000",27883094.876018513,1.793201229
+"new","streams/creation.js","kind='transform' n=50000000",9698381.6571997,5.155499316
+"new","streams/creation.js","kind='writable' n=50000000",26194620.85057599,1.908788842
+"old","streams/creation.js","kind='duplex' n=50000000",16016900.936485423,3.121702519
+"old","streams/creation.js","kind='readable' n=50000000",28369443.869808752,1.762459646
+"old","streams/creation.js","kind='transform' n=50000000",8964388.27695333,5.577625428
+"old","streams/creation.js","kind='writable' n=50000000",27580542.51505215,1.812872244
+"new","streams/creation.js","kind='duplex' n=50000000",15726779.089611994,3.179290541
+"new","streams/creation.js","kind='readable' n=50000000",27996658.67269859,1.785927406
+"new","streams/creation.js","kind='transform' n=50000000",10001881.143803645,4.999059605
+"new","streams/creation.js","kind='writable' n=50000000",26396373.364252705,1.894199605
+"old","streams/creation.js","kind='duplex' n=50000000",15840253.496823002,3.156515141
+"old","streams/creation.js","kind='readable' n=50000000",28407935.38403742,1.760071590
+"old","streams/creation.js","kind='transform' n=50000000",8887976.74388217,5.625577276
+"old","streams/creation.js","kind='writable' n=50000000",27221287.833672263,1.836797741
+"new","streams/creation.js","kind='duplex' n=50000000",15618131.897214204,3.201407206
+"new","streams/creation.js","kind='readable' n=50000000",27595913.486967962,1.811862471
+"new","streams/creation.js","kind='transform' n=50000000",9714635.451376209,5.146873524
+"new","streams/creation.js","kind='writable' n=50000000",26478513.484898973,1.888323528
+"old","streams/creation.js","kind='duplex' n=50000000",16009124.683654774,3.123218851
+"old","streams/creation.js","kind='readable' n=50000000",28375071.375009224,1.762110105
+"old","streams/creation.js","kind='transform' n=50000000",8983280.992599972,5.565895138
+"old","streams/creation.js","kind='writable' n=50000000",27384845.770542238,1.825827336
+"new","streams/creation.js","kind='duplex' n=50000000",15907188.204757337,3.143233069
+"new","streams/creation.js","kind='readable' n=50000000",28156979.45836171,1.775758656
+"new","streams/creation.js","kind='transform' n=50000000",9895728.767332138,5.052684969
+"new","streams/creation.js","kind='writable' n=50000000",26606441.460983753,1.879244170
+"old","streams/creation.js","kind='duplex' n=50000000",15936728.459647289,3.137406785
+"old","streams/creation.js","kind='readable' n=50000000",28574150.75729483,1.749833282
+"old","streams/creation.js","kind='transform' n=50000000",8912559.115315681,5.610060966
+"old","streams/creation.js","kind='writable' n=50000000",27113441.09587488,1.844103809
+"new","streams/creation.js","kind='duplex' n=50000000",15655292.815475902,3.193808036
+"new","streams/creation.js","kind='readable' n=50000000",28034711.17090793,1.783503304
+"new","streams/creation.js","kind='transform' n=50000000",9941104.815245073,5.029622052
+"new","streams/creation.js","kind='writable' n=50000000",26404489.156900417,1.893617396
+"old","streams/creation.js","kind='duplex' n=50000000",15831401.110300107,3.158280158
+"old","streams/creation.js","kind='readable' n=50000000",28460988.907865778,1.756790678
+"old","streams/creation.js","kind='transform' n=50000000",8857074.04587664,5.645205148
+"old","streams/creation.js","kind='writable' n=50000000",27326083.433013376,1.829753617
+"new","streams/creation.js","kind='duplex' n=50000000",15658841.462443883,3.193084247
+"new","streams/creation.js","kind='readable' n=50000000",27869464.9266014,1.794078219
+"new","streams/creation.js","kind='transform' n=50000000",9771964.550550649,5.116678406
+"new","streams/creation.js","kind='writable' n=50000000",26520188.339821797,1.885356143
+"old","streams/creation.js","kind='duplex' n=50000000",15868190.814603554,3.150957824
+"old","streams/creation.js","kind='readable' n=50000000",28191217.99603676,1.773601978
+"old","streams/creation.js","kind='transform' n=50000000",8822710.521507991,5.667192625
+"old","streams/creation.js","kind='writable' n=50000000",27303501.29228318,1.831266967
+"new","streams/creation.js","kind='duplex' n=50000000",15773493.048670037,3.169874919
+"new","streams/creation.js","kind='readable' n=50000000",27906754.549308337,1.791680932
+"new","streams/creation.js","kind='transform' n=50000000",9933975.490873815,5.033231665
+"new","streams/creation.js","kind='writable' n=50000000",26169354.703663144,1.910631751
+"old","streams/creation.js","kind='duplex' n=50000000",14557358.000748517,3.434689179
+"old","streams/creation.js","kind='readable' n=50000000",28576042.83487554,1.749717422
+"old","streams/creation.js","kind='transform' n=50000000",8727737.443555478,5.728861612
+"old","streams/creation.js","kind='writable' n=50000000",27364938.562897075,1.827155573
+"new","streams/creation.js","kind='duplex' n=50000000",15754058.596967626,3.173785326
+"new","streams/creation.js","kind='readable' n=50000000",28271160.73481361,1.768586740
+"new","streams/creation.js","kind='transform' n=50000000",10270476.775138242,4.868323165
+"new","streams/creation.js","kind='writable' n=50000000",26479473.3275546,1.888255079
+"old","streams/creation.js","kind='duplex' n=50000000",15927883.081667311,3.139149110
+"old","streams/creation.js","kind='readable' n=50000000",28648358.450378615,1.745300698
+"old","streams/creation.js","kind='transform' n=50000000",8515359.378345903,5.871742786
+"old","streams/creation.js","kind='writable' n=50000000",27115489.288160723,1.843964513
+"new","streams/creation.js","kind='duplex' n=50000000",15700910.852105381,3.184528622
+"new","streams/creation.js","kind='readable' n=50000000",27835251.74268759,1.796283377
+"new","streams/creation.js","kind='transform' n=50000000",9898382.98253685,5.051330110
+"new","streams/creation.js","kind='writable' n=50000000",26176342.722960234,1.910121690
+"old","streams/creation.js","kind='duplex' n=50000000",15890538.076765437,3.146526553
+"old","streams/creation.js","kind='readable' n=50000000",28501178.215906505,1.754313440
+"old","streams/creation.js","kind='transform' n=50000000",8707173.228413627,5.742391783
+"old","streams/creation.js","kind='writable' n=50000000",26965839.089343593,1.854197818
+"new","streams/creation.js","kind='duplex' n=50000000",15802128.942264205,3.164130617
+"new","streams/creation.js","kind='readable' n=50000000",28058287.656026322,1.782004683
+"new","streams/creation.js","kind='transform' n=50000000",9930607.98393835,5.034938453
+"new","streams/creation.js","kind='writable' n=50000000",26584208.15263143,1.880815848
+"old","streams/creation.js","kind='duplex' n=50000000",15791009.092228696,3.166358762
+"old","streams/creation.js","kind='readable' n=50000000",28488764.4329992,1.755077870
+"old","streams/creation.js","kind='transform' n=50000000",8617463.388312547,5.802171445
+"old","streams/creation.js","kind='writable' n=50000000",27196944.33235768,1.838441826
+"new","streams/creation.js","kind='duplex' n=50000000",15648070.821235687,3.195282062
+"new","streams/creation.js","kind='readable' n=50000000",28142540.42051589,1.776669741
+"new","streams/creation.js","kind='transform' n=50000000",10109112.127551155,4.946032784
+"new","streams/creation.js","kind='writable' n=50000000",26508202.54047032,1.886208615
+"old","streams/creation.js","kind='duplex' n=50000000",15777644.385367768,3.169040877
+"old","streams/creation.js","kind='readable' n=50000000",28417916.33520696,1.759453417
+"old","streams/creation.js","kind='transform' n=50000000",8896558.86771884,5.620150526
+"old","streams/creation.js","kind='writable' n=50000000",27139320.439666543,1.842345320
+"new","streams/creation.js","kind='duplex' n=50000000",15582924.54543487,3.208640320
+"new","streams/creation.js","kind='readable' n=50000000",27912598.4349856,1.791305819
+"new","streams/creation.js","kind='transform' n=50000000",9217776.028958367,5.424301897
+"new","streams/creation.js","kind='writable' n=50000000",26273863.122546595,1.903031913
+"old","streams/creation.js","kind='duplex' n=50000000",14472056.54365866,3.454933986
+"old","streams/creation.js","kind='readable' n=50000000",28413546.21771409,1.759724028
+"old","streams/creation.js","kind='transform' n=50000000",8928935.489971504,5.599771670
+"old","streams/creation.js","kind='writable' n=50000000",27368889.05372015,1.826891837
+"new","streams/creation.js","kind='duplex' n=50000000",15559214.096602663,3.213529918
+"new","streams/creation.js","kind='readable' n=50000000",28265915.66284498,1.768914922
+"new","streams/creation.js","kind='transform' n=50000000",9822788.182481248,5.090204438
+"new","streams/creation.js","kind='writable' n=50000000",26604899.978843942,1.879353053
+"old","streams/creation.js","kind='duplex' n=50000000",14455520.21713468,3.458886242
+"old","streams/creation.js","kind='readable' n=50000000",28272391.246875588,1.768509765
+"old","streams/creation.js","kind='transform' n=50000000",8945396.070070527,5.589467432
+"old","streams/creation.js","kind='writable' n=50000000",27156664.104536794,1.841168702
+"new","streams/creation.js","kind='duplex' n=50000000",15585714.807982683,3.208065887
+"new","streams/creation.js","kind='readable' n=50000000",27979012.51966633,1.787053777
+"new","streams/creation.js","kind='transform' n=50000000",9725931.344735058,5.140895841
+"new","streams/creation.js","kind='writable' n=50000000",26438340.09950648,1.891192859
+"old","streams/creation.js","kind='duplex' n=50000000",15784567.923576552,3.167650850
+"old","streams/creation.js","kind='readable' n=50000000",28457159.85423043,1.757027063
+"old","streams/creation.js","kind='transform' n=50000000",8830352.954813112,5.662287822
+"old","streams/creation.js","kind='writable' n=50000000",27176135.3719483,1.839849534
+"new","streams/creation.js","kind='duplex' n=50000000",15695730.597822055,3.185579651
+"new","streams/creation.js","kind='readable' n=50000000",27986084.485927723,1.786602196
+"new","streams/creation.js","kind='transform' n=50000000",8936362.596301014,5.595117640
+"new","streams/creation.js","kind='writable' n=50000000",26463283.979749765,1.889410250
+"old","streams/creation.js","kind='duplex' n=50000000",15823305.276693184,3.159896060
+"old","streams/creation.js","kind='readable' n=50000000",28608005.492151164,1.747762528
+"old","streams/creation.js","kind='transform' n=50000000",9015389.90543233,5.546071831
+"old","streams/creation.js","kind='writable' n=50000000",27181507.689679787,1.839485895
+"new","streams/creation.js","kind='duplex' n=50000000",15524549.421765026,3.220705390
+"new","streams/creation.js","kind='readable' n=50000000",27843587.87662006,1.795745585
+"new","streams/creation.js","kind='transform' n=50000000",10098935.573584199,4.951016831
+"new","streams/creation.js","kind='writable' n=50000000",26245369.087297462,1.905097994
+"old","streams/creation.js","kind='duplex' n=50000000",16015802.492503531,3.121916621
+"old","streams/creation.js","kind='readable' n=50000000",28534965.842013687,1.752236196
+"old","streams/creation.js","kind='transform' n=50000000",8813902.84685524,5.672855813
+"old","streams/creation.js","kind='writable' n=50000000",27284281.253054716,1.832556978
+"new","streams/creation.js","kind='duplex' n=50000000",15704630.752291447,3.183774314
+"new","streams/creation.js","kind='readable' n=50000000",27814038.569006342,1.797653364
+"new","streams/creation.js","kind='transform' n=50000000",9983462.86099682,5.008282266
+"new","streams/creation.js","kind='writable' n=50000000",26496739.33245514,1.887024640
+"old","streams/creation.js","kind='duplex' n=50000000",15820986.514690405,3.160359182
+"old","streams/creation.js","kind='readable' n=50000000",28088933.894901305,1.780060439
+"old","streams/creation.js","kind='transform' n=50000000",8640737.08589713,5.786543382
+"old","streams/creation.js","kind='writable' n=50000000",27097688.659072742,1.845175824
+"new","streams/creation.js","kind='duplex' n=50000000",15711050.069310429,3.182473468
+"new","streams/creation.js","kind='readable' n=50000000",28190763.01199794,1.773630603
+"new","streams/creation.js","kind='transform' n=50000000",9894871.484725421,5.053122729
+"new","streams/creation.js","kind='writable' n=50000000",26506807.29270126,1.886307900
+"old","streams/creation.js","kind='duplex' n=50000000",15804579.609901471,3.163639985
+"old","streams/creation.js","kind='readable' n=50000000",28415991.00596148,1.759572629
+"old","streams/creation.js","kind='transform' n=50000000",8920647.524818877,5.604974287
+"old","streams/creation.js","kind='writable' n=50000000",27343342.648280498,1.828598670
+"new","streams/creation.js","kind='duplex' n=50000000",15849612.908200664,3.154651176
+"new","streams/creation.js","kind='readable' n=50000000",28051477.49300335,1.782437307
+"new","streams/creation.js","kind='transform' n=50000000",9652679.72229103,5.179908734
+"new","streams/creation.js","kind='writable' n=50000000",26569260.48439797,1.881873981
+"old","streams/creation.js","kind='duplex' n=50000000",14488593.406274058,3.450990624
+"old","streams/creation.js","kind='readable' n=50000000",28477469.779817283,1.755773964
+"old","streams/creation.js","kind='transform' n=50000000",8865638.388919786,5.639751793
+"old","streams/creation.js","kind='writable' n=50000000",27435605.448738016,1.822449302
+"new","streams/creation.js","kind='duplex' n=50000000",15816953.509807449,3.161165010
+"new","streams/creation.js","kind='readable' n=50000000",28129881.26753495,1.777469287
+"new","streams/creation.js","kind='transform' n=50000000",9754042.14353766,5.126079964
+"new","streams/creation.js","kind='writable' n=50000000",26463030.597676422,1.889428341
+"old","streams/creation.js","kind='duplex' n=50000000",15999010.51879585,3.125193270
+"old","streams/creation.js","kind='readable' n=50000000",28441061.441618655,1.758021588
+"old","streams/creation.js","kind='transform' n=50000000",8815586.121148914,5.671772621
+"old","streams/creation.js","kind='writable' n=50000000",27395649.06454737,1.825107333
+"new","streams/creation.js","kind='duplex' n=50000000",15572952.656749789,3.210694921
+"new","streams/creation.js","kind='readable' n=50000000",28117964.960733853,1.778222573
+"new","streams/creation.js","kind='transform' n=50000000",10210834.257396474,4.896759534
+"new","streams/creation.js","kind='writable' n=50000000",26379696.078476842,1.895397121
+"old","streams/destroy.js","kind='duplex' n=1000000",1409574.4646361475,0.709433964
+"old","streams/destroy.js","kind='readable' n=1000000",2280525.612989093,0.438495404
+"old","streams/destroy.js","kind='transform' n=1000000",1281721.2076189062,0.780200869
+"old","streams/destroy.js","kind='writable' n=1000000",1895944.4701222738,0.527441608
+"new","streams/destroy.js","kind='duplex' n=1000000",1043828.096497703,0.958012151
+"new","streams/destroy.js","kind='readable' n=1000000",1384925.2961670018,0.722060607
+"new","streams/destroy.js","kind='transform' n=1000000",954943.1421362249,1.047182765
+"new","streams/destroy.js","kind='writable' n=1000000",1281537.244318614,0.780312866
+"old","streams/destroy.js","kind='duplex' n=1000000",1359613.0510801293,0.735503384
+"old","streams/destroy.js","kind='readable' n=1000000",2230767.713332393,0.448276167
+"old","streams/destroy.js","kind='transform' n=1000000",1287336.8793233647,0.776797446
+"old","streams/destroy.js","kind='writable' n=1000000",1839137.073059915,0.543733262
+"new","streams/destroy.js","kind='duplex' n=1000000",1010042.6898280013,0.990057163
+"new","streams/destroy.js","kind='readable' n=1000000",1449526.859430479,0.689880283
+"new","streams/destroy.js","kind='transform' n=1000000",973117.547942451,1.027625082
+"new","streams/destroy.js","kind='writable' n=1000000",1243393.1203041247,0.804250871
+"old","streams/destroy.js","kind='duplex' n=1000000",1399646.9250666827,0.714465900
+"old","streams/destroy.js","kind='readable' n=1000000",2244224.282900378,0.445588263
+"old","streams/destroy.js","kind='transform' n=1000000",1260920.741549657,0.793071259
+"old","streams/destroy.js","kind='writable' n=1000000",1944275.0511008466,0.514330521
+"new","streams/destroy.js","kind='duplex' n=1000000",1078775.9665906017,0.926976528
+"new","streams/destroy.js","kind='readable' n=1000000",1384199.4231058224,0.722439255
+"new","streams/destroy.js","kind='transform' n=1000000",993718.26069465,1.006321449
+"new","streams/destroy.js","kind='writable' n=1000000",1273534.5767152808,0.785216215
+"old","streams/destroy.js","kind='duplex' n=1000000",1401126.4008220062,0.713711482
+"old","streams/destroy.js","kind='readable' n=1000000",2253063.3499837792,0.443840161
+"old","streams/destroy.js","kind='transform' n=1000000",1269801.6375181607,0.787524579
+"old","streams/destroy.js","kind='writable' n=1000000",1742341.5277961083,0.573940289
+"new","streams/destroy.js","kind='duplex' n=1000000",1099050.5335412254,0.909876270
+"new","streams/destroy.js","kind='readable' n=1000000",1406852.6127869063,0.710806513
+"new","streams/destroy.js","kind='transform' n=1000000",1003649.8439165414,0.996363429
+"new","streams/destroy.js","kind='writable' n=1000000",1277103.235617035,0.783022055
+"old","streams/destroy.js","kind='duplex' n=1000000",1422324.7105158516,0.703074335
+"old","streams/destroy.js","kind='readable' n=1000000",2225328.22656704,0.449371912
+"old","streams/destroy.js","kind='transform' n=1000000",1270512.0324337531,0.787084242
+"old","streams/destroy.js","kind='writable' n=1000000",1922587.3288190726,0.520132420
+"new","streams/destroy.js","kind='duplex' n=1000000",1091513.9114686884,0.916158731
+"new","streams/destroy.js","kind='readable' n=1000000",1416994.4462943152,0.705719068
+"new","streams/destroy.js","kind='transform' n=1000000",938867.5421392435,1.065112974
+"new","streams/destroy.js","kind='writable' n=1000000",1304657.1977465313,0.766484868
+"old","streams/destroy.js","kind='duplex' n=1000000",1411745.706774719,0.708342866
+"old","streams/destroy.js","kind='readable' n=1000000",2198514.168496043,0.454852652
+"old","streams/destroy.js","kind='transform' n=1000000",1282644.8884612452,0.779639017
+"old","streams/destroy.js","kind='writable' n=1000000",1929607.9409078408,0.518239990
+"new","streams/destroy.js","kind='duplex' n=1000000",1014105.272376005,0.986090919
+"new","streams/destroy.js","kind='readable' n=1000000",1352745.5695408059,0.739237313
+"new","streams/destroy.js","kind='transform' n=1000000",935986.6593297294,1.068391296
+"new","streams/destroy.js","kind='writable' n=1000000",1266169.0788477,0.789783937
+"old","streams/destroy.js","kind='duplex' n=1000000",1367844.4818492462,0.731077263
+"old","streams/destroy.js","kind='readable' n=1000000",2193155.922268966,0.455963933
+"old","streams/destroy.js","kind='transform' n=1000000",1226257.7778449876,0.815489221
+"old","streams/destroy.js","kind='writable' n=1000000",1862878.706987514,0.536803602
+"new","streams/destroy.js","kind='duplex' n=1000000",881100.5909247375,1.134944194
+"new","streams/destroy.js","kind='readable' n=1000000",1391595.4260262244,0.718599660
+"new","streams/destroy.js","kind='transform' n=1000000",995603.6968262651,1.004415716
+"new","streams/destroy.js","kind='writable' n=1000000",1307470.9136425005,0.764835370
+"old","streams/destroy.js","kind='duplex' n=1000000",1390308.04389371,0.719265061
+"old","streams/destroy.js","kind='readable' n=1000000",2179606.027535691,0.458798511
+"old","streams/destroy.js","kind='transform' n=1000000",1257064.8711368847,0.795503894
+"old","streams/destroy.js","kind='writable' n=1000000",1899607.6468683027,0.526424497
+"new","streams/destroy.js","kind='duplex' n=1000000",1017501.4585425534,0.982799574
+"new","streams/destroy.js","kind='readable' n=1000000",1475200.408151368,0.677873999
+"new","streams/destroy.js","kind='transform' n=1000000",950340.4438309021,1.052254491
+"new","streams/destroy.js","kind='writable' n=1000000",1226740.7003697949,0.815168193
+"old","streams/destroy.js","kind='duplex' n=1000000",1376623.4189590162,0.726415072
+"old","streams/destroy.js","kind='readable' n=1000000",2144140.694395616,0.466387305
+"old","streams/destroy.js","kind='transform' n=1000000",1248968.7374419705,0.800660553
+"old","streams/destroy.js","kind='writable' n=1000000",1883656.984940383,0.530882219
+"new","streams/destroy.js","kind='duplex' n=1000000",1020790.4315743416,0.979633007
+"new","streams/destroy.js","kind='readable' n=1000000",1373064.9334105523,0.728297676
+"new","streams/destroy.js","kind='transform' n=1000000",988438.8466086204,1.011696377
+"new","streams/destroy.js","kind='writable' n=1000000",1258148.9632091993,0.794818443
+"old","streams/destroy.js","kind='duplex' n=1000000",1376809.0474054671,0.726317133
+"old","streams/destroy.js","kind='readable' n=1000000",2222032.159467,0.450038491
+"old","streams/destroy.js","kind='transform' n=1000000",1245319.2543217095,0.803006937
+"old","streams/destroy.js","kind='writable' n=1000000",1885369.0241180796,0.530400143
+"new","streams/destroy.js","kind='duplex' n=1000000",1014574.8321389491,0.985634542
+"new","streams/destroy.js","kind='readable' n=1000000",1299478.494849821,0.769539476
+"new","streams/destroy.js","kind='transform' n=1000000",994167.0410318646,1.005867182
+"new","streams/destroy.js","kind='writable' n=1000000",1351787.4800074182,0.739761253
+"old","streams/destroy.js","kind='duplex' n=1000000",1381747.0834441816,0.723721448
+"old","streams/destroy.js","kind='readable' n=1000000",1874820.4367291466,0.533384414
+"old","streams/destroy.js","kind='transform' n=1000000",1248931.398683644,0.800684490
+"old","streams/destroy.js","kind='writable' n=1000000",1908368.5614034971,0.524007794
+"new","streams/destroy.js","kind='duplex' n=1000000",1016336.6470986324,0.983925949
+"new","streams/destroy.js","kind='readable' n=1000000",1398651.736370814,0.714974267
+"new","streams/destroy.js","kind='transform' n=1000000",939157.4076773544,1.064784233
+"new","streams/destroy.js","kind='writable' n=1000000",1163081.507271427,0.859784971
+"old","streams/destroy.js","kind='duplex' n=1000000",1367301.221273314,0.731367737
+"old","streams/destroy.js","kind='readable' n=1000000",2234822.419200364,0.447462846
+"old","streams/destroy.js","kind='transform' n=1000000",1273594.5619101652,0.785179232
+"old","streams/destroy.js","kind='writable' n=1000000",1867636.266220456,0.535436165
+"new","streams/destroy.js","kind='duplex' n=1000000",1022160.9335435056,0.978319526
+"new","streams/destroy.js","kind='readable' n=1000000",1518966.6138383748,0.658342317
+"new","streams/destroy.js","kind='transform' n=1000000",949404.0219262695,1.053292357
+"new","streams/destroy.js","kind='writable' n=1000000",1303731.181644266,0.767029288
+"old","streams/destroy.js","kind='duplex' n=1000000",1369914.550634663,0.729972537
+"old","streams/destroy.js","kind='readable' n=1000000",2187981.321019672,0.457042293
+"old","streams/destroy.js","kind='transform' n=1000000",1218072.2450756193,0.820969367
+"old","streams/destroy.js","kind='writable' n=1000000",1912334.878369239,0.522920965
+"new","streams/destroy.js","kind='duplex' n=1000000",980056.4289246206,1.020349411
+"new","streams/destroy.js","kind='readable' n=1000000",1415252.8499445515,0.706587519
+"new","streams/destroy.js","kind='transform' n=1000000",965960.8709671585,1.035238621
+"new","streams/destroy.js","kind='writable' n=1000000",1303400.7405404255,0.767223747
+"old","streams/destroy.js","kind='duplex' n=1000000",1352118.0753875596,0.739580380
+"old","streams/destroy.js","kind='readable' n=1000000",2201631.6093710205,0.454208595
+"old","streams/destroy.js","kind='transform' n=1000000",1265305.7792670652,0.790322795
+"old","streams/destroy.js","kind='writable' n=1000000",1746726.1081986327,0.572499601
+"new","streams/destroy.js","kind='duplex' n=1000000",1048620.7359857678,0.953633631
+"new","streams/destroy.js","kind='readable' n=1000000",1428733.2183210712,0.699920732
+"new","streams/destroy.js","kind='transform' n=1000000",971843.4748432933,1.028972284
+"new","streams/destroy.js","kind='writable' n=1000000",1250599.809554159,0.799616306
+"old","streams/destroy.js","kind='duplex' n=1000000",1332813.6017807766,0.750292463
+"old","streams/destroy.js","kind='readable' n=1000000",2029351.0151282558,0.492768374
+"old","streams/destroy.js","kind='transform' n=1000000",1197317.1733254371,0.835200582
+"old","streams/destroy.js","kind='writable' n=1000000",1813202.7962705828,0.551510290
+"new","streams/destroy.js","kind='duplex' n=1000000",1016403.0560629773,0.983861662
+"new","streams/destroy.js","kind='readable' n=1000000",1254065.1666712111,0.797406727
+"new","streams/destroy.js","kind='transform' n=1000000",990934.8742597883,1.009148054
+"new","streams/destroy.js","kind='writable' n=1000000",1219805.263749539,0.819802988
+"old","streams/destroy.js","kind='duplex' n=1000000",1375763.9233572208,0.726868893
+"old","streams/destroy.js","kind='readable' n=1000000",2219485.783674196,0.450554812
+"old","streams/destroy.js","kind='transform' n=1000000",1226885.301487991,0.815072117
+"old","streams/destroy.js","kind='writable' n=1000000",1740095.0859994926,0.574681239
+"new","streams/destroy.js","kind='duplex' n=1000000",978672.2679629881,1.021792517
+"new","streams/destroy.js","kind='readable' n=1000000",1410181.1394877883,0.709128758
+"new","streams/destroy.js","kind='transform' n=1000000",927660.3131462287,1.077980793
+"new","streams/destroy.js","kind='writable' n=1000000",1222793.4509980516,0.817799604
+"old","streams/destroy.js","kind='duplex' n=1000000",1356265.8539849336,0.737318570
+"old","streams/destroy.js","kind='readable' n=1000000",2146341.697941727,0.465909040
+"old","streams/destroy.js","kind='transform' n=1000000",1241733.809076324,0.805325580
+"old","streams/destroy.js","kind='writable' n=1000000",1907392.1076501587,0.524276050
+"new","streams/destroy.js","kind='duplex' n=1000000",993408.0471883129,1.006635695
+"new","streams/destroy.js","kind='readable' n=1000000",1373469.0982081953,0.728083363
+"new","streams/destroy.js","kind='transform' n=1000000",900113.1834720972,1.110971396
+"new","streams/destroy.js","kind='writable' n=1000000",1213476.976259624,0.824078264
+"old","streams/destroy.js","kind='duplex' n=1000000",1391666.6652170138,0.718562875
+"old","streams/destroy.js","kind='readable' n=1000000",2201661.211507939,0.454202488
+"old","streams/destroy.js","kind='transform' n=1000000",1244771.8136778297,0.803360093
+"old","streams/destroy.js","kind='writable' n=1000000",1854525.74484815,0.539221417
+"new","streams/destroy.js","kind='duplex' n=1000000",974839.0283894044,1.025810386
+"new","streams/destroy.js","kind='readable' n=1000000",1293242.864873586,0.773249965
+"new","streams/destroy.js","kind='transform' n=1000000",908922.4923634195,1.100203822
+"new","streams/destroy.js","kind='writable' n=1000000",1215952.5001093566,0.822400546
+"old","streams/destroy.js","kind='duplex' n=1000000",1322638.4838435284,0.756064497
+"old","streams/destroy.js","kind='readable' n=1000000",2195953.3450475293,0.455383081
+"old","streams/destroy.js","kind='transform' n=1000000",1299668.8785510368,0.769426749
+"old","streams/destroy.js","kind='writable' n=1000000",1867998.7988767724,0.535332250
+"new","streams/destroy.js","kind='duplex' n=1000000",980058.8647855662,1.020346875
+"new","streams/destroy.js","kind='readable' n=1000000",1388226.5814116371,0.720343504
+"new","streams/destroy.js","kind='transform' n=1000000",920738.4607147264,1.086084749
+"new","streams/destroy.js","kind='writable' n=1000000",1227393.6037843588,0.814734570
+"old","streams/destroy.js","kind='duplex' n=1000000",1316930.389395851,0.759341578
+"old","streams/destroy.js","kind='readable' n=1000000",2208554.8602200327,0.452784768
+"old","streams/destroy.js","kind='transform' n=1000000",1263183.0344726276,0.791650911
+"old","streams/destroy.js","kind='writable' n=1000000",1823356.0251935583,0.548439244
+"new","streams/destroy.js","kind='duplex' n=1000000",967281.2306666479,1.033825498
+"new","streams/destroy.js","kind='readable' n=1000000",1344705.6416221552,0.743657176
+"new","streams/destroy.js","kind='transform' n=1000000",923406.5701304565,1.082946594
+"new","streams/destroy.js","kind='writable' n=1000000",1285793.3710071563,0.777729939
+"old","streams/destroy.js","kind='duplex' n=1000000",1367610.742402951,0.731202212
+"old","streams/destroy.js","kind='readable' n=1000000",2181194.2206746386,0.458464446
+"old","streams/destroy.js","kind='transform' n=1000000",1256727.7316787564,0.795717302
+"old","streams/destroy.js","kind='writable' n=1000000",1887658.4927385582,0.529756841
+"new","streams/destroy.js","kind='duplex' n=1000000",988044.9768941978,1.012099675
+"new","streams/destroy.js","kind='readable' n=1000000",1463102.1162480193,0.683479293
+"new","streams/destroy.js","kind='transform' n=1000000",974553.4115082722,1.026111025
+"new","streams/destroy.js","kind='writable' n=1000000",1285683.3771512227,0.777796476
+"old","streams/destroy.js","kind='duplex' n=1000000",1386761.3735192446,0.721104596
+"old","streams/destroy.js","kind='readable' n=1000000",2197636.0227090963,0.455034405
+"old","streams/destroy.js","kind='transform' n=1000000",1297876.873826609,0.770489112
+"old","streams/destroy.js","kind='writable' n=1000000",1957131.1212620067,0.510951969
+"new","streams/destroy.js","kind='duplex' n=1000000",1021607.4167448009,0.978849589
+"new","streams/destroy.js","kind='readable' n=1000000",1428257.6832061587,0.700153769
+"new","streams/destroy.js","kind='transform' n=1000000",983186.6538302996,1.017100869
+"new","streams/destroy.js","kind='writable' n=1000000",1293970.8421087577,0.772814941
+"old","streams/destroy.js","kind='duplex' n=1000000",1387188.5560029235,0.720882533
+"old","streams/destroy.js","kind='readable' n=1000000",2234009.5266878856,0.447625665
+"old","streams/destroy.js","kind='transform' n=1000000",1285325.4988048458,0.778013041
+"old","streams/destroy.js","kind='writable' n=1000000",1879657.9203783937,0.532011697
+"new","streams/destroy.js","kind='duplex' n=1000000",1076593.6316528209,0.928855578
+"new","streams/destroy.js","kind='readable' n=1000000",1517042.2969081092,0.659177402
+"new","streams/destroy.js","kind='transform' n=1000000",1026329.2104296563,0.974346233
+"new","streams/destroy.js","kind='writable' n=1000000",1352242.733314957,0.739512201
+"old","streams/destroy.js","kind='duplex' n=1000000",1395741.6313634757,0.716464980
+"old","streams/destroy.js","kind='readable' n=1000000",2252220.1530425036,0.444006328
+"old","streams/destroy.js","kind='transform' n=1000000",1300272.3519261808,0.769069648
+"old","streams/destroy.js","kind='writable' n=1000000",1896913.085426597,0.527172282
+"new","streams/destroy.js","kind='duplex' n=1000000",1072772.5976425926,0.932164004
+"new","streams/destroy.js","kind='readable' n=1000000",1456681.9630945926,0.686491647
+"new","streams/destroy.js","kind='transform' n=1000000",987928.1414936053,1.012219369
+"new","streams/destroy.js","kind='writable' n=1000000",1300003.6034799884,0.769228637
+"old","streams/destroy.js","kind='duplex' n=1000000",1389326.1696526888,0.719773385
+"old","streams/destroy.js","kind='readable' n=1000000",2172497.467742383,0.460299731
+"old","streams/destroy.js","kind='transform' n=1000000",1255447.220713227,0.796528905
+"old","streams/destroy.js","kind='writable' n=1000000",1853805.5947330075,0.539430889
+"new","streams/destroy.js","kind='duplex' n=1000000",974340.4082275464,1.026335346
+"new","streams/destroy.js","kind='readable' n=1000000",1468713.4743810163,0.680867996
+"new","streams/destroy.js","kind='transform' n=1000000",974680.4349128196,1.025977299
+"new","streams/destroy.js","kind='writable' n=1000000",1342375.4274462312,0.744948082
+"old","streams/destroy.js","kind='duplex' n=1000000",1365915.1223184096,0.732109912
+"old","streams/destroy.js","kind='readable' n=1000000",2105898.4609089536,0.474856703
+"old","streams/destroy.js","kind='transform' n=1000000",1189212.411614909,0.840892670
+"old","streams/destroy.js","kind='writable' n=1000000",1838172.7523171457,0.544018509
+"new","streams/destroy.js","kind='duplex' n=1000000",1004085.6334793983,0.995930991
+"new","streams/destroy.js","kind='readable' n=1000000",1376707.7481398422,0.726370576
+"new","streams/destroy.js","kind='transform' n=1000000",974750.9567597345,1.025903071
+"new","streams/destroy.js","kind='writable' n=1000000",1259526.1409996615,0.793949381
+"old","streams/destroy.js","kind='duplex' n=1000000",1349674.4756573373,0.740919398
+"old","streams/destroy.js","kind='readable' n=1000000",2143295.301308365,0.466571265
+"old","streams/destroy.js","kind='transform' n=1000000",1235276.5397345617,0.809535329
+"old","streams/destroy.js","kind='writable' n=1000000",1910942.4531986688,0.523301996
+"new","streams/destroy.js","kind='duplex' n=1000000",1044537.865148881,0.957361177
+"new","streams/destroy.js","kind='readable' n=1000000",1438511.272255605,0.695163131
+"new","streams/destroy.js","kind='transform' n=1000000",848280.3677774164,1.178855527
+"new","streams/destroy.js","kind='writable' n=1000000",1208479.8674589554,0.827485858
+"old","streams/destroy.js","kind='duplex' n=1000000",1300665.4234221533,0.768837229
+"old","streams/destroy.js","kind='readable' n=1000000",2095274.8283990868,0.477264360
+"old","streams/destroy.js","kind='transform' n=1000000",1229026.956105661,0.813651804
+"old","streams/destroy.js","kind='writable' n=1000000",1893739.8554486402,0.528055634
+"new","streams/destroy.js","kind='duplex' n=1000000",1025062.0653297988,0.975550685
+"new","streams/destroy.js","kind='readable' n=1000000",1420385.8766572273,0.704034035
+"new","streams/destroy.js","kind='transform' n=1000000",954540.7098273035,1.047624255
+"new","streams/destroy.js","kind='writable' n=1000000",1276144.200333486,0.783610504
+"old","streams/destroy.js","kind='duplex' n=1000000",1300773.0466900244,0.768773617
+"old","streams/destroy.js","kind='readable' n=1000000",2191454.767070788,0.456317883
+"old","streams/destroy.js","kind='transform' n=1000000",1291471.2768561356,0.774310678
+"old","streams/destroy.js","kind='writable' n=1000000",1892000.5413013548,0.528541075
+"new","streams/destroy.js","kind='duplex' n=1000000",1021888.4333110417,0.978580408
+"new","streams/destroy.js","kind='readable' n=1000000",1413175.830779362,0.707626028
+"new","streams/destroy.js","kind='transform' n=1000000",966898.8539543198,1.034234342
+"new","streams/destroy.js","kind='writable' n=1000000",1289063.350378979,0.775757064
+"old","streams/destroy.js","kind='duplex' n=1000000",1397317.2152233631,0.715657110
+"old","streams/destroy.js","kind='readable' n=1000000",2262451.9870923497,0.441998330
+"old","streams/destroy.js","kind='transform' n=1000000",1259465.0387738466,0.793987899
+"old","streams/destroy.js","kind='writable' n=1000000",1874691.970534004,0.533420965
+"new","streams/destroy.js","kind='duplex' n=1000000",1032818.3387463841,0.968224481
+"new","streams/destroy.js","kind='readable' n=1000000",1474772.0356009558,0.678070899
+"new","streams/destroy.js","kind='transform' n=1000000",943700.9064847401,1.059657772
+"new","streams/destroy.js","kind='writable' n=1000000",1275107.3888748595,0.784247671
+"old","streams/pipe.js","n=5000000",17718690.779262777,0.282187892
+"new","streams/pipe.js","n=5000000",12717981.076666683,0.393144161
+"old","streams/pipe.js","n=5000000",17696285.455184795,0.282545171
+"new","streams/pipe.js","n=5000000",13925187.442909865,0.359061594
+"old","streams/pipe.js","n=5000000",17768188.262881383,0.281401791
+"new","streams/pipe.js","n=5000000",12742162.050199196,0.392398086
+"old","streams/pipe.js","n=5000000",17860304.32236832,0.279950437
+"new","streams/pipe.js","n=5000000",14120677.615395758,0.354090656
+"old","streams/pipe.js","n=5000000",17292830.968477596,0.289137158
+"new","streams/pipe.js","n=5000000",13548627.858513555,0.369041061
+"old","streams/pipe.js","n=5000000",17472609.29118859,0.286162182
+"new","streams/pipe.js","n=5000000",13080960.752929218,0.382234921
+"old","streams/pipe.js","n=5000000",14623381.407007536,0.341918183
+"new","streams/pipe.js","n=5000000",13922166.346999805,0.359139510
+"old","streams/pipe.js","n=5000000",15302541.91962266,0.326743101
+"new","streams/pipe.js","n=5000000",12578681.508189246,0.397497941
+"old","streams/pipe.js","n=5000000",17858252.68376768,0.279982599
+"new","streams/pipe.js","n=5000000",12418884.904499408,0.402612637
+"old","streams/pipe.js","n=5000000",14444793.39213335,0.346145484
+"new","streams/pipe.js","n=5000000",14053764.175796524,0.355776569
+"old","streams/pipe.js","n=5000000",16264415.521492152,0.307419593
+"new","streams/pipe.js","n=5000000",14166093.84649589,0.352955448
+"old","streams/pipe.js","n=5000000",18011151.45312853,0.277605794
+"new","streams/pipe.js","n=5000000",13948442.9672535,0.358462949
+"old","streams/pipe.js","n=5000000",17890669.71661079,0.279475284
+"new","streams/pipe.js","n=5000000",14149438.49665408,0.353370913
+"old","streams/pipe.js","n=5000000",15633818.45071986,0.319819500
+"new","streams/pipe.js","n=5000000",14249927.668792145,0.350878974
+"old","streams/pipe.js","n=5000000",17130638.357752305,0.291874704
+"new","streams/pipe.js","n=5000000",14131842.584478403,0.353810904
+"old","streams/pipe.js","n=5000000",17630264.213098526,0.283603237
+"new","streams/pipe.js","n=5000000",13752815.09810447,0.363561930
+"old","streams/pipe.js","n=5000000",15116870.033919232,0.330756300
+"new","streams/pipe.js","n=5000000",14326342.072671333,0.349007442
+"old","streams/pipe.js","n=5000000",17715813.5624913,0.282233722
+"new","streams/pipe.js","n=5000000",13906369.581741182,0.359547470
+"old","streams/pipe.js","n=5000000",15908725.355507193,0.314292936
+"new","streams/pipe.js","n=5000000",13965707.300689965,0.358019819
+"old","streams/pipe.js","n=5000000",17581601.48698153,0.284388200
+"new","streams/pipe.js","n=5000000",13906424.619931923,0.359546047
+"old","streams/pipe.js","n=5000000",17870773.3427407,0.279786437
+"new","streams/pipe.js","n=5000000",12972024.402453424,0.385444850
+"old","streams/pipe.js","n=5000000",17423553.375505067,0.286967870
+"new","streams/pipe.js","n=5000000",14838934.436536485,0.336951418
+"old","streams/pipe.js","n=5000000",15102320.121716969,0.331074958
+"new","streams/pipe.js","n=5000000",12764052.311518053,0.391725126
+"old","streams/pipe.js","n=5000000",17826673.57034312,0.280478575
+"new","streams/pipe.js","n=5000000",13879496.40234848,0.360243618
+"old","streams/pipe.js","n=5000000",17794918.602625687,0.280979088
+"new","streams/pipe.js","n=5000000",14360434.539741281,0.348178879
+"old","streams/pipe.js","n=5000000",17040112.02496815,0.293425301
+"new","streams/pipe.js","n=5000000",13750079.92233955,0.363634250
+"old","streams/pipe.js","n=5000000",17794194.622651324,0.280990520
+"new","streams/pipe.js","n=5000000",13889244.916533582,0.359990772
+"old","streams/pipe.js","n=5000000",14534850.003458422,0.344000798
+"new","streams/pipe.js","n=5000000",13998678.933470106,0.357176561
+"old","streams/pipe.js","n=5000000",17306986.515469138,0.288900670
+"new","streams/pipe.js","n=5000000",14354472.7845311,0.348323486
+"old","streams/pipe.js","n=5000000",15310373.827334834,0.326575958
+"new","streams/pipe.js","n=5000000",13966997.420901744,0.357986749
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2949621.9322088393,0.033902650
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1280627.79857994,0.078086701
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2556609.861693031,0.039114298
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1192015.5366351432,0.083891524
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2873998.034472744,0.034794735
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1235652.239467081,0.080928919
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2649877.95854568,0.037737587
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1158593.5175209695,0.086311548
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2748833.3264154363,0.036379070
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1284257.1913554643,0.077866023
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2666160.807089535,0.037507115
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1159722.073069078,0.086227556
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2763749.3698305967,0.036182731
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1221118.248560842,0.081892151
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2608017.227518598,0.038343305
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1152956.421809891,0.086733547
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2935848.165213799,0.034061707
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1286857.9273845633,0.077708656
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2705882.8463668716,0.036956515
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1176337.662079479,0.085009605
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2812006.615864205,0.035561794
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1260111.703358011,0.079358044
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2656805.313823172,0.037639190
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1141198.9221330532,0.087627142
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2848085.7004936556,0.035111303
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1264549.4795259766,0.079079547
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2588462.5184932705,0.038632972
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1172162.8483969818,0.085312378
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2909104.8727942985,0.034374835
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1269712.1058580314,0.078758011
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2616932.9378484706,0.038212672
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1178455.4538240791,0.084856835
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2889292.3432510504,0.034610551
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1253267.1264059886,0.079791449
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2691854.8187942933,0.037149106
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1171300.440530781,0.085375192
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2820812.405255963,0.035450780
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1273380.2968720621,0.078531135
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2571302.2102913796,0.038890800
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1166978.2770961444,0.085691398
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2825944.510488338,0.035386399
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1213814.0339552094,0.082384943
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2716437.082006546,0.036812927
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1154205.7022401597,0.086639669
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2910448.80808681,0.034358962
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1262110.9643921137,0.079232336
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2710752.4653073833,0.036890126
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1150099.8539695214,0.086948972
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2897378.4201343,0.034513959
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1252061.3782023052,0.079868289
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2743815.289427789,0.036445602
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1156132.5838973622,0.086495270
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2845867.2870202013,0.035138673
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1274419.632485415,0.078467090
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2577604.917863975,0.038795705
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1141376.484060506,0.087613510
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2833022.6640679915,0.035297988
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1243040.866783335,0.080447878
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2720578.07713568,0.036756894
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1143631.3616838937,0.087440764
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2885869.6279536877,0.034651600
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1282263.5953119674,0.077987085
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2706083.039242994,0.036953781
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1187094.4551470901,0.084239295
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2925619.660140711,0.034180793
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1245625.4102700844,0.080280957
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2614594.472867556,0.038246849
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1143001.3700357322,0.087488959
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2970211.1582516627,0.033667640
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1270583.2743390931,0.078704011
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2570492.5449289964,0.038903050
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1133262.1168753847,0.088240839
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2813273.236940652,0.035545783
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1263212.2208405207,0.079163262
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2729897.7969943173,0.036631408
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1146193.5091222045,0.087245303
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2862175.8707468854,0.034938454
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1224650.9349885355,0.081655921
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2574910.851436502,0.038836296
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1123757.3014164085,0.088987186
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2882482.846200458,0.034692314
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1253716.5015256666,0.079762849
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2553210.567820243,0.039166374
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1184249.6875830898,0.084441652
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2908536.5314515177,0.034381552
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1266801.3648112528,0.078938974
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2567893.1694812058,0.038942430
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1172779.5612106256,0.085267516
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2864344.7199915424,0.034911999
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1263830.3322944858,0.079124545
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2621740.6585676204,0.038142598
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1142449.438558075,0.087531226
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",3007296.0309737055,0.033252463
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1264053.5898047504,0.079110570
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2676440.384605554,0.037363059
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1161528.8721347898,0.086093426
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2928042.391963507,0.034152511
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1255807.749798088,0.079630023
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2629248.6719467766,0.038033679
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1152793.059650885,0.086745838
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2866386.708587763,0.034887128
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1248653.919858045,0.080086242
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2577884.330330098,0.038791500
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1169017.1002418601,0.085541948
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2757166.7310557007,0.036269116
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1202894.1681802182,0.083132833
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2563930.2548410785,0.039002621
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1127285.2622749219,0.088708691
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2804196.581134745,0.035660838
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1255997.355974846,0.079618002
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2649426.81108127,0.037744013
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1147834.626047646,0.087120564
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",3039142.237357556,0.032904021
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1273562.7252438955,0.078519886
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2722206.7994083664,0.036734902
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1154245.2563405577,0.086636700
+"old","streams/readable-async-iterator.js","sync='yes' n=100000",2880973.4463558425,0.034710490
+"old","streams/readable-async-iterator.js","sync='no' n=100000",1268912.683567729,0.078807629
+"new","streams/readable-async-iterator.js","sync='yes' n=100000",2565630.034968768,0.038976781
+"new","streams/readable-async-iterator.js","sync='no' n=100000",1150238.1355265551,0.086938519
+"old","streams/readable-bigread.js","n=1000",16324.909582039543,0.061256082
+"new","streams/readable-bigread.js","n=1000",16468.879811827897,0.060720584
+"old","streams/readable-bigread.js","n=1000",16264.295848452282,0.061484371
+"new","streams/readable-bigread.js","n=1000",15934.226064282811,0.062757990
+"old","streams/readable-bigread.js","n=1000",16506.54901458791,0.060582015
+"new","streams/readable-bigread.js","n=1000",16148.572551773857,0.061924978
+"old","streams/readable-bigread.js","n=1000",16768.71238641566,0.059634871
+"new","streams/readable-bigread.js","n=1000",16166.694397936457,0.061855564
+"old","streams/readable-bigread.js","n=1000",16800.13477740124,0.059523332
+"new","streams/readable-bigread.js","n=1000",15996.171668226987,0.062514958
+"old","streams/readable-bigread.js","n=1000",16935.946809610574,0.059046005
+"new","streams/readable-bigread.js","n=1000",16129.420404761999,0.061998508
+"old","streams/readable-bigread.js","n=1000",16463.80623180091,0.060739296
+"new","streams/readable-bigread.js","n=1000",16120.732420974035,0.062031921
+"old","streams/readable-bigread.js","n=1000",16314.729402674522,0.061294305
+"new","streams/readable-bigread.js","n=1000",16011.705453341898,0.062454309
+"old","streams/readable-bigread.js","n=1000",16837.35393911158,0.059391755
+"new","streams/readable-bigread.js","n=1000",16195.237343470602,0.061746548
+"old","streams/readable-bigread.js","n=1000",16953.299204420662,0.058985569
+"new","streams/readable-bigread.js","n=1000",16216.458586529685,0.061665745
+"old","streams/readable-bigread.js","n=1000",16570.869640730125,0.060346863
+"new","streams/readable-bigread.js","n=1000",16101.32136459858,0.062106704
+"old","streams/readable-bigread.js","n=1000",16894.670094820493,0.059190265
+"new","streams/readable-bigread.js","n=1000",16311.700945842136,0.061305685
+"old","streams/readable-bigread.js","n=1000",16296.38137547847,0.061363316
+"new","streams/readable-bigread.js","n=1000",16304.494920986786,0.061332780
+"old","streams/readable-bigread.js","n=1000",16441.6846820946,0.060821018
+"new","streams/readable-bigread.js","n=1000",16487.932531643888,0.060650418
+"old","streams/readable-bigread.js","n=1000",16843.65104934009,0.059369551
+"new","streams/readable-bigread.js","n=1000",16448.463001337226,0.060795954
+"old","streams/readable-bigread.js","n=1000",17093.774566959135,0.058500830
+"new","streams/readable-bigread.js","n=1000",16064.287737353265,0.062249881
+"old","streams/readable-bigread.js","n=1000",16552.39828857471,0.060414206
+"new","streams/readable-bigread.js","n=1000",15885.932396842793,0.062948776
+"old","streams/readable-bigread.js","n=1000",16624.931438782747,0.060150624
+"new","streams/readable-bigread.js","n=1000",16233.532481439755,0.061600887
+"old","streams/readable-bigread.js","n=1000",16826.50188854768,0.059430059
+"new","streams/readable-bigread.js","n=1000",16291.996367797161,0.061379832
+"old","streams/readable-bigread.js","n=1000",16648.046936038503,0.060067106
+"new","streams/readable-bigread.js","n=1000",15753.830394198962,0.063476626
+"old","streams/readable-bigread.js","n=1000",16740.975111912165,0.059733677
+"new","streams/readable-bigread.js","n=1000",15839.506015226643,0.063133282
+"old","streams/readable-bigread.js","n=1000",16622.081258108043,0.060160938
+"new","streams/readable-bigread.js","n=1000",15930.631657510536,0.062772150
+"old","streams/readable-bigread.js","n=1000",16801.66242368685,0.059517920
+"new","streams/readable-bigread.js","n=1000",15809.33486839867,0.063253768
+"old","streams/readable-bigread.js","n=1000",16589.535831755034,0.060278962
+"new","streams/readable-bigread.js","n=1000",15703.236961625906,0.063681138
+"old","streams/readable-bigread.js","n=1000",16314.711835447337,0.061294371
+"new","streams/readable-bigread.js","n=1000",15721.940996876081,0.063605378
+"old","streams/readable-bigread.js","n=1000",16692.122431576863,0.059908499
+"new","streams/readable-bigread.js","n=1000",16059.510120703279,0.062268400
+"old","streams/readable-bigread.js","n=1000",16685.500425271694,0.059932275
+"new","streams/readable-bigread.js","n=1000",15670.734794642933,0.063813217
+"old","streams/readable-bigread.js","n=1000",16794.5098344283,0.059543268
+"new","streams/readable-bigread.js","n=1000",16609.65871918304,0.060205933
+"old","streams/readable-bigread.js","n=1000",16630.35816004112,0.060130996
+"new","streams/readable-bigread.js","n=1000",16760.859624934532,0.059662811
+"old","streams/readable-bigread.js","n=1000",16882.237647410213,0.059233854
+"new","streams/readable-bigread.js","n=1000",16462.443470438488,0.060744324
+"old","streams/readable-from.js","type='array' n=10000000",23706672.973273855,0.421822160
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13167047.86213866,0.759471683
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7099191.4109722795,1.408611125
+"old","streams/readable-from.js","type='async-generator' n=10000000",4351910.839666146,2.297841194
+"new","streams/readable-from.js","type='array' n=10000000",19494888.643919148,0.512954969
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",11918353.140651003,0.839042096
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8654548.958976889,1.155461717
+"new","streams/readable-from.js","type='async-generator' n=10000000",4919451.423608687,2.032746975
+"old","streams/readable-from.js","type='array' n=10000000",18326655.40554781,0.545653300
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",12756616.303239342,0.783906936
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7666961.025834724,1.304297748
+"old","streams/readable-from.js","type='async-generator' n=10000000",4576925.013754518,2.184873025
+"new","streams/readable-from.js","type='array' n=10000000",23529422.726648707,0.424999802
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",14033566.342833048,0.712577242
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8953053.200821986,1.116937404
+"new","streams/readable-from.js","type='async-generator' n=10000000",5202775.48197361,1.922051035
+"old","streams/readable-from.js","type='array' n=10000000",23888398.52376959,0.418613244
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",11814332.96090027,0.846429505
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7768431.532916255,1.287261136
+"old","streams/readable-from.js","type='async-generator' n=10000000",4720358.463946226,2.118483178
+"new","streams/readable-from.js","type='array' n=10000000",24350456.1479636,0.410669925
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13203728.16084712,0.757361851
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8360993.289781995,1.196030143
+"new","streams/readable-from.js","type='async-generator' n=10000000",5413441.829520045,1.847253617
+"old","streams/readable-from.js","type='array' n=10000000",24420072.127125036,0.409499200
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13866904.375729965,0.721141484
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7455109.366473043,1.341361945
+"old","streams/readable-from.js","type='async-generator' n=10000000",5129054.191836045,1.949677197
+"new","streams/readable-from.js","type='array' n=10000000",23351222.977687474,0.428243095
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",14129284.276456442,0.707749933
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8625496.40637496,1.159353564
+"new","streams/readable-from.js","type='async-generator' n=10000000",5312740.982112416,1.882267559
+"old","streams/readable-from.js","type='array' n=10000000",17484324.817610998,0.571940873
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",12316786.021988941,0.811900116
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7577268.701270102,1.319736754
+"old","streams/readable-from.js","type='async-generator' n=10000000",4674362.740037583,2.139329050
+"new","streams/readable-from.js","type='array' n=10000000",19512513.680394076,0.512491633
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",12385597.870737374,0.807389365
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8696818.44751666,1.149845781
+"new","streams/readable-from.js","type='async-generator' n=10000000",5284215.652639078,1.892428443
+"old","streams/readable-from.js","type='array' n=10000000",23944674.049125746,0.417629406
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",11801069.559256721,0.847380820
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7355303.002122747,1.359563297
+"old","streams/readable-from.js","type='async-generator' n=10000000",4908785.649472248,2.037163713
+"new","streams/readable-from.js","type='array' n=10000000",23594635.999227077,0.423825144
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13917990.149806913,0.718494545
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8977451.97128282,1.113901810
+"new","streams/readable-from.js","type='async-generator' n=10000000",5396553.520343553,1.853034527
+"old","streams/readable-from.js","type='array' n=10000000",21199547.79244604,0.471708175
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",11610650.242798144,0.861278205
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7438101.377376605,1.344429108
+"old","streams/readable-from.js","type='async-generator' n=10000000",4667164.7380866185,2.142628461
+"new","streams/readable-from.js","type='array' n=10000000",23427730.398485944,0.426844591
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",14049186.003509682,0.711785010
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",9030137.904654024,1.107402800
+"new","streams/readable-from.js","type='async-generator' n=10000000",5186312.6684298795,1.928152165
+"old","streams/readable-from.js","type='array' n=10000000",23771788.30297318,0.420666711
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13667942.535388088,0.731639014
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7840597.2887981385,1.275413037
+"old","streams/readable-from.js","type='async-generator' n=10000000",4855719.840441357,2.059426888
+"new","streams/readable-from.js","type='array' n=10000000",18855153.754784964,0.530358974
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",11800337.139172167,0.847433415
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8854097.417479541,1.129420598
+"new","streams/readable-from.js","type='async-generator' n=10000000",5424769.833878282,1.843396182
+"old","streams/readable-from.js","type='array' n=10000000",23573474.137757223,0.424205611
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13383762.01021161,0.747174075
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7609152.67690657,1.314206775
+"old","streams/readable-from.js","type='async-generator' n=10000000",4770450.351302785,2.096238146
+"new","streams/readable-from.js","type='array' n=10000000",20486378.83820656,0.488129214
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13190525.632711856,0.758119902
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8402317.804909531,1.190147794
+"new","streams/readable-from.js","type='async-generator' n=10000000",4898508.382839929,2.041437764
+"old","streams/readable-from.js","type='array' n=10000000",23725518.921168957,0.421487093
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",12929227.985388963,0.773441385
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7671762.429257067,1.303481448
+"old","streams/readable-from.js","type='async-generator' n=10000000",4886952.431164468,2.046265058
+"new","streams/readable-from.js","type='array' n=10000000",24006531.927669585,0.416553296
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13969525.120535804,0.715843947
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8373333.26268473,1.194267526
+"new","streams/readable-from.js","type='async-generator' n=10000000",5231615.198078201,1.911455568
+"old","streams/readable-from.js","type='array' n=10000000",24375141.480938386,0.410254029
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",11749488.994749488,0.851100844
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7796899.822734131,1.282561047
+"old","streams/readable-from.js","type='async-generator' n=10000000",5028944.188857855,1.988488960
+"new","streams/readable-from.js","type='array' n=10000000",24411653.517980475,0.409640420
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",12558218.377715109,0.796291297
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",9035766.379779547,1.106712987
+"new","streams/readable-from.js","type='async-generator' n=10000000",5175808.587215806,1.932065267
+"old","streams/readable-from.js","type='array' n=10000000",17833121.578686647,0.560754322
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",11644481.908313718,0.858775863
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7238436.765741345,1.381513761
+"old","streams/readable-from.js","type='async-generator' n=10000000",4770644.562297272,2.096152809
+"new","streams/readable-from.js","type='array' n=10000000",23902981.050720546,0.418357860
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",12222025.998952812,0.818194954
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",9062864.879436482,1.103403850
+"new","streams/readable-from.js","type='async-generator' n=10000000",5421892.962807631,1.844374293
+"old","streams/readable-from.js","type='array' n=10000000",23994242.629469544,0.416766645
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",11553947.391915092,0.865505066
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7693907.936382599,1.299729615
+"old","streams/readable-from.js","type='async-generator' n=10000000",4828678.697116836,2.070959910
+"new","streams/readable-from.js","type='array' n=10000000",18577144.166873984,0.538295871
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",11985102.297318552,0.834369182
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",9088865.649507716,1.100247312
+"new","streams/readable-from.js","type='async-generator' n=10000000",5495870.765434323,1.819547880
+"old","streams/readable-from.js","type='array' n=10000000",24370245.02553523,0.410336457
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",14431985.593507065,0.692905348
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7782927.550688729,1.284863560
+"old","streams/readable-from.js","type='async-generator' n=10000000",4776939.220438516,2.093390671
+"new","streams/readable-from.js","type='array' n=10000000",24239496.405070588,0.412549825
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13156021.440562852,0.760108217
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8783377.554945754,1.138514192
+"new","streams/readable-from.js","type='async-generator' n=10000000",5456640.311343149,1.832629499
+"old","streams/readable-from.js","type='array' n=10000000",24571483.40374685,0.406975836
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13584879.82552439,0.736112511
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7589641.525489835,1.317585286
+"old","streams/readable-from.js","type='async-generator' n=10000000",4897722.379396147,2.041765381
+"new","streams/readable-from.js","type='array' n=10000000",24499284.54126872,0.408175185
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",11595686.29940779,0.862389663
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8810497.88726199,1.135009636
+"new","streams/readable-from.js","type='async-generator' n=10000000",5394203.871624451,1.853841686
+"old","streams/readable-from.js","type='array' n=10000000",17911553.647249874,0.558298861
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13574147.24817937,0.736694528
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7636222.784429451,1.309547964
+"old","streams/readable-from.js","type='async-generator' n=10000000",4876241.790378217,2.050759669
+"new","streams/readable-from.js","type='array' n=10000000",25269057.022596285,0.395740925
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",12296817.698308986,0.813218529
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8771170.541258892,1.140098685
+"new","streams/readable-from.js","type='async-generator' n=10000000",5065591.571852533,1.974103095
+"old","streams/readable-from.js","type='array' n=10000000",17437533.067556847,0.573475615
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13455446.081373466,0.743193495
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7666583.015557174,1.304362058
+"old","streams/readable-from.js","type='async-generator' n=10000000",4712295.589876972,2.122107964
+"new","streams/readable-from.js","type='array' n=10000000",26026635.810042486,0.384221767
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",12109897.6456798,0.825770811
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8873709.434764622,1.126924436
+"new","streams/readable-from.js","type='async-generator' n=10000000",5024336.723956896,1.990312463
+"old","streams/readable-from.js","type='array' n=10000000",20181029.037168894,0.495514871
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13180073.557647845,0.758721107
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7698526.265727984,1.298949910
+"old","streams/readable-from.js","type='async-generator' n=10000000",4812646.114733394,2.077858991
+"new","streams/readable-from.js","type='array' n=10000000",24876985.85483887,0.401977959
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",12592249.672054691,0.794139273
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8736562.327338498,1.144614967
+"new","streams/readable-from.js","type='async-generator' n=10000000",5191297.649377361,1.926300643
+"old","streams/readable-from.js","type='array' n=10000000",17708748.039008506,0.564692658
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13100907.89055865,0.763305878
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7746552.653152607,1.290896796
+"old","streams/readable-from.js","type='async-generator' n=10000000",4916336.255152447,2.034034997
+"new","streams/readable-from.js","type='array' n=10000000",24652201.684927694,0.405643282
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13143892.23713917,0.760809646
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",9113616.270660156,1.097259277
+"new","streams/readable-from.js","type='async-generator' n=10000000",5578448.30182157,1.792613189
+"old","streams/readable-from.js","type='array' n=10000000",17825085.39597349,0.561007130
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13221956.595317882,0.756317715
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7746632.015971331,1.290883571
+"old","streams/readable-from.js","type='async-generator' n=10000000",4935421.224917861,2.026169509
+"new","streams/readable-from.js","type='array' n=10000000",18718933.15768285,0.534218479
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13106155.32603235,0.763000266
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",9026976.196709597,1.107790669
+"new","streams/readable-from.js","type='async-generator' n=10000000",5207598.695757948,1.920270855
+"old","streams/readable-from.js","type='array' n=10000000",18851215.593303274,0.530469770
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13784286.676287143,0.725463728
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7760319.502535459,1.288606738
+"old","streams/readable-from.js","type='async-generator' n=10000000",4828587.441809105,2.070999049
+"new","streams/readable-from.js","type='array' n=10000000",23389961.255979355,0.427533842
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13250007.814854609,0.754716536
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8584159.3285417,1.164936439
+"new","streams/readable-from.js","type='async-generator' n=10000000",5411520.44984004,1.847909491
+"old","streams/readable-from.js","type='array' n=10000000",23677211.380629703,0.422347034
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13470177.495114485,0.742380715
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7937764.509829096,1.259800538
+"old","streams/readable-from.js","type='async-generator' n=10000000",4884736.771451402,2.047193220
+"new","streams/readable-from.js","type='array' n=10000000",24043859.61613632,0.415906604
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13285112.30804836,0.752722278
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8506916.713668233,1.175514036
+"new","streams/readable-from.js","type='async-generator' n=10000000",5579317.5497389445,1.792333903
+"old","streams/readable-from.js","type='array' n=10000000",24521851.362897035,0.407799552
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",14588620.480381913,0.685465772
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8023314.300742733,1.246367726
+"old","streams/readable-from.js","type='async-generator' n=10000000",4934659.142022067,2.026482420
+"new","streams/readable-from.js","type='array' n=10000000",24413100.459339567,0.409616141
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",11805452.930917192,0.847066187
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8717249.052317128,1.147150889
+"new","streams/readable-from.js","type='async-generator' n=10000000",5345767.9088097615,1.870638638
+"old","streams/readable-from.js","type='array' n=10000000",23818188.072404947,0.419847218
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13424098.38781599,0.744928986
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7737158.105215722,1.292464218
+"old","streams/readable-from.js","type='async-generator' n=10000000",4958616.438431536,2.016691576
+"new","streams/readable-from.js","type='array' n=10000000",19131048.74953372,0.522710497
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13304619.534068312,0.751618637
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8749976.578500193,1.142860202
+"new","streams/readable-from.js","type='async-generator' n=10000000",5606978.793438999,1.783491675
+"old","streams/readable-from.js","type='array' n=10000000",18195513.216795936,0.549586037
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13415815.052192457,0.745388928
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8028813.233280093,1.245514089
+"old","streams/readable-from.js","type='async-generator' n=10000000",4949463.316724974,2.020421076
+"new","streams/readable-from.js","type='array' n=10000000",26446344.358050875,0.378124094
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13869065.698447958,0.721029103
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8536554.448951947,1.171432814
+"new","streams/readable-from.js","type='async-generator' n=10000000",5506762.267444453,1.815949103
+"old","streams/readable-from.js","type='array' n=10000000",18073490.44492063,0.553296555
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",14180119.976321867,0.705212651
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7749327.722572084,1.290434520
+"old","streams/readable-from.js","type='async-generator' n=10000000",4636362.4757978115,2.156863285
+"new","streams/readable-from.js","type='array' n=10000000",24650783.20073973,0.405666624
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",12200972.868241537,0.819606773
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8988864.001111511,1.112487629
+"new","streams/readable-from.js","type='async-generator' n=10000000",5401122.71506739,1.851466913
+"old","streams/readable-from.js","type='array' n=10000000",24557416.297728732,0.407208962
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13162716.915503465,0.759721573
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8140384.466304433,1.228443207
+"old","streams/readable-from.js","type='async-generator' n=10000000",4996799.914421207,2.001280854
+"new","streams/readable-from.js","type='array' n=10000000",24856915.51579355,0.402302530
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",11965768.048375081,0.835717353
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",9262669.534038408,1.079602372
+"new","streams/readable-from.js","type='async-generator' n=10000000",5303456.158908331,1.885562867
+"old","streams/readable-from.js","type='array' n=10000000",17862432.944248103,0.559834152
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",12518154.610200375,0.798839790
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7772628.933602655,1.286565985
+"old","streams/readable-from.js","type='async-generator' n=10000000",5028395.641836397,1.988705884
+"new","streams/readable-from.js","type='array' n=10000000",19004235.382719416,0.526198492
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",11637327.623495603,0.859303813
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",9124466.922637649,1.095954436
+"new","streams/readable-from.js","type='async-generator' n=10000000",5106460.752510923,1.958303507
+"old","streams/readable-from.js","type='array' n=10000000",23861256.433785137,0.419089415
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13740979.270399896,0.727750170
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7706673.298885849,1.297576738
+"old","streams/readable-from.js","type='async-generator' n=10000000",4962920.9727179585,2.014942421
+"new","streams/readable-from.js","type='array' n=10000000",24905031.88337201,0.401525284
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",11852677.28985784,0.843691240
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8675869.614447104,1.152622209
+"new","streams/readable-from.js","type='async-generator' n=10000000",5403101.280609944,1.850788923
+"old","streams/readable-from.js","type='array' n=10000000",17775502.32387496,0.562572006
+"old","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13546452.463224534,0.738200649
+"old","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",7685445.623944729,1.301160725
+"old","streams/readable-from.js","type='async-generator' n=10000000",5041256.717383833,1.983632368
+"new","streams/readable-from.js","type='array' n=10000000",20537124.54621914,0.486923083
+"new","streams/readable-from.js","type='sync-generator-with-sync-values' n=10000000",13988894.837495442,0.714852754
+"new","streams/readable-from.js","type='sync-generator-with-async-values' n=10000000",8964207.1694863,1.115547623
+"new","streams/readable-from.js","type='async-generator' n=10000000",5181978.41725888,1.929764888
