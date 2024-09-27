@@ -122,7 +122,7 @@ echo "http..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
-  --filter "client-request-body.js" \
+  --runs 15 \
   --filter "bench-parser.js" \
   --filter "simple.js" \
   http  > compare-http-18-20.csv
@@ -130,7 +130,7 @@ node benchmark/compare.js \
 node benchmark/compare.js \
   --old ./node20 \
   --new ./node22 \
-  --filter "client-request-body.js" \
+  --runs 15 \
   --filter "bench-parser.js" \
   --filter "simple.js" \
   http  > compare-http-20-22.csv
@@ -232,11 +232,13 @@ echo "test_runner..."
 node benchmark/compare.js \
   --old ./node18 \
   --new ./node20 \
+  --runs 15 \
   test_runner  > compare-test-runner-18-20.csv
 
 node benchmark/compare.js \
   --old ./node20 \
   --new ./node22 \
+  --runs 15 \
   test_runner  > compare-test-runner-20-22.csv
 
 # url
