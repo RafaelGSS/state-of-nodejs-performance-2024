@@ -199,7 +199,7 @@ node benchmark/compare.js \
   --filter "relative-posix.js" \
   --filter "resolve-posix.js" \
   --filter "toNamespacedPath-posix.js" \
-  module  > compare-module-20-22.csv
+  path  > compare-path-20-22.csv
 
 # streams
 echo "streams..."
