@@ -1,0 +1,1081 @@
+"binary","filename","configuration","rate","time"
+"old","test_runner/global-concurrent-tests.js","type='sync' n=100",3645.4429101949877,0.027431509
+"old","test_runner/global-concurrent-tests.js","type='async' n=100",3644.9155360077925,0.027435478
+"old","test_runner/global-concurrent-tests.js","type='sync' n=1000",8718.01190341653,0.114705051
+"old","test_runner/global-concurrent-tests.js","type='async' n=1000",8799.251887604516,0.113646025
+"old","test_runner/global-concurrent-tests.js","type='sync' n=10000",11720.32161729862,0.853218907
+"old","test_runner/global-concurrent-tests.js","type='async' n=10000",11772.1151408262,0.849465018
+"new","test_runner/global-concurrent-tests.js","type='sync' n=100",3938.051922899559,0.025393266
+"new","test_runner/global-concurrent-tests.js","type='async' n=100",4048.162282081858,0.024702567
+"new","test_runner/global-concurrent-tests.js","type='sync' n=1000",10072.120613886082,0.099283958
+"new","test_runner/global-concurrent-tests.js","type='async' n=1000",9973.43306819593,0.100266377
+"new","test_runner/global-concurrent-tests.js","type='sync' n=10000",14055.805305585513,0.711449809
+"new","test_runner/global-concurrent-tests.js","type='async' n=10000",14064.758358471054,0.710996929
+"old","test_runner/global-concurrent-tests.js","type='sync' n=100",3665.099348015477,0.027284390
+"old","test_runner/global-concurrent-tests.js","type='async' n=100",3518.3647203718065,0.028422295
+"old","test_runner/global-concurrent-tests.js","type='sync' n=1000",8812.800190412885,0.113471312
+"old","test_runner/global-concurrent-tests.js","type='async' n=1000",8626.090331348314,0.115927374
+"old","test_runner/global-concurrent-tests.js","type='sync' n=10000",11654.779714028418,0.858017075
+"old","test_runner/global-concurrent-tests.js","type='async' n=10000",11674.90253207621,0.856538200
+"new","test_runner/global-concurrent-tests.js","type='sync' n=100",3905.1365784419513,0.025607299
+"new","test_runner/global-concurrent-tests.js","type='async' n=100",3868.342958931118,0.025850862
+"new","test_runner/global-concurrent-tests.js","type='sync' n=1000",9562.836552676603,0.104571483
+"new","test_runner/global-concurrent-tests.js","type='async' n=1000",9640.223671312795,0.103732033
+"new","test_runner/global-concurrent-tests.js","type='sync' n=10000",14011.812240757567,0.713683557
+"new","test_runner/global-concurrent-tests.js","type='async' n=10000",13846.006671623547,0.722229899
+"old","test_runner/global-concurrent-tests.js","type='sync' n=100",3500.695763282952,0.028565750
+"old","test_runner/global-concurrent-tests.js","type='async' n=100",3506.6641170880757,0.028517131
+"old","test_runner/global-concurrent-tests.js","type='sync' n=1000",8807.778099516125,0.113536012
+"old","test_runner/global-concurrent-tests.js","type='async' n=1000",9215.917566935095,0.108507915
+"old","test_runner/global-concurrent-tests.js","type='sync' n=10000",11465.332534279149,0.872194502
+"old","test_runner/global-concurrent-tests.js","type='async' n=10000",11307.380168506515,0.884378154
+"new","test_runner/global-concurrent-tests.js","type='sync' n=100",3872.274272257358,0.025824617
+"new","test_runner/global-concurrent-tests.js","type='async' n=100",3884.748222086705,0.025741694
+"new","test_runner/global-concurrent-tests.js","type='sync' n=1000",9763.909355263386,0.102417993
+"new","test_runner/global-concurrent-tests.js","type='async' n=1000",9732.779151483855,0.102745576
+"new","test_runner/global-concurrent-tests.js","type='sync' n=10000",14082.273454844268,0.710112613
+"new","test_runner/global-concurrent-tests.js","type='async' n=10000",13624.072140911587,0.733994939
+"old","test_runner/global-concurrent-tests.js","type='sync' n=100",3438.972847589882,0.029078450
+"old","test_runner/global-concurrent-tests.js","type='async' n=100",3516.4062328300474,0.028438125
+"old","test_runner/global-concurrent-tests.js","type='sync' n=1000",8084.223771508016,0.123697714
+"old","test_runner/global-concurrent-tests.js","type='async' n=1000",8222.575718061298,0.121616393
+"old","test_runner/global-concurrent-tests.js","type='sync' n=10000",11067.298492392347,0.903562871
+"old","test_runner/global-concurrent-tests.js","type='async' n=10000",10924.069818841388,0.915409748
+"new","test_runner/global-concurrent-tests.js","type='sync' n=100",3552.3906754433924,0.028150057
+"new","test_runner/global-concurrent-tests.js","type='async' n=100",3939.568127995623,0.025383493
+"new","test_runner/global-concurrent-tests.js","type='sync' n=1000",9768.103179223566,0.102374021
+"new","test_runner/global-concurrent-tests.js","type='async' n=1000",9496.43158288269,0.105302712
+"new","test_runner/global-concurrent-tests.js","type='sync' n=10000",13550.562490963046,0.737976745
+"new","test_runner/global-concurrent-tests.js","type='async' n=10000",13205.596880057301,0.757254677
+"old","test_runner/global-concurrent-tests.js","type='sync' n=100",3548.8288687291747,0.028178310
+"old","test_runner/global-concurrent-tests.js","type='async' n=100",3379.751516612797,0.029587974
+"old","test_runner/global-concurrent-tests.js","type='sync' n=1000",8343.389690455486,0.119855363
+"old","test_runner/global-concurrent-tests.js","type='async' n=1000",8026.337881968704,0.124589821
+"old","test_runner/global-concurrent-tests.js","type='sync' n=10000",11379.568949848359,0.878767908
+"old","test_runner/global-concurrent-tests.js","type='async' n=10000",11329.369051904934,0.882661687
+"new","test_runner/global-concurrent-tests.js","type='sync' n=100",4028.4459850654225,0.024823468
+"new","test_runner/global-concurrent-tests.js","type='async' n=100",4038.6503686661795,0.024760747
+"new","test_runner/global-concurrent-tests.js","type='sync' n=1000",9691.180174186753,0.103186607
+"new","test_runner/global-concurrent-tests.js","type='async' n=1000",9768.523122387287,0.102369620
+"new","test_runner/global-concurrent-tests.js","type='sync' n=10000",13712.108106150612,0.729282465
+"new","test_runner/global-concurrent-tests.js","type='async' n=10000",13468.979080438292,0.742446769
+"old","test_runner/global-concurrent-tests.js","type='sync' n=100",3504.808053404022,0.028532233
+"old","test_runner/global-concurrent-tests.js","type='async' n=100",3498.3382893125768,0.028585000
+"old","test_runner/global-concurrent-tests.js","type='sync' n=1000",8701.849404053844,0.114918100
+"old","test_runner/global-concurrent-tests.js","type='async' n=1000",8414.5817296543,0.118841320
+"old","test_runner/global-concurrent-tests.js","type='sync' n=10000",11293.11209772883,0.885495505
+"old","test_runner/global-concurrent-tests.js","type='async' n=10000",11384.9923192914,0.878349297
+"new","test_runner/global-concurrent-tests.js","type='sync' n=100",3880.020756559039,0.025773058
+"new","test_runner/global-concurrent-tests.js","type='async' n=100",4000.7948779263465,0.024995033
+"new","test_runner/global-concurrent-tests.js","type='sync' n=1000",9945.395304351225,0.100549045
+"new","test_runner/global-concurrent-tests.js","type='async' n=1000",9734.039941569283,0.102732268
+"new","test_runner/global-concurrent-tests.js","type='sync' n=10000",13980.971802306452,0.715257862
+"new","test_runner/global-concurrent-tests.js","type='async' n=10000",13955.160297658267,0.716580805
+"old","test_runner/global-concurrent-tests.js","type='sync' n=100",3504.5545365985363,0.028534297
+"old","test_runner/global-concurrent-tests.js","type='async' n=100",3481.4786034591693,0.028723428
+"old","test_runner/global-concurrent-tests.js","type='sync' n=1000",9303.63008015068,0.107484927
+"old","test_runner/global-concurrent-tests.js","type='async' n=1000",8911.871933263339,0.112209871
+"old","test_runner/global-concurrent-tests.js","type='sync' n=10000",11477.32612618465,0.871283075
+"old","test_runner/global-concurrent-tests.js","type='async' n=10000",11946.120297634481,0.837091855
+"new","test_runner/global-concurrent-tests.js","type='sync' n=100",4071.184829592824,0.024562874
+"new","test_runner/global-concurrent-tests.js","type='async' n=100",3903.8171289658,0.025615954
+"new","test_runner/global-concurrent-tests.js","type='sync' n=1000",10077.413277963456,0.099231814
+"new","test_runner/global-concurrent-tests.js","type='async' n=1000",9830.489913278367,0.101724330
+"new","test_runner/global-concurrent-tests.js","type='sync' n=10000",14001.506427677155,0.714208864
+"new","test_runner/global-concurrent-tests.js","type='async' n=10000",14030.622279298357,0.712726763
+"old","test_runner/global-concurrent-tests.js","type='sync' n=100",3524.965497637709,0.028369072
+"old","test_runner/global-concurrent-tests.js","type='async' n=100",3238.701603231784,0.030876571
+"old","test_runner/global-concurrent-tests.js","type='sync' n=1000",9420.772915443673,0.106148403
+"old","test_runner/global-concurrent-tests.js","type='async' n=1000",8712.46237762715,0.114778114
+"old","test_runner/global-concurrent-tests.js","type='sync' n=10000",11857.117887746459,0.843375270
+"old","test_runner/global-concurrent-tests.js","type='async' n=10000",11591.079918927768,0.862732383
+"new","test_runner/global-concurrent-tests.js","type='sync' n=100",3922.0274277575295,0.025497017
+"new","test_runner/global-concurrent-tests.js","type='async' n=100",4103.86151207434,0.024367294
+"new","test_runner/global-concurrent-tests.js","type='sync' n=1000",9747.427675768078,0.102591169
+"new","test_runner/global-concurrent-tests.js","type='async' n=1000",9949.178798761623,0.100510808
+"new","test_runner/global-concurrent-tests.js","type='sync' n=10000",13718.172858119802,0.728960052
+"new","test_runner/global-concurrent-tests.js","type='async' n=10000",13648.47662214267,0.732682502
+"old","test_runner/global-concurrent-tests.js","type='sync' n=100",3483.108023266186,0.028709991
+"old","test_runner/global-concurrent-tests.js","type='async' n=100",3602.812932224964,0.027756090
+"old","test_runner/global-concurrent-tests.js","type='sync' n=1000",8786.916836164095,0.113805561
+"old","test_runner/global-concurrent-tests.js","type='async' n=1000",9125.309849895953,0.109585320
+"old","test_runner/global-concurrent-tests.js","type='sync' n=10000",11557.031585729059,0.865274091
+"old","test_runner/global-concurrent-tests.js","type='async' n=10000",11439.257760923247,0.874182592
+"new","test_runner/global-concurrent-tests.js","type='sync' n=100",3878.421567747201,0.025783685
+"new","test_runner/global-concurrent-tests.js","type='async' n=100",4032.224571037837,0.024800206
+"new","test_runner/global-concurrent-tests.js","type='sync' n=1000",9547.689933079,0.104737377
+"new","test_runner/global-concurrent-tests.js","type='async' n=1000",9752.747848897361,0.102535205
+"new","test_runner/global-concurrent-tests.js","type='sync' n=10000",14197.14712757981,0.704366864
+"new","test_runner/global-concurrent-tests.js","type='async' n=10000",13485.551841376855,0.741534356
+"old","test_runner/global-concurrent-tests.js","type='sync' n=100",3474.7632635101663,0.028778939
+"old","test_runner/global-concurrent-tests.js","type='async' n=100",3635.2430561677406,0.027508477
+"old","test_runner/global-concurrent-tests.js","type='sync' n=1000",9014.448700926896,0.110933018
+"old","test_runner/global-concurrent-tests.js","type='async' n=1000",8000.162755311094,0.124997457
+"old","test_runner/global-concurrent-tests.js","type='sync' n=10000",11755.988457316898,0.850630301
+"old","test_runner/global-concurrent-tests.js","type='async' n=10000",11869.901403293099,0.842466981
+"new","test_runner/global-concurrent-tests.js","type='sync' n=100",3978.5560602619157,0.025134747
+"new","test_runner/global-concurrent-tests.js","type='async' n=100",3998.5900971317515,0.025008815
+"new","test_runner/global-concurrent-tests.js","type='sync' n=1000",10058.210586200259,0.099421263
+"new","test_runner/global-concurrent-tests.js","type='async' n=1000",9906.634035931302,0.100942459
+"new","test_runner/global-concurrent-tests.js","type='sync' n=10000",14083.86626601128,0.710032303
+"new","test_runner/global-concurrent-tests.js","type='async' n=10000",13760.382814290224,0.726723968
+"old","test_runner/global-concurrent-tests.js","type='sync' n=100",3416.7609550325215,0.029267485
+"old","test_runner/global-concurrent-tests.js","type='async' n=100",3639.0950749615376,0.027479359
+"old","test_runner/global-concurrent-tests.js","type='sync' n=1000",8765.772023500369,0.114080083
+"old","test_runner/global-concurrent-tests.js","type='async' n=1000",8687.153795746302,0.115112501
+"old","test_runner/global-concurrent-tests.js","type='sync' n=10000",11728.666202427292,0.852611868
+"old","test_runner/global-concurrent-tests.js","type='async' n=10000",11861.802424435933,0.843042199
+"new","test_runner/global-concurrent-tests.js","type='sync' n=100",3992.1802769607,0.025048969
+"new","test_runner/global-concurrent-tests.js","type='async' n=100",3965.7950179700088,0.025215625
+"new","test_runner/global-concurrent-tests.js","type='sync' n=1000",9939.752970500145,0.100606122
+"new","test_runner/global-concurrent-tests.js","type='async' n=1000",9876.592861093988,0.101249491
+"new","test_runner/global-concurrent-tests.js","type='sync' n=10000",14152.300748731717,0.706598890
+"new","test_runner/global-concurrent-tests.js","type='async' n=10000",13449.307573293529,0.743532702
+"old","test_runner/global-concurrent-tests.js","type='sync' n=100",3484.0328516425648,0.028702370
+"old","test_runner/global-concurrent-tests.js","type='async' n=100",3383.463632773474,0.029555512
+"old","test_runner/global-concurrent-tests.js","type='sync' n=1000",9171.969456094323,0.109027838
+"old","test_runner/global-concurrent-tests.js","type='async' n=1000",8872.081617472748,0.112713120
+"old","test_runner/global-concurrent-tests.js","type='sync' n=10000",11451.823734994905,0.873223360
+"old","test_runner/global-concurrent-tests.js","type='async' n=10000",11308.214572711116,0.884312898
+"new","test_runner/global-concurrent-tests.js","type='sync' n=100",3981.1349937187642,0.025118465
+"new","test_runner/global-concurrent-tests.js","type='async' n=100",3955.967862350041,0.025278264
+"new","test_runner/global-concurrent-tests.js","type='sync' n=1000",9658.890207230814,0.103531563
+"new","test_runner/global-concurrent-tests.js","type='async' n=1000",9386.73741112731,0.106533288
+"new","test_runner/global-concurrent-tests.js","type='sync' n=10000",13800.623912682482,0.724604921
+"new","test_runner/global-concurrent-tests.js","type='async' n=10000",13786.122118004623,0.725367142
+"old","test_runner/global-concurrent-tests.js","type='sync' n=100",3504.208712352928,0.028537113
+"old","test_runner/global-concurrent-tests.js","type='async' n=100",3574.882035148884,0.027972951
+"old","test_runner/global-concurrent-tests.js","type='sync' n=1000",8842.784809761677,0.113086547
+"old","test_runner/global-concurrent-tests.js","type='async' n=1000",8714.36661722048,0.114753033
+"old","test_runner/global-concurrent-tests.js","type='sync' n=10000",11453.593643004466,0.873088422
+"old","test_runner/global-concurrent-tests.js","type='async' n=10000",11527.238703097715,0.867510447
+"new","test_runner/global-concurrent-tests.js","type='sync' n=100",4003.3078532129525,0.024979343
+"new","test_runner/global-concurrent-tests.js","type='async' n=100",3981.2782777754574,0.025117561
+"new","test_runner/global-concurrent-tests.js","type='sync' n=1000",10067.148180377562,0.099332997
+"new","test_runner/global-concurrent-tests.js","type='async' n=1000",9781.854950565978,0.102230099
+"new","test_runner/global-concurrent-tests.js","type='sync' n=10000",14065.04899784156,0.710982237
+"new","test_runner/global-concurrent-tests.js","type='async' n=10000",13746.940369257529,0.727434595
+"old","test_runner/global-concurrent-tests.js","type='sync' n=100",3642.458330094581,0.027453986
+"old","test_runner/global-concurrent-tests.js","type='async' n=100",3642.8066353431436,0.027451361
+"old","test_runner/global-concurrent-tests.js","type='sync' n=1000",8699.276670803521,0.114952086
+"old","test_runner/global-concurrent-tests.js","type='async' n=1000",8806.035445349391,0.113558480
+"old","test_runner/global-concurrent-tests.js","type='sync' n=10000",12015.347674586379,0.832268884
+"old","test_runner/global-concurrent-tests.js","type='async' n=10000",11701.350270410658,0.854602227
+"new","test_runner/global-concurrent-tests.js","type='sync' n=100",3931.841527127249,0.025433375
+"new","test_runner/global-concurrent-tests.js","type='async' n=100",3928.2015883918816,0.025456942
+"new","test_runner/global-concurrent-tests.js","type='sync' n=1000",9981.823897229058,0.100182092
+"new","test_runner/global-concurrent-tests.js","type='async' n=1000",9835.283684840962,0.101674749
+"new","test_runner/global-concurrent-tests.js","type='sync' n=10000",14247.552440392803,0.701874939
+"new","test_runner/global-concurrent-tests.js","type='async' n=10000",14175.935557240306,0.705420814
+"old","test_runner/global-concurrent-tests.js","type='sync' n=100",3617.4678260602814,0.027643646
+"old","test_runner/global-concurrent-tests.js","type='async' n=100",3741.6980139890115,0.026725834
+"old","test_runner/global-concurrent-tests.js","type='sync' n=1000",8780.665508414933,0.113886584
+"old","test_runner/global-concurrent-tests.js","type='async' n=1000",8452.402039111563,0.118309564
+"old","test_runner/global-concurrent-tests.js","type='sync' n=10000",11821.336998581426,0.845928003
+"old","test_runner/global-concurrent-tests.js","type='async' n=10000",11482.910582439796,0.870859346
+"new","test_runner/global-concurrent-tests.js","type='sync' n=100",4026.1180721126866,0.024837821
+"new","test_runner/global-concurrent-tests.js","type='async' n=100",3793.68182777466,0.026359617
+"new","test_runner/global-concurrent-tests.js","type='sync' n=1000",9503.021438151152,0.105229690
+"new","test_runner/global-concurrent-tests.js","type='async' n=1000",9504.69811049548,0.105211127
+"new","test_runner/global-concurrent-tests.js","type='sync' n=10000",13598.051645052037,0.735399472
+"new","test_runner/global-concurrent-tests.js","type='async' n=10000",13292.060705043279,0.752328794
+"old","test_runner/global-sequential-tests.js","type='sync' n=100",776096.2359332558,0.000128850
+"old","test_runner/global-sequential-tests.js","type='async' n=100",792650.5441545985,0.000126159
+"old","test_runner/global-sequential-tests.js","type='sync' n=1000",3045539.9590070317,0.000328349
+"old","test_runner/global-sequential-tests.js","type='async' n=1000",3220311.1464629713,0.000310529
+"old","test_runner/global-sequential-tests.js","type='sync' n=10000",2666891.3967150296,0.003749684
+"old","test_runner/global-sequential-tests.js","type='async' n=10000",2713189.5469488963,0.003685699
+"new","test_runner/global-sequential-tests.js","type='sync' n=100",769550.4286395888,0.000129946
+"new","test_runner/global-sequential-tests.js","type='async' n=100",782588.960800119,0.000127781
+"new","test_runner/global-sequential-tests.js","type='sync' n=1000",1006021.0358998607,0.000994015
+"new","test_runner/global-sequential-tests.js","type='async' n=1000",1049947.0301723278,0.000952429
+"new","test_runner/global-sequential-tests.js","type='sync' n=10000",2936933.4655344984,0.003404912
+"new","test_runner/global-sequential-tests.js","type='async' n=10000",3035650.3744322956,0.003294187
+"old","test_runner/global-sequential-tests.js","type='sync' n=100",777478.0168090748,0.000128621
+"old","test_runner/global-sequential-tests.js","type='async' n=100",793575.2150588833,0.000126012
+"old","test_runner/global-sequential-tests.js","type='sync' n=1000",3175409.627841992,0.000314920
+"old","test_runner/global-sequential-tests.js","type='async' n=1000",2968750.9277346646,0.000336842
+"old","test_runner/global-sequential-tests.js","type='sync' n=10000",2818219.223636968,0.003548340
+"old","test_runner/global-sequential-tests.js","type='async' n=10000",2873425.327002986,0.003480167
+"new","test_runner/global-sequential-tests.js","type='sync' n=100",623970.4487595467,0.000160264
+"new","test_runner/global-sequential-tests.js","type='async' n=100",792826.5057757411,0.000126131
+"new","test_runner/global-sequential-tests.js","type='sync' n=1000",1056252.8584842982,0.000946743
+"new","test_runner/global-sequential-tests.js","type='async' n=1000",1055515.9150689675,0.000947404
+"new","test_runner/global-sequential-tests.js","type='sync' n=10000",3024574.6691871453,0.003306250
+"new","test_runner/global-sequential-tests.js","type='async' n=10000",2969535.534946979,0.003367530
+"old","test_runner/global-sequential-tests.js","type='sync' n=100",626472.2096927781,0.000159624
+"old","test_runner/global-sequential-tests.js","type='async' n=100",775686.8707240261,0.000128918
+"old","test_runner/global-sequential-tests.js","type='sync' n=1000",3534580.5689967796,0.000282919
+"old","test_runner/global-sequential-tests.js","type='async' n=1000",3519552.8760026325,0.000284127
+"old","test_runner/global-sequential-tests.js","type='sync' n=10000",3013120.0285402727,0.003318819
+"old","test_runner/global-sequential-tests.js","type='async' n=10000",2964970.3577088485,0.003372715
+"new","test_runner/global-sequential-tests.js","type='sync' n=100",750378.9413653895,0.000133266
+"new","test_runner/global-sequential-tests.js","type='async' n=100",748872.946215945,0.000133534
+"new","test_runner/global-sequential-tests.js","type='sync' n=1000",1057672.7814255736,0.000945472
+"new","test_runner/global-sequential-tests.js","type='async' n=1000",1039455.6578610913,0.000962042
+"new","test_runner/global-sequential-tests.js","type='sync' n=10000",2917977.68972618,0.003427031
+"new","test_runner/global-sequential-tests.js","type='async' n=10000",2908053.7385066445,0.003438726
+"old","test_runner/global-sequential-tests.js","type='sync' n=100",775614.674629644,0.000128930
+"old","test_runner/global-sequential-tests.js","type='async' n=100",776608.5504601406,0.000128765
+"old","test_runner/global-sequential-tests.js","type='sync' n=1000",3534230.792339201,0.000282947
+"old","test_runner/global-sequential-tests.js","type='async' n=1000",3571530.615160433,0.000279992
+"old","test_runner/global-sequential-tests.js","type='sync' n=10000",2856068.159495413,0.003501317
+"old","test_runner/global-sequential-tests.js","type='async' n=10000",2939412.8228944987,0.003402040
+"new","test_runner/global-sequential-tests.js","type='sync' n=100",772588.5579634565,0.000129435
+"new","test_runner/global-sequential-tests.js","type='async' n=100",760144.1233257825,0.000131554
+"new","test_runner/global-sequential-tests.js","type='sync' n=1000",1038730.0901409972,0.000962714
+"new","test_runner/global-sequential-tests.js","type='async' n=1000",1041617.8408303778,0.000960045
+"new","test_runner/global-sequential-tests.js","type='sync' n=10000",2796244.643443855,0.003576225
+"new","test_runner/global-sequential-tests.js","type='async' n=10000",2992942.939842146,0.003341193
+"old","test_runner/global-sequential-tests.js","type='sync' n=100",665606.134226133,0.000150239
+"old","test_runner/global-sequential-tests.js","type='async' n=100",769319.5368696388,0.000129985
+"old","test_runner/global-sequential-tests.js","type='sync' n=1000",3597394.047751809,0.000277979
+"old","test_runner/global-sequential-tests.js","type='async' n=1000",3194949.423950619,0.000312994
+"old","test_runner/global-sequential-tests.js","type='sync' n=10000",2880850.6114749466,0.003471197
+"old","test_runner/global-sequential-tests.js","type='async' n=10000",2874190.0891602505,0.003479241
+"new","test_runner/global-sequential-tests.js","type='sync' n=100",785965.7947686118,0.000127232
+"new","test_runner/global-sequential-tests.js","type='async' n=100",667949.1289943358,0.000149712
+"new","test_runner/global-sequential-tests.js","type='sync' n=1000",1042272.4875500551,0.000959442
+"new","test_runner/global-sequential-tests.js","type='async' n=1000",1029471.7162940665,0.000971372
+"new","test_runner/global-sequential-tests.js","type='sync' n=10000",2987718.9811280733,0.003347035
+"new","test_runner/global-sequential-tests.js","type='async' n=10000",3088256.503173338,0.003238073
+"old","test_runner/global-sequential-tests.js","type='sync' n=100",765321.7412600257,0.000130664
+"old","test_runner/global-sequential-tests.js","type='async' n=100",639422.9846986079,0.000156391
+"old","test_runner/global-sequential-tests.js","type='sync' n=1000",3221763.6578615867,0.000310389
+"old","test_runner/global-sequential-tests.js","type='async' n=1000",3595389.272796566,0.000278134
+"old","test_runner/global-sequential-tests.js","type='sync' n=10000",2887055.2238810277,0.003463737
+"old","test_runner/global-sequential-tests.js","type='async' n=10000",2995810.359212641,0.003337995
+"new","test_runner/global-sequential-tests.js","type='sync' n=100",758408.8582154639,0.000131855
+"new","test_runner/global-sequential-tests.js","type='async' n=100",743300.9997398447,0.000134535
+"new","test_runner/global-sequential-tests.js","type='sync' n=1000",1042233.3810676221,0.000959478
+"new","test_runner/global-sequential-tests.js","type='async' n=1000",979008.1081451516,0.001021442
+"new","test_runner/global-sequential-tests.js","type='sync' n=10000",2748345.290009517,0.003638553
+"new","test_runner/global-sequential-tests.js","type='async' n=10000",2828639.0653723944,0.003535269
+"old","test_runner/global-sequential-tests.js","type='sync' n=100",777974.0001089164,0.000128539
+"old","test_runner/global-sequential-tests.js","type='async' n=100",747808.9198647962,0.000133724
+"old","test_runner/global-sequential-tests.js","type='sync' n=1000",3213584.464247266,0.000311179
+"old","test_runner/global-sequential-tests.js","type='async' n=1000",3167654.4469116954,0.000315691
+"old","test_runner/global-sequential-tests.js","type='sync' n=10000",3002857.8197870916,0.003330161
+"old","test_runner/global-sequential-tests.js","type='async' n=10000",2900629.0884367,0.003447528
+"new","test_runner/global-sequential-tests.js","type='sync' n=100",763253.9040437192,0.000131018
+"new","test_runner/global-sequential-tests.js","type='async' n=100",764029.4915383734,0.000130885
+"new","test_runner/global-sequential-tests.js","type='sync' n=1000",1021436.896139275,0.000979013
+"new","test_runner/global-sequential-tests.js","type='async' n=1000",1047133.5765475587,0.000954988
+"new","test_runner/global-sequential-tests.js","type='sync' n=10000",2997126.654676162,0.003336529
+"new","test_runner/global-sequential-tests.js","type='async' n=10000",2851840.8775456604,0.003506507
+"old","test_runner/global-sequential-tests.js","type='sync' n=100",759711.005933343,0.000131629
+"old","test_runner/global-sequential-tests.js","type='async' n=100",797251.0782820833,0.000125431
+"old","test_runner/global-sequential-tests.js","type='sync' n=1000",3511753.8401028244,0.000284758
+"old","test_runner/global-sequential-tests.js","type='async' n=1000",3569847.6389027718,0.000280124
+"old","test_runner/global-sequential-tests.js","type='sync' n=10000",2961191.5123959915,0.003377019
+"old","test_runner/global-sequential-tests.js","type='async' n=10000",2978958.425060428,0.003356878
+"new","test_runner/global-sequential-tests.js","type='sync' n=100",794009.9886456572,0.000125943
+"new","test_runner/global-sequential-tests.js","type='async' n=100",765187.0499743663,0.000130687
+"new","test_runner/global-sequential-tests.js","type='sync' n=1000",1055800.0905876479,0.000947149
+"new","test_runner/global-sequential-tests.js","type='async' n=1000",1011810.8682652604,0.000988327
+"new","test_runner/global-sequential-tests.js","type='sync' n=10000",3090611.1559936535,0.003235606
+"new","test_runner/global-sequential-tests.js","type='async' n=10000",3084985.8059803066,0.003241506
+"old","test_runner/global-sequential-tests.js","type='sync' n=100",784184.5656793783,0.000127521
+"old","test_runner/global-sequential-tests.js","type='async' n=100",771795.5050629786,0.000129568
+"old","test_runner/global-sequential-tests.js","type='sync' n=1000",3519713.9176527727,0.000284114
+"old","test_runner/global-sequential-tests.js","type='async' n=1000",3557161.8117336542,0.000281123
+"old","test_runner/global-sequential-tests.js","type='sync' n=10000",3032379.750980975,0.003297740
+"old","test_runner/global-sequential-tests.js","type='async' n=10000",2941748.3810823224,0.003399339
+"new","test_runner/global-sequential-tests.js","type='sync' n=100",790695.100062465,0.000126471
+"new","test_runner/global-sequential-tests.js","type='async' n=100",783428.9116605559,0.000127644
+"new","test_runner/global-sequential-tests.js","type='sync' n=1000",1061179.0973186127,0.000942348
+"new","test_runner/global-sequential-tests.js","type='async' n=1000",1035951.6666390413,0.000965296
+"new","test_runner/global-sequential-tests.js","type='sync' n=10000",2753764.9474361343,0.003631392
+"new","test_runner/global-sequential-tests.js","type='async' n=10000",3061814.670195102,0.003266037
+"old","test_runner/global-sequential-tests.js","type='sync' n=100",809985.5012595275,0.000123459
+"old","test_runner/global-sequential-tests.js","type='async' n=100",724181.1321847821,0.000138087
+"old","test_runner/global-sequential-tests.js","type='sync' n=1000",3129959.0288363122,0.000319493
+"old","test_runner/global-sequential-tests.js","type='async' n=1000",3551767.004084532,0.000281550
+"old","test_runner/global-sequential-tests.js","type='sync' n=10000",3119155.4824148254,0.003205996
+"old","test_runner/global-sequential-tests.js","type='async' n=10000",2940856.436211353,0.003400370
+"new","test_runner/global-sequential-tests.js","type='sync' n=100",778246.4550873971,0.000128494
+"new","test_runner/global-sequential-tests.js","type='async' n=100",665092.6141465199,0.000150355
+"new","test_runner/global-sequential-tests.js","type='sync' n=1000",1031112.7975533755,0.000969826
+"new","test_runner/global-sequential-tests.js","type='async' n=1000",1046757.6159467242,0.000955331
+"new","test_runner/global-sequential-tests.js","type='sync' n=10000",3044729.5123195844,0.003284364
+"new","test_runner/global-sequential-tests.js","type='async' n=10000",3028983.127958181,0.003301438
+"old","test_runner/global-sequential-tests.js","type='sync' n=100",770327.0038131187,0.000129815
+"old","test_runner/global-sequential-tests.js","type='async' n=100",781359.8787329468,0.000127982
+"old","test_runner/global-sequential-tests.js","type='sync' n=1000",3500799.932784641,0.000285649
+"old","test_runner/global-sequential-tests.js","type='async' n=1000",3426957.821003139,0.000291804
+"old","test_runner/global-sequential-tests.js","type='sync' n=10000",2915626.1525834636,0.003429795
+"old","test_runner/global-sequential-tests.js","type='async' n=10000",2883549.580328194,0.003467948
+"new","test_runner/global-sequential-tests.js","type='sync' n=100",758115.6277955514,0.000131906
+"new","test_runner/global-sequential-tests.js","type='async' n=100",769876.2808816623,0.000129891
+"new","test_runner/global-sequential-tests.js","type='sync' n=1000",1042309.4241448893,0.000959408
+"new","test_runner/global-sequential-tests.js","type='async' n=1000",1008498.6178526443,0.000991573
+"new","test_runner/global-sequential-tests.js","type='sync' n=10000",2946456.694305413,0.003393907
+"new","test_runner/global-sequential-tests.js","type='async' n=10000",2952542.8923287326,0.003386911
+"old","test_runner/global-sequential-tests.js","type='sync' n=100",642533.1225824691,0.000155634
+"old","test_runner/global-sequential-tests.js","type='async' n=100",789315.8210463171,0.000126692
+"old","test_runner/global-sequential-tests.js","type='sync' n=1000",2969094.6933370545,0.000336803
+"old","test_runner/global-sequential-tests.js","type='async' n=1000",3158360.1793948584,0.000316620
+"old","test_runner/global-sequential-tests.js","type='sync' n=10000",2947503.199514723,0.003392702
+"old","test_runner/global-sequential-tests.js","type='async' n=10000",2894366.0585796535,0.003454988
+"new","test_runner/global-sequential-tests.js","type='sync' n=100",782901.4327096218,0.000127730
+"new","test_runner/global-sequential-tests.js","type='async' n=100",782184.9554545667,0.000127847
+"new","test_runner/global-sequential-tests.js","type='sync' n=1000",941856.3800880258,0.001061733
+"new","test_runner/global-sequential-tests.js","type='async' n=1000",1003380.388528954,0.000996631
+"new","test_runner/global-sequential-tests.js","type='sync' n=10000",3029748.494517973,0.003300604
+"new","test_runner/global-sequential-tests.js","type='async' n=10000",3062012.4893365414,0.003265826
+"old","test_runner/global-sequential-tests.js","type='sync' n=100",653453.8302196258,0.000153033
+"old","test_runner/global-sequential-tests.js","type='async' n=100",720757.0832402355,0.000138743
+"old","test_runner/global-sequential-tests.js","type='sync' n=1000",3503841.9627121137,0.000285401
+"old","test_runner/global-sequential-tests.js","type='async' n=1000",3573074.7380042947,0.000279871
+"old","test_runner/global-sequential-tests.js","type='sync' n=10000",2851515.594796212,0.003506907
+"old","test_runner/global-sequential-tests.js","type='async' n=10000",2987438.716429031,0.003347349
+"new","test_runner/global-sequential-tests.js","type='sync' n=100",739770.8190002737,0.000135177
+"new","test_runner/global-sequential-tests.js","type='async' n=100",603682.4630244492,0.000165650
+"new","test_runner/global-sequential-tests.js","type='sync' n=1000",992590.3133111325,0.001007465
+"new","test_runner/global-sequential-tests.js","type='async' n=1000",1042260.538035735,0.000959453
+"new","test_runner/global-sequential-tests.js","type='sync' n=10000",2987771.648198254,0.003346976
+"new","test_runner/global-sequential-tests.js","type='async' n=10000",3045540.886538679,0.003283489
+"old","test_runner/global-sequential-tests.js","type='sync' n=100",733998.8256018789,0.000136240
+"old","test_runner/global-sequential-tests.js","type='async' n=100",732788.6271205071,0.000136465
+"old","test_runner/global-sequential-tests.js","type='sync' n=1000",3526080.655568915,0.000283601
+"old","test_runner/global-sequential-tests.js","type='async' n=1000",3583677.0676920763,0.000279043
+"old","test_runner/global-sequential-tests.js","type='sync' n=10000",3011892.1549847415,0.003320172
+"old","test_runner/global-sequential-tests.js","type='async' n=10000",3008586.505887804,0.003323820
+"new","test_runner/global-sequential-tests.js","type='sync' n=100",780426.8935107504,0.000128135
+"new","test_runner/global-sequential-tests.js","type='async' n=100",787153.6523929471,0.000127040
+"new","test_runner/global-sequential-tests.js","type='sync' n=1000",1046170.6492639666,0.000955867
+"new","test_runner/global-sequential-tests.js","type='async' n=1000",985425.55602637,0.001014790
+"new","test_runner/global-sequential-tests.js","type='sync' n=10000",3090956.972642558,0.003235244
+"new","test_runner/global-sequential-tests.js","type='async' n=10000",3080591.3503156067,0.003246130
+"old","test_runner/global-sequential-tests.js","type='sync' n=100",596665.8313345028,0.000167598
+"old","test_runner/global-sequential-tests.js","type='async' n=100",789920.6129783958,0.000126595
+"old","test_runner/global-sequential-tests.js","type='sync' n=1000",3548930.884571023,0.000281775
+"old","test_runner/global-sequential-tests.js","type='async' n=1000",3124921.876953076,0.000320008
+"old","test_runner/global-sequential-tests.js","type='sync' n=10000",2942364.6666727476,0.003398627
+"old","test_runner/global-sequential-tests.js","type='async' n=10000",2840896.1777446466,0.003520016
+"new","test_runner/global-sequential-tests.js","type='sync' n=100",781005.9356451109,0.000128040
+"new","test_runner/global-sequential-tests.js","type='async' n=100",794982.0731542503,0.000125789
+"new","test_runner/global-sequential-tests.js","type='sync' n=1000",1034146.4827126904,0.000966981
+"new","test_runner/global-sequential-tests.js","type='async' n=1000",1021903.4791725853,0.000978566
+"new","test_runner/global-sequential-tests.js","type='sync' n=10000",3000272.1246817084,0.003333031
+"new","test_runner/global-sequential-tests.js","type='async' n=10000",2944671.102322904,0.003395965
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",2973.689567862837,0.033628258
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2863.20401462433,0.034925908
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3009.178506003657,0.033231661
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",2891.864231601309,0.034579770
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",8742.339994480611,0.114385851
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8212.814860740267,0.121760933
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",8320.936940162163,0.120178774
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8186.208341163441,0.122156676
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",12957.589767227577,0.771748464
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",13690.867883761546,0.730413885
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",12440.106872211732,0.803851615
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",13682.266427481494,0.730873065
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8074.4979666758845,0.123846709
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",7693.686815260431,0.129976697
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",7681.237079823178,0.130187363
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",7214.364792999458,0.138612342
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",14104.442260945141,0.708996486
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",13804.34827997993,0.724409425
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",14493.39101731945,0.689969655
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",13963.650311444278,0.716145118
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",12233.985692359116,8.173951034
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",13078.783158265052,7.645971249
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",12538.853744855865,7.975210656
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",12320.32617213931,8.116668228
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3251.0572031642537,0.030759225
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",3055.091393822819,0.032732245
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3214.9639338915968,0.031104548
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",3031.413721918537,0.032987909
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",9341.323739744033,0.107051209
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",9308.037166173297,0.107434036
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",9371.492953049645,0.106706584
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",9332.396472716231,0.107153613
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",16183.18055375167,0.617925504
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",16785.01193906989,0.595769609
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",16495.089420127173,0.606241030
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",16418.90282340192,0.609054095
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8566.675363841052,0.116731399
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",8414.910915840112,0.118836671
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8768.086479987676,0.114049970
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",8355.837832840596,0.119676808
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",18074.887149442082,0.553253800
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",16300.331362427125,0.613484461
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",17568.548452865485,0.569198988
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",16691.381678975635,0.599111577
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",14795.068879707407,6.759008749
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",15138.600551302205,6.605630399
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",14289.077973453877,6.998352181
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",13762.007520318095,7.266381729
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3028.975696437994,0.033014461
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2944.1638443666707,0.033965501
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3011.5334201156884,0.033205675
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",2863.531313688516,0.034921916
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",8046.361396351717,0.124279777
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8205.532439111914,0.121868996
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",8564.21214605171,0.116764973
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8110.480050879312,0.123297264
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",13739.851536122686,0.727809902
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",13916.782896042245,0.718556873
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",12546.797531621849,0.797016129
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",14249.563062797894,0.701775904
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",7565.072712906793,0.132186436
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",7414.04698853941,0.134879102
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",7613.551418031945,0.131344749
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",7796.207935374924,0.128267487
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",15039.2736796011,0.664925728
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",14080.4096232216,0.710206611
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",14886.743257620921,0.671738595
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",14360.144782943102,0.696371809
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",12713.17939610658,7.865852977
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",13062.782458961725,7.655336856
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",13059.786409656346,7.657093069
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",12024.524728110922,8.316337008
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3082.3995049912987,0.032442258
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2973.7358165811643,0.033627735
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3148.365595265261,0.031762512
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",2977.8975382286853,0.033580739
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",9070.820521933198,0.110243610
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8818.248370303927,0.113401206
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",8872.659021007661,0.112705785
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8745.618707396156,0.114342968
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",15314.738966499757,0.652965749
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",15794.679427664123,0.633124594
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",15022.47721628762,0.665669174
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",15472.883208191051,0.646291959
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8292.080371685537,0.120596998
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",8087.736607846527,0.123643987
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8479.122661786536,0.117936730
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",8403.763312779634,0.118994308
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",17065.23399522055,0.585986691
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",16812.604077059514,0.594791857
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",17240.220321671444,0.580038991
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",16125.363607800486,0.620141055
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",14432.639414729178,6.928739583
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",13731.341380459164,7.282609705
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",14548.02187878407,6.873786748
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",15544.338356499278,6.433210453
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",2967.6705237579386,0.033696463
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2896.686601856973,0.034522202
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",2950.064929454065,0.033897559
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",2900.9454761495867,0.034471520
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",8151.300129110074,0.122679816
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8366.578840736374,0.119523167
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",8908.577478615473,0.112251367
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8286.36339443949,0.120680201
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",12879.145062362328,0.776449054
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",13882.877525793123,0.720311764
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",13633.993056807232,0.733460840
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",14234.89270907984,0.702499148
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",7910.971634000828,0.126406723
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",7720.1204357316265,0.129531658
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",7896.665685821821,0.126635727
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",7312.534851084067,0.136751485
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",14653.905059444629,0.682411955
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",13988.64179639564,0.714865685
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",14662.111486833744,0.682030007
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",13860.591989820292,0.721469906
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",12366.035382864577,8.086666171
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",12636.672539996194,7.913475615
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",12642.31059335718,7.909946466
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",13229.46591768183,7.558884132
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3141.017027390485,0.031836822
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",3065.236509051184,0.032623910
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3242.7227949987614,0.030838282
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",3126.9469153231526,0.031980076
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",9277.87893139914,0.107783256
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8849.906506047708,0.112995544
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",9423.777116965774,0.106114564
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8991.10747103128,0.111221004
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",15426.066387887722,0.648253401
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",16094.15531495598,0.621343575
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",16089.455182649626,0.621525085
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",16439.23248807266,0.608300905
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8625.75282335985,0.115931910
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",8452.322738014323,0.118310674
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8362.27523761635,0.119584679
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",8196.6314844566,0.122001337
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",17318.30960046329,0.577423561
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",17274.92295155471,0.578873783
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",17333.84650532589,0.576905997
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",16759.806132819656,0.596665613
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",14833.769328346736,6.741374885
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",13840.414304486883,7.225217237
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",14562.263502506134,6.867064312
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",15623.565346582594,6.400587688
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",2967.6581058435445,0.033696604
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2829.769045852531,0.035338573
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",2947.5993763233428,0.033925913
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",2918.935896081212,0.034259060
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",8282.07323549146,0.120742714
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8394.494148664024,0.119125701
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",8577.109068234333,0.116589400
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8291.008907420546,0.120612583
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",12334.901247711896,0.810707747
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",13577.516421388334,0.736511722
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",12477.119473905152,0.801467039
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",13535.375980835099,0.738804745
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",7655.843791694443,0.130619175
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",7501.464604703085,0.133307301
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",7818.548441290664,0.127900979
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",7576.379298034518,0.131989168
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",14341.387099706035,0.697282622
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",13926.5084695057,0.718055069
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",14791.620151951829,0.676058464
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",13862.316099638192,0.721380174
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",12456.28565266262,8.028075366
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",12684.904156583407,7.883386328
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",12558.968826493547,7.962437154
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",12557.668389038537,7.963261722
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3122.980115017484,0.032020697
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",3011.8606772283183,0.033202067
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3104.391304301935,0.032212434
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",3166.3652972949453,0.031581953
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",9177.01308358496,0.108967917
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",9186.439037486074,0.108856108
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",9158.918305736765,0.109183199
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8752.670954127523,0.114250839
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",14917.251915211056,0.670364760
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",16295.560294641266,0.613664079
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",15101.958121702293,0.662165788
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",16054.485275445808,0.622878892
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8486.488928301653,0.117834361
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",8323.074935398581,0.120147903
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8605.122247206335,0.116209854
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",8371.713243404893,0.119449863
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",17589.670062397036,0.568515496
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",16395.090517688233,0.609938688
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",16999.300854454388,0.588259487
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",16402.581576726334,0.609660129
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",14972.790114722486,6.678781926
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",15459.029162413175,6.468711518
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",14601.38612453662,6.848664856
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",15021.71498183601,6.657029515
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3012.173125373303,0.033198623
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2903.421066201252,0.034442128
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",2973.1796893175883,0.033634025
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",2922.9609220000866,0.034211884
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",8638.666123605559,0.115758612
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8136.634003397077,0.122900944
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",8582.912336476531,0.116510569
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",7850.133725065473,0.127386365
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",13662.565082653464,0.731926980
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",13487.389951951402,0.741433297
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",12132.188133875363,0.824253621
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",13866.448603265704,0.721165187
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",7970.038139979916,0.125469914
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",7967.310888287203,0.125512863
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8043.724204731668,0.124320523
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",7232.1215662935465,0.138272012
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",14060.39435708288,0.711217605
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",13794.786259981249,0.724911558
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",14504.15786414765,0.689457471
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",13785.318451126283,0.725409430
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",12589.89090356314,7.942880583
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",12960.736887278643,7.715610684
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",12609.395725385999,7.930594152
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",13056.213824868462,7.659188287
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3308.707834116874,0.030223279
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2991.910920041031,0.033423455
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3179.3759730678876,0.031452713
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",3121.351432801752,0.032037405
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",9338.723233479875,0.107081019
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",9048.082378374591,0.110520656
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",9338.814545076646,0.107079972
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8991.894436598017,0.111211270
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",16474.62726345275,0.606994006
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",16449.788677378514,0.607910545
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",15632.907979780828,0.639676253
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",16817.91904201904,0.594603885
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8640.274998525321,0.115737057
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",8448.99422032187,0.118357283
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8752.476983808207,0.114253371
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",8368.021782161532,0.119502557
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",18144.872779528905,0.551119874
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",17137.781715354504,0.583506090
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",17635.819495017215,0.567027804
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",16188.481479706983,0.617723164
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",14714.001028046063,6.796247996
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",15469.683181952749,6.464256496
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",14799.399841063,6.757030763
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",15483.093825912332,6.458657496
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3001.02457980179,0.033321953
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2943.578690527237,0.033972253
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",2927.3177733708635,0.034160965
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",2851.598860113278,0.035068046
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",8750.145033653933,0.114283820
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8362.129580864477,0.119586762
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",8768.049270544772,0.114050454
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",7938.496844987322,0.125968432
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",12620.914784526158,0.792335593
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",13669.735387386412,0.731543056
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",12393.185596489495,0.806895041
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",13803.726548712655,0.724442053
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8297.544020732112,0.120517589
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",7872.976577115258,0.127016763
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",7862.064728677669,0.127193051
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",7440.529724644671,0.134399033
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",14643.300011161857,0.682906175
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",14002.460728037026,0.714160189
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",14775.807842285722,0.676781947
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",13693.18499507854,0.730290287
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",12435.44278378542,8.041531109
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",12901.829049444465,7.750839018
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",12980.80161780686,7.703684483
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",12160.61247023937,8.223270024
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3181.7547491985,0.031429198
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2953.2474351784335,0.033861030
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3091.3680410291313,0.032348138
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",3005.1716901166724,0.033275969
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",8917.290657795984,0.112141685
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8808.382310287881,0.113528224
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",9174.242741031807,0.109000822
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8875.4771356659,0.112669999
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",15361.668856311264,0.650970939
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",15642.5528752036,0.639281841
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",15986.074875475191,0.625544424
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",16139.892609576907,0.619582809
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8802.031537045252,0.113610136
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",8229.698319751546,0.121511137
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8389.985099638163,0.119189723
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",8523.884995504972,0.117317397
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",17922.441351947105,0.557959700
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",16883.914042865763,0.592279727
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",17452.381734912506,0.572987696
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",16592.678337654623,0.602675457
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",14700.033950919113,6.802705377
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",15621.498599744711,6.401434495
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",14911.403408301117,6.706276885
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",15518.872114967822,6.443767257
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3047.4046032082647,0.032814809
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2956.2647240459914,0.033826470
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3003.086241699732,0.033299077
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",2951.9144936640105,0.033876320
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",8714.001360238184,0.114757843
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8491.578498253304,0.117763735
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",8928.406013906439,0.112002075
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8253.386969234072,0.121162379
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",12715.324176446033,0.786452619
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",13884.585496603244,0.720223157
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",13233.70339730671,0.755646375
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",13677.105557917517,0.731148850
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",7901.532118139852,0.126557734
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",7608.486170701409,0.131432190
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",7944.155383993222,0.125878706
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",7625.383979069784,0.131140937
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",14632.600310879545,0.683405532
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",13968.322431658313,0.715905582
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",14819.404856524368,0.674790931
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",13920.673944371805,0.718356025
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",12937.843452277944,7.729263410
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",13012.68528794788,7.684808922
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",12605.080248862518,7.933309271
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",12180.006417689228,8.210176298
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3287.480757142323,0.030418429
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2965.4303767656397,0.033721918
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3277.6669671413233,0.030509506
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",3142.105919196536,0.031825789
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",9663.788487656337,0.103479086
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",9365.500894381921,0.106774855
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",9413.381060932477,0.106231756
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",9211.93991221095,0.108554768
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",15759.536652728186,0.634536422
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",16380.267168480299,0.610490653
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",15462.484456337499,0.646726600
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",16456.719437600565,0.607654523
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8532.061469168597,0.117204969
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",8391.192986479791,0.119172566
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8581.863160767312,0.116524813
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",8295.655021270391,0.120545032
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",17421.959482348146,0.573988248
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",16420.22422400738,0.609005082
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",17123.273509347426,0.584000483
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",16537.050423044377,0.604702758
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",14459.297106407314,6.915965504
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",13727.820756903067,7.284477396
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",14555.297013016878,6.870351042
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",15312.135865350814,6.530767548
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3063.529232854599,0.032642091
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2858.952819330592,0.034977842
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3018.6413783406324,0.033127486
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",2883.360014024663,0.034681760
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",8927.63601956527,0.112011735
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8388.534011491503,0.119210341
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",8136.150405982921,0.122908249
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",7993.120097724526,0.125107591
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",13120.108565224746,0.762188815
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",14118.113561158498,0.708309928
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",12549.671300954484,0.796833619
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",14412.62537912141,0.693836115
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8277.487333623332,0.120809608
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",7881.103652732345,0.126885782
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8191.192659275939,0.122082344
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",7680.042605189953,0.130207611
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",15168.096523941731,0.659278505
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",13825.252595314436,0.723314090
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",14672.29752862887,0.681556517
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",13761.853278615048,0.726646317
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",12375.490810372195,8.080487597
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",12857.420340662004,7.777609921
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",12642.325832976987,7.909936931
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",12291.57437453543,8.135654307
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3157.789299919375,0.031667724
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2868.56326316512,0.034860657
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3179.6971503808513,0.031449536
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",3129.5072728497216,0.031953912
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",9144.324247788802,0.109357452
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8896.313554485605,0.112406110
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",9169.214768527803,0.109060593
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8597.727792498998,0.116309800
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",15559.79466255569,0.642682003
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",16029.207370153892,0.623861166
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",15347.460622747863,0.651573589
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",15896.171548558455,0.629082290
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8375.66948087207,0.119393441
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",8093.16410246632,0.123561068
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8721.570177769934,0.114658253
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",8435.560090062763,0.118545774
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",17787.817190177127,0.562182526
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",16302.49392242619,0.613403081
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",17080.13261042287,0.585475548
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",15462.523212668424,0.646724979
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",14465.261814499478,6.913113726
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",15551.785167281387,6.430129977
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",14522.693895167084,6.885774824
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",15128.75296847408,6.609930125
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",2897.9220855394733,0.034507484
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2926.339498984341,0.034172385
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",2929.0103093840366,0.034141225
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",2757.4029444486155,0.036266009
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",8821.50536924894,0.113359337
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",7940.433661702556,0.125937706
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",8280.078284828152,0.120771805
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",7946.094521162266,0.125847987
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",12721.017696477404,0.786100628
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",13489.751225582682,0.741303515
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",12407.733303415805,0.805948980
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",13748.722439494888,0.727340307
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8147.948161287168,0.122730285
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",7840.598745755099,0.127541280
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8245.250762357946,0.121281939
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",7696.207301345689,0.129934130
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",15082.218413643672,0.663032435
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",13816.95471383386,0.723748482
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",14342.637077383748,0.697221853
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",13468.712117774028,0.742461485
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",12379.87579653399,8.077625466
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",11975.438140696808,8.350425164
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",12377.967980962072,8.078870470
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",12977.171420423656,7.705839490
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3204.2505280444657,0.031208546
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",3037.7829725216734,0.032918744
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3260.512716276737,0.030670023
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",3132.9680188191123,0.031918615
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",9370.189022855418,0.106721433
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8987.022864801547,0.111271554
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",9141.325077668584,0.109393331
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",9206.489536631305,0.108619034
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",16247.306570258703,0.615486632
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",16371.179482810147,0.610829538
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",16423.273722723778,0.608892001
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",16601.809374093456,0.602343984
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8608.333431468334,0.116166504
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",8362.460549987823,0.119582029
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8736.122832682586,0.114467255
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",8338.606111931445,0.119924120
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",17301.122831799064,0.577997168
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",16593.321778374593,0.602652087
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",17101.93488058973,0.584729159
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",16872.631981991923,0.592675761
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",14625.653877060582,6.837301145
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",14738.830279759966,6.784798936
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",14488.29638489547,6.902122744
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",15382.94839839585,6.500704378
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3032.36503852923,0.032977560
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2968.192258123497,0.033690540
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",2887.0269682097046,0.034637709
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",2919.3179060421617,0.034254577
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",7922.520914464898,0.126222450
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8040.406710143933,0.124371818
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",8614.557501236643,0.116082573
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",7831.480326773215,0.127689780
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",12675.616483424405,0.788916264
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",13667.449124939998,0.731665427
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",12344.665180047194,0.810066523
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",13482.423336810685,0.741706424
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",7925.2238643928895,0.126179401
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",7269.754551131695,0.137556226
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",7660.062071780986,0.130547245
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",7713.252079004897,0.129647001
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",14016.175423311975,0.713461390
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",13729.077337481096,0.728381067
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",14571.749229848081,0.686259408
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",13514.869949873037,0.739925729
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",12306.96491986709,8.125480218
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",13209.48734616439,7.570316499
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",12579.003712731437,7.949755186
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",12754.005404580192,7.840674112
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3185.324471166061,0.031393976
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",3048.0961530466147,0.032807364
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3091.953682162807,0.032342011
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",2936.2197861515897,0.034057396
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",8858.434143495011,0.112886768
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8672.940758740948,0.115301145
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",8658.272978965575,0.115496474
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8711.195749863346,0.114794803
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",14984.642292560604,0.667349931
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",15922.907371427327,0.628026011
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",14695.38511519049,0.680485739
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",15584.417203575815,0.641666600
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8457.152601715718,0.118243107
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",8125.671439466677,0.123066753
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8291.044377839906,0.120612067
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",8023.5438377189475,0.124633207
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",17001.007285880278,0.588200442
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",15831.693544565529,0.631644364
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",16598.0263861116,0.602481269
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",15870.410959181514,0.630103406
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",14559.421505450293,6.868404762
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",15477.472277144398,6.461003335
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",14508.41759629553,6.892550434
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",15404.952768631252,6.491418799
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",2982.5415142935917,0.033528452
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2978.253892034306,0.033576721
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",2900.252710619687,0.034479754
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",2873.9204764362375,0.034795674
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",8655.16331990254,0.115537970
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8078.997993548532,0.123777726
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",8516.10077858281,0.117424632
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8044.290835671983,0.124311766
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",12172.634715720014,0.821514835
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",13344.20733217328,0.749388836
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",12374.524961940633,0.808111829
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",13382.779760336229,0.747228915
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8273.05126271292,0.120874387
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",7283.589833204044,0.137294936
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",7419.003529746728,0.134788991
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",7292.093003441671,0.137134839
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",14059.578162631142,0.711258893
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",13628.401527728547,0.733761768
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",14688.57443846597,0.680801261
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",13917.690176269787,0.718510031
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",12602.114545068402,7.935176247
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",12694.072922911319,7.877692259
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",12316.202917596393,8.119385550
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",11798.249364362207,8.475833737
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3250.326600942679,0.030766139
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",3116.6894449914757,0.032085327
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3186.8441972586447,0.031379005
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",2996.1342976451497,0.033376341
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",9335.57865202609,0.107117088
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8912.456672426104,0.112202509
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",9438.227719801105,0.105952095
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",9061.014826049264,0.110362914
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",15792.019257975844,0.633231244
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",16505.174482785023,0.605870602
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",15290.122942343554,0.654016978
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",16076.36091378807,0.622031320
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8476.020427039708,0.117979895
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",8337.100660694385,0.119945775
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8511.140781137012,0.117493063
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",8266.07756425939,0.120976363
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",17602.67466304542,0.568095485
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",16598.52493589679,0.602463173
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",17145.60102687062,0.583239980
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",16359.487514318067,0.611266092
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",14559.619184936946,6.868311508
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",13819.445574116942,7.236180313
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",14439.335331426995,6.925526536
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",14118.709899358917,7.082800108
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3068.072584338477,0.032593753
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2972.92450626859,0.033636912
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",2986.3997860543195,0.033485135
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",3001.6224369596257,0.033315316
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",9144.195476856627,0.109358992
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8370.779176903292,0.119463192
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",8835.098609595792,0.113184928
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8393.326170916424,0.119142278
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",13366.172075572673,0.748157359
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",14279.05838822778,0.700326291
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",12594.9969775156,0.793966050
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",13742.309635184858,0.727679718
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8138.768476713583,0.122868712
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",7563.228285941337,0.132218672
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8345.771453819534,0.119821158
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",7934.86504159361,0.126026088
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",15147.767754430848,0.660163277
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",14047.585831767881,0.711866090
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",14365.944679970755,0.696090666
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",13929.686095484985,0.717891267
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",12683.059626841969,7.884532829
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",13135.284863849689,7.613081942
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",13121.562402994463,7.621043663
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",13086.468531589224,7.641480951
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3139.6505907974706,0.031850678
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",3066.7387677395886,0.032607929
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3224.529537915889,0.031012276
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",3065.613227949404,0.032619901
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",9167.582080295992,0.109080016
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8862.690225127133,0.112832557
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",9271.526776897146,0.107857101
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",9029.12296661442,0.110752728
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",16261.60361768123,0.614945502
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",16529.086949187495,0.604994095
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",16094.39563900333,0.621334297
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",16330.339433960029,0.612357143
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8575.135651571522,0.116616231
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",8454.72557863085,0.118277050
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8411.6151181723,0.118883233
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",8290.936798918385,0.120613632
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",17392.640798345034,0.574955817
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",16338.454776653782,0.612052984
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",16733.18629737513,0.597614813
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",16086.345195160306,0.621645245
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",14759.063011852146,6.775497870
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",14579.794368000305,6.858807297
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",14559.172979666508,6.868522006
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",15708.90373637185,6.365816589
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3041.212042214335,0.032881627
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2872.7254226921004,0.034810149
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",2947.8293746834397,0.033923266
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",2868.3745925115345,0.034862950
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",8690.82936819313,0.115063817
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8006.700262994482,0.124895396
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",8789.412660243628,0.113773245
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8225.728263412298,0.121569783
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",12732.312727612212,0.785403266
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",14094.135103258659,0.709514981
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",12555.57477200225,0.796458958
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",13516.899259318932,0.739814643
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",7694.640588955178,0.129960586
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",7633.6487971777915,0.130998953
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8032.2976116629725,0.124497379
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",7322.57794549215,0.136563927
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",14149.768645056756,0.706725336
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",13535.984729806563,0.738771519
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",14260.014581863112,0.701261555
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",13564.231531633443,0.737233066
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",12445.068051427928,8.035311626
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",12925.251768016074,7.736793201
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",12716.077485718259,7.864060290
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",12838.908504086281,7.788824102
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3208.087357245326,0.031171221
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",3210.7322707457693,0.031145543
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3214.6789958178633,0.031107305
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",3019.759767843285,0.033115217
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",9228.322419165594,0.108362057
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",9005.446665246629,0.111043909
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",9246.188829607154,0.108152669
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8892.098264514954,0.112459396
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",16346.680371156806,0.611745001
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",15940.190136723937,0.627345089
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",15073.339355242942,0.663422999
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",16609.696349404334,0.602057966
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8610.268854611753,0.116140392
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",8331.098793785193,0.120032186
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8436.20953411809,0.118536648
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",8323.337421257274,0.120144114
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",17405.604398882195,0.574527593
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",16418.444279999134,0.609071105
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",17519.251401686834,0.570800645
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",16173.921464043704,0.618279248
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",14527.854036553834,6.883329069
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",14833.263978059003,6.741604555
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",14314.00116904566,6.986166818
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",15601.384883326713,6.409687393
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",2973.9144580271377,0.033625715
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2976.916010869435,0.033591811
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3020.3423986997545,0.033108829
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",2909.88019557654,0.034365676
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",8985.803051199515,0.111286659
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8664.723180810175,0.115410496
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",8778.733959431469,0.113911642
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8128.893755350488,0.123017969
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",12714.407584606928,0.786509315
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",14236.422523461726,0.702423659
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",13396.745308955473,0.746449960
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",14313.603688164505,0.698636082
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8476.510567797111,0.117973073
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",7402.219164579327,0.135094622
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8198.077219689663,0.121979822
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",7533.50823477615,0.132740281
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",15769.271935521669,0.634144686
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",14678.892489187374,0.681250306
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",15377.069903727686,0.650318953
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",14346.301072033804,0.697043785
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",12945.526265647191,7.724676305
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",13166.280075564226,7.595159713
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",12500.689989647255,7.999558431
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",12738.994875194592,7.849912884
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3135.1340268228896,0.031896563
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2888.920320341974,0.034615008
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3132.044653560626,0.031928025
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",3006.7081161425194,0.033258965
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",9335.254889752834,0.107120803
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8999.936829443393,0.111111891
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",9509.775811790125,0.105154950
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",9068.753795613542,0.110268734
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",16158.36584267274,0.618874464
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",16750.740756282947,0.596988524
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",15925.217395899119,0.627934913
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",16647.125355332682,0.600704313
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8432.789512294847,0.118584722
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",8270.580373669618,0.120910499
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8574.919837790643,0.116619166
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",8316.185013328142,0.120247445
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",17645.37192597329,0.566720840
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",16293.909726131753,0.613726243
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",16703.677366520675,0.598670567
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",16414.390291116633,0.609221532
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",14905.35192968981,6.708999591
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",15925.238881983269,6.279340658
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",14936.153336438081,6.695164260
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",14077.12281412172,7.103724342
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",2941.4354899369664,0.033997006
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",2775.315379207576,0.036031941
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",2993.672274912517,0.033403790
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",2850.4665757709886,0.035081976
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",8714.720664749131,0.114748371
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",8314.154587952951,0.120276811
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",8557.416779442723,0.116857695
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",8403.77666059278,0.118994119
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",12751.626718325853,0.784213671
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",13923.495621226317,0.718210446
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",12839.107057308569,0.778870365
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",13992.611864554723,0.714662859
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8224.664744776357,0.121585503
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",7709.368822025019,0.129712305
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8139.948175391952,0.122850905
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",7716.729062208681,0.129588585
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",14891.198500539704,0.671537620
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",13850.9612058054,0.721971555
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",14558.56591580198,0.686880841
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",14092.037291087503,0.709620603
+"old","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",12725.485343546456,7.858246448
+"old","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",13039.221129216132,7.669169731
+"old","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",12784.308993240353,7.822088785
+"old","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",13382.133891408035,7.472649789
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=10",3249.929947759976,0.030769894
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=10",3157.3158180606865,0.031672473
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=10",3172.4938187130433,0.031520944
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=10",3037.1978375394374,0.032925086
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=10",9281.577844472722,0.107740302
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=10",9339.240340587152,0.107075090
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=10",9264.128244883668,0.107943238
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=10",9068.25436565942,0.110274807
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=10",15955.376895400052,0.626747965
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=10",16624.665889102227,0.601515848
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=10",15917.24010553595,0.628249617
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=10",16439.619600945956,0.608286581
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=10 numberOfSuites=100",8698.084158243688,0.114967846
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=10 numberOfSuites=100",8460.727422715972,0.118193147
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=10 numberOfSuites=100",8435.873697997764,0.118541367
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=10 numberOfSuites=100",8256.114240843484,0.121122355
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=100 numberOfSuites=100",17283.445368831854,0.578588342
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=100 numberOfSuites=100",16611.416983038303,0.601995604
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=100 numberOfSuites=100",16946.302231782585,0.590099236
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=100 numberOfSuites=100",16338.219254383243,0.612061807
+"new","test_runner/suite-tests.js","concurrency='yes' testType='sync' testsPerSuite=1000 numberOfSuites=100",14803.425283098204,6.755193348
+"new","test_runner/suite-tests.js","concurrency='no' testType='sync' testsPerSuite=1000 numberOfSuites=100",15676.788985216663,6.378857309
+"new","test_runner/suite-tests.js","concurrency='yes' testType='async' testsPerSuite=1000 numberOfSuites=100",14651.16944161308,6.825393727
+"new","test_runner/suite-tests.js","concurrency='no' testType='async' testsPerSuite=1000 numberOfSuites=100",15225.176393462114,6.568068403

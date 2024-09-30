@@ -1,361 +1,361 @@
 "binary","filename","configuration","rate","time"
-"old","esm/cjs-parse.js","n=100",478.8543566581183,0.208831764
-"new","esm/cjs-parse.js","n=100",408.5451015632296,0.244771017
-"old","esm/cjs-parse.js","n=100",464.30784137336764,0.215374351
-"new","esm/cjs-parse.js","n=100",408.0744782933065,0.245053306
-"old","esm/cjs-parse.js","n=100",516.1313312069101,0.193749137
-"new","esm/cjs-parse.js","n=100",413.282285972769,0.241965367
-"old","esm/cjs-parse.js","n=100",488.2641249940926,0.204807183
-"new","esm/cjs-parse.js","n=100",403.3310140455589,0.247935310
-"old","esm/cjs-parse.js","n=100",530.1725717022617,0.188617830
-"new","esm/cjs-parse.js","n=100",412.07607056126903,0.242673640
-"old","esm/cjs-parse.js","n=100",470.5593971998601,0.212513023
-"new","esm/cjs-parse.js","n=100",405.5874785573505,0.246555935
-"old","esm/cjs-parse.js","n=100",497.697180032847,0.200925390
-"new","esm/cjs-parse.js","n=100",410.5428251425688,0.243579948
-"old","esm/cjs-parse.js","n=100",495.166705026406,0.201952189
-"new","esm/cjs-parse.js","n=100",417.3419677046095,0.239611656
-"old","esm/cjs-parse.js","n=100",490.18303571804967,0.204005428
-"new","esm/cjs-parse.js","n=100",410.3284529906633,0.243707204
-"old","esm/cjs-parse.js","n=100",514.8556209174491,0.194229209
-"new","esm/cjs-parse.js","n=100",408.1890012061291,0.244984553
-"old","esm/cjs-parse.js","n=100",466.1224184019612,0.214535916
-"new","esm/cjs-parse.js","n=100",417.5410515610213,0.239497409
-"old","esm/cjs-parse.js","n=100",501.89500748925224,0.199244859
-"new","esm/cjs-parse.js","n=100",410.2084070375289,0.243778524
-"old","esm/cjs-parse.js","n=100",490.4027687748003,0.203914020
-"new","esm/cjs-parse.js","n=100",402.3587752083003,0.248534408
-"old","esm/cjs-parse.js","n=100",470.0105160622874,0.212761197
-"new","esm/cjs-parse.js","n=100",414.2880559601746,0.241377946
-"old","esm/cjs-parse.js","n=100",473.1151421551562,0.211365038
-"new","esm/cjs-parse.js","n=100",401.613787009333,0.248995436
-"old","esm/cjs-parse.js","n=100",522.7905877765423,0.191281179
-"new","esm/cjs-parse.js","n=100",407.1343122660734,0.245619190
-"old","esm/cjs-parse.js","n=100",520.6110622364339,0.192081973
-"new","esm/cjs-parse.js","n=100",415.6421088683063,0.240591600
-"old","esm/cjs-parse.js","n=100",506.8596586854703,0.197293271
-"new","esm/cjs-parse.js","n=100",418.1949776372327,0.239122910
-"old","esm/cjs-parse.js","n=100",457.2464864414094,0.218700423
-"new","esm/cjs-parse.js","n=100",408.4002241169742,0.244857848
-"old","esm/cjs-parse.js","n=100",489.6787616243495,0.204215514
-"new","esm/cjs-parse.js","n=100",413.9901102068169,0.241551664
-"old","esm/cjs-parse.js","n=100",448.5566704546231,0.222937271
-"new","esm/cjs-parse.js","n=100",403.38246849127097,0.247903684
-"old","esm/cjs-parse.js","n=100",455.4289930022743,0.219573197
-"new","esm/cjs-parse.js","n=100",405.559452779117,0.246572973
-"old","esm/cjs-parse.js","n=100",461.45693416706786,0.216704946
-"new","esm/cjs-parse.js","n=100",419.37102967816645,0.238452332
-"old","esm/cjs-parse.js","n=100",499.8126477280624,0.200074969
-"new","esm/cjs-parse.js","n=100",398.5565541049031,0.250905421
-"old","esm/cjs-parse.js","n=100",483.83685880415385,0.206681236
-"new","esm/cjs-parse.js","n=100",424.60014342992844,0.235515700
-"old","esm/cjs-parse.js","n=100",477.7129473536924,0.209330730
-"new","esm/cjs-parse.js","n=100",405.5066653515815,0.246605071
-"old","esm/cjs-parse.js","n=100",514.9230519073229,0.194203774
-"new","esm/cjs-parse.js","n=100",411.0869560069868,0.243257536
-"old","esm/cjs-parse.js","n=100",516.3593698457653,0.193663572
-"new","esm/cjs-parse.js","n=100",406.06224620754307,0.246267662
-"old","esm/cjs-parse.js","n=100",468.6189814549568,0.213392978
-"new","esm/cjs-parse.js","n=100",398.8401234647891,0.250727031
-"old","esm/cjs-parse.js","n=100",501.77980544320997,0.199290603
-"new","esm/cjs-parse.js","n=100",411.8174831997719,0.242826019
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13396.676571231557,0.074645379
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49774.76421445318,0.020090502
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14949.41871651975,0.066892233
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",55181.01137523441,0.018122176
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62430.65904737931,0.016017771
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12297.77144950856,0.081315546
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",53442.41857299337,0.018711728
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15846.64479227513,0.063104841
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",56955.32117048653,0.017557622
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",61013.38969343517,0.016389845
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13251.223979118085,0.075464727
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50240.89504355484,0.019904104
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14834.817423303177,0.067408986
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54111.13691611108,0.018480484
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62511.93587275571,0.015996945
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11862.548039019384,0.084298921
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",51970.9785740286,0.019241508
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15682.883808822948,0.063763783
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57259.28326150252,0.017464417
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",65947.9309430198,0.015163478
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13325.635735431977,0.075043324
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50542.81211209972,0.019785207
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15172.174135533518,0.065910132
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",55164.36664356384,0.018127644
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",63272.53791527744,0.015804645
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12476.48354403598,0.080150789
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",48720.559140522564,0.020525216
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15885.154147947336,0.062951860
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",52433.559470536406,0.019071755
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",67880.42754080004,0.014731787
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13160.991899212071,0.075982115
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49704.10154269602,0.020119064
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14716.729231652369,0.067949881
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",56311.29378745088,0.017758427
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",64886.22751538111,0.015411591
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11955.515344640922,0.083643404
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",53769.76314365565,0.018597813
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15675.774077169921,0.063792703
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57162.94256764848,0.017493851
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",60756.73362321991,0.016459081
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13593.361100310807,0.073565323
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50560.9382168593,0.019778114
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14330.269550364004,0.069782358
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",56922.10994778762,0.017567866
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",65975.43325572203,0.015157157
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12193.37636530302,0.082011739
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",53830.2134777074,0.018576928
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15729.908906996425,0.063573159
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",56706.80771464363,0.017634567
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",66720.1450869587,0.014987977
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13243.297275896128,0.075509896
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49847.11143217082,0.020061343
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14568.846921803695,0.068639612
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54689.22356506142,0.018285138
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",63982.84645479685,0.015629189
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12053.151117973157,0.082965856
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50465.53955584875,0.019815502
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15278.983310781809,0.065449381
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57478.82250263713,0.017397712
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",67072.17610041295,0.014909312
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13534.34671393438,0.073886093
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",55755.699933082,0.017935386
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14594.994947139774,0.068516639
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",56800.018721286164,0.017605628
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",64052.26254689346,0.015612251
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12282.439762708667,0.081417049
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49878.90399687639,0.020048556
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15467.792845728178,0.064650465
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",56397.99114867368,0.017731128
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",67552.18575229829,0.014803370
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13328.036416247212,0.075029807
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",52583.21899112364,0.019017474
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",13965.445326559384,0.071605307
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",53844.44780553453,0.018572017
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62047.93426294376,0.016116572
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12133.676127479994,0.082415254
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",51560.0126322031,0.019394875
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15115.220072842965,0.066158481
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57290.558750809156,0.017454883
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",65590.08844561067,0.015246206
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13604.448959549429,0.073505366
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50331.56421240564,0.019868248
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14923.692548354069,0.067007545
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",49869.47164491659,0.020052348
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",64041.859808910616,0.015614787
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12452.38503705973,0.080305901
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",53634.01276006798,0.018644885
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15879.134885041336,0.062975723
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57578.91045730898,0.017367470
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",68556.84280930585,0.014586436
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13142.92909100611,0.076086540
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",55317.900634778445,0.018077331
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14329.036079294878,0.069788365
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",56706.749832785965,0.017634585
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62751.110333834025,0.015935973
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12358.306149797154,0.080917238
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50121.87886674632,0.019951367
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15463.464063674957,0.064668563
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57419.125162209035,0.017415800
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",67380.39121459422,0.014841113
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13251.7727360201,0.075461602
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",55827.173363024456,0.017912424
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14698.35420176266,0.068034828
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54891.62006413866,0.018217717
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",63662.955073943886,0.015707722
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12005.590859596225,0.083294526
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",53489.92616197102,0.018695109
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15922.474617505537,0.062804308
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",52827.867841368265,0.018929403
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",67393.46474789386,0.014838234
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13567.909462751217,0.073703322
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",54891.55377623974,0.018217739
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14723.007375667221,0.067920906
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",49858.90180084868,0.020056599
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",64467.98600400024,0.015511575
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12286.733635262612,0.081388596
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49344.88984074085,0.020265523
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15193.95416761958,0.065815652
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57721.24046409032,0.017324645
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",67340.73394531246,0.014849853
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13654.232931000437,0.073237362
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",54240.165254596286,0.018436522
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14652.320150206207,0.068248577
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54968.33494097391,0.018192292
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",60441.662945978635,0.016544879
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12322.298743560505,0.081153689
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",53745.82032191811,0.018606098
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15926.172380494221,0.062789726
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",58079.08873445143,0.017217901
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",68569.46474195836,0.014583751
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13603.027870767699,0.073513045
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",56423.28295486476,0.017723180
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14915.030784847264,0.067046459
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57924.996860465166,0.017263704
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",63030.9490784308,0.015865222
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12306.680509220903,0.081256680
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",52358.087853311066,0.019099246
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15192.202632383332,0.065823240
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57761.88632761132,0.017312454
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",60730.82011385329,0.016466104
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13252.55635185749,0.075457140
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",54554.183214768906,0.018330400
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14762.00663380959,0.067741468
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",55643.422702605494,0.017971576
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",64440.110489013445,0.015518285
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12051.304911680445,0.082978566
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",52308.68021747438,0.019117286
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15234.799646235766,0.065639196
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57138.34811092907,0.017501381
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",67120.85109239185,0.014898500
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13840.983897966813,0.072249199
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",55513.883133949676,0.018013512
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14643.726410146555,0.068288629
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",56088.675298227696,0.017828911
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",63617.8652961682,0.015718855
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12100.108358890377,0.082643888
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",52580.65320104181,0.019018402
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15753.691164669914,0.063477187
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",56691.29638935401,0.017639392
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",68672.3856113772,0.014561894
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13341.257506641978,0.074955453
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50722.73557857522,0.019715025
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14934.292250300052,0.066959986
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54833.77552203811,0.018236935
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62931.834313821804,0.015890209
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12454.649817717482,0.080291298
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50918.15359980398,0.019639361
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15733.194721790076,0.063559882
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",52514.70332921163,0.019042286
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",66519.35290771723,0.015033219
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13414.507199297725,0.074546160
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50254.183145641495,0.019898841
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14761.478640192072,0.067743891
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",55181.97054927196,0.018121861
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",63849.91490083342,0.015661728
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12282.098078104662,0.081419314
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",51826.04133157892,0.019295319
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15847.57824599131,0.063101124
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",56356.281254136906,0.017744251
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",65734.04950142038,0.015212816
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13897.117912848562,0.071957366
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",55460.07179860895,0.018030990
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14671.18844431471,0.068160804
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",55384.58641421634,0.018055565
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62819.989320601824,0.015918500
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12238.522438290616,0.081709210
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",52706.24983331649,0.018973082
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15705.227701772677,0.063673066
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57024.57188802655,0.017536300
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",59474.300708606555,0.016813985
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12510.485194022174,0.079932951
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49766.886924954815,0.020093682
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14496.644606639347,0.068981480
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",49448.3541609801,0.020223120
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",64956.403535421145,0.015394941
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11939.05085882846,0.083758752
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50702.33636873011,0.019722957
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15662.572308418665,0.063846473
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",52214.74043008237,0.019151680
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",65675.75524984075,0.015226319
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13249.85781577578,0.075472508
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",55481.48469118812,0.018024031
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14817.52367766196,0.067487660
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",55269.91144157359,0.018093027
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",64817.236458788066,0.015427995
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12227.329333138086,0.081784008
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",51150.87159294914,0.019550009
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",13796.942994784315,0.072479824
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",56436.67948475344,0.017718973
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",66245.29360311596,0.015095412
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13111.162413632841,0.076270888
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49635.4474923477,0.020146892
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",13963.468550163565,0.071615444
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",53857.60480151318,0.018567480
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",61897.81166476641,0.016155660
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12138.924356802705,0.082379622
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49679.759303553365,0.020128922
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15541.956171217338,0.064341965
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",56712.96959260409,0.017632651
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",68506.5000679927,0.014597155
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13900.404988299335,0.071940350
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",53905.95545449028,0.018550826
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14099.681278114676,0.070923589
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54649.9960132828,0.018298263
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",55447.20555510027,0.018035174
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11765.872503217142,0.084991572
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",52150.06368565778,0.019175432
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14940.047382659075,0.066934192
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57230.30504897197,0.017473260
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",59090.94373968974,0.016923067
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13531.058359197614,0.073904049
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",56606.117932620036,0.017665935
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14720.191028040623,0.067933901
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",55252.16285972819,0.018098839
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",63583.62391049461,0.015727320
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12061.650957773487,0.082907390
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",52884.73818907955,0.018909047
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15096.6762463129,0.066239746
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57608.063654145146,0.017358681
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",66504.9886057003,0.015036466
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12666.100230220303,0.078950899
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",53798.03357427679,0.018588040
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14815.62100408812,0.067496327
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54456.463772592426,0.018363293
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",61147.815427031266,0.016353814
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11826.93657896327,0.084552749
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",51793.28285663573,0.019307523
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15017.124176870126,0.066590646
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57588.380599764554,0.017364614
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",65755.73925955618,0.015207798
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13252.942574032362,0.075454941
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50594.80517837831,0.019764875
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14584.451778479097,0.068566170
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54918.31696666804,0.018208861
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",61312.12358954525,0.016309988
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12050.909743060505,0.082981287
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",51958.34374881632,0.019246187
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15667.242067021234,0.063827443
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57295.403699690265,0.017453407
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",66771.84121949955,0.014976373
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13528.032016847486,0.073920582
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",54285.93127433672,0.018420979
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14180.419203537753,0.070519777
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",50820.349708039634,0.019677157
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",63175.224698480444,0.015828990
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12389.164981430498,0.080715690
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49377.86116930429,0.020251991
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15638.127719529053,0.063946274
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",52813.914818760604,0.018934404
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",67795.19911009309,0.014750307
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13616.136865050603,0.073442270
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",48839.44773915359,0.020475252
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14728.49622613214,0.067895594
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54344.47976654481,0.018401133
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",65446.61522868127,0.015279629
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11892.792092682337,0.084084544
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",52644.662531393325,0.018995278
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15754.184807741758,0.063475198
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57655.63316580336,0.017344359
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",60666.83406668414,0.016483471
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12697.586670012566,0.078755123
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",54245.28186743506,0.018434783
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14120.695201927565,0.070818043
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54431.59453600413,0.018371683
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62993.43545409133,0.015874670
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11835.221664647835,0.084493559
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",51263.25738322909,0.019507149
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15745.48866163425,0.063510255
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57183.57838593403,0.017487538
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",68161.97220395671,0.014670937
-"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",14145.889843805611,0.070691912
-"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",54385.905087785104,0.018387117
-"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14908.605403579302,0.067075355
-"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",57468.79056757844,0.017400749
-"old","esm/esm-loader-import.js","specifier='node:os' n=1000",64055.83208814134,0.015611381
-"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12160.380633533456,0.082234268
-"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50493.57214301941,0.019804501
-"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15668.397053100416,0.063822738
-"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",52562.67757643585,0.019024906
-"new","esm/esm-loader-import.js","specifier='node:os' n=1000",61268.99484354012,0.016321469
+"old","esm/cjs-parse.js","n=100",510.76171094242864,0.195786015
+"new","esm/cjs-parse.js","n=100",367.68506150784617,0.271971887
+"old","esm/cjs-parse.js","n=100",466.5080091587838,0.214358592
+"new","esm/cjs-parse.js","n=100",383.0137478112009,0.261087234
+"old","esm/cjs-parse.js","n=100",453.0969304327705,0.220703327
+"new","esm/cjs-parse.js","n=100",384.71191475344114,0.259934762
+"old","esm/cjs-parse.js","n=100",447.71901555739856,0.223354373
+"new","esm/cjs-parse.js","n=100",385.07457716231426,0.259689956
+"old","esm/cjs-parse.js","n=100",438.0524531366667,0.228283164
+"new","esm/cjs-parse.js","n=100",391.679612657064,0.255310710
+"old","esm/cjs-parse.js","n=100",476.5922343660995,0.209822974
+"new","esm/cjs-parse.js","n=100",389.81324285320983,0.256533101
+"old","esm/cjs-parse.js","n=100",445.42816165120723,0.224503093
+"new","esm/cjs-parse.js","n=100",398.4473828336284,0.250974167
+"old","esm/cjs-parse.js","n=100",477.49204446923517,0.209427573
+"new","esm/cjs-parse.js","n=100",391.74354104805957,0.255269046
+"old","esm/cjs-parse.js","n=100",455.9175757921481,0.219337892
+"new","esm/cjs-parse.js","n=100",399.8568624392389,0.250089493
+"old","esm/cjs-parse.js","n=100",453.5398741825964,0.220487780
+"new","esm/cjs-parse.js","n=100",395.01126370668345,0.253157338
+"old","esm/cjs-parse.js","n=100",458.9512699126564,0.217888056
+"new","esm/cjs-parse.js","n=100",388.106769227865,0.257661056
+"old","esm/cjs-parse.js","n=100",454.4392686134439,0.220051406
+"new","esm/cjs-parse.js","n=100",398.2817408791341,0.251078545
+"old","esm/cjs-parse.js","n=100",476.65411083474066,0.209795736
+"new","esm/cjs-parse.js","n=100",392.9914888222001,0.254458437
+"old","esm/cjs-parse.js","n=100",459.63402523238204,0.217564398
+"new","esm/cjs-parse.js","n=100",380.1851195863549,0.263029758
+"old","esm/cjs-parse.js","n=100",467.1270175396899,0.214074537
+"new","esm/cjs-parse.js","n=100",397.2471108902876,0.251732479
+"old","esm/cjs-parse.js","n=100",449.25439965278747,0.222591031
+"new","esm/cjs-parse.js","n=100",390.1687997032376,0.256299325
+"old","esm/cjs-parse.js","n=100",468.132625230931,0.213614678
+"new","esm/cjs-parse.js","n=100",388.6932356139882,0.257272293
+"old","esm/cjs-parse.js","n=100",459.6398625152822,0.217561635
+"new","esm/cjs-parse.js","n=100",384.297509973875,0.260215061
+"old","esm/cjs-parse.js","n=100",484.23478505130225,0.206511393
+"new","esm/cjs-parse.js","n=100",405.5098307626619,0.246603146
+"old","esm/cjs-parse.js","n=100",466.25263432738393,0.214476000
+"new","esm/cjs-parse.js","n=100",385.0987665117066,0.259673644
+"old","esm/cjs-parse.js","n=100",463.26891991311277,0.215857347
+"new","esm/cjs-parse.js","n=100",382.6280791248543,0.261350396
+"old","esm/cjs-parse.js","n=100",452.88843252428603,0.220804933
+"new","esm/cjs-parse.js","n=100",392.7342467734957,0.254625108
+"old","esm/cjs-parse.js","n=100",454.8304926803947,0.219862128
+"new","esm/cjs-parse.js","n=100",384.47969138092003,0.260091761
+"old","esm/cjs-parse.js","n=100",465.3803402039186,0.214878007
+"new","esm/cjs-parse.js","n=100",399.89679623441504,0.250064519
+"old","esm/cjs-parse.js","n=100",476.8217677757927,0.209721969
+"new","esm/cjs-parse.js","n=100",389.788319372467,0.256549504
+"old","esm/cjs-parse.js","n=100",452.506769625713,0.220991169
+"new","esm/cjs-parse.js","n=100",386.80828109803394,0.258526006
+"old","esm/cjs-parse.js","n=100",450.80121644019925,0.221827263
+"new","esm/cjs-parse.js","n=100",388.881587637081,0.257147685
+"old","esm/cjs-parse.js","n=100",466.8534908516931,0.214199962
+"new","esm/cjs-parse.js","n=100",384.75549628901587,0.259905319
+"old","esm/cjs-parse.js","n=100",504.28095957183075,0.198302153
+"new","esm/cjs-parse.js","n=100",387.12137013711686,0.258316920
+"old","esm/cjs-parse.js","n=100",459.1718003642784,0.217783409
+"new","esm/cjs-parse.js","n=100",396.6231693738631,0.252128488
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13088.06748584532,0.076405474
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",53642.03394070957,0.018642097
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14258.465949899288,0.070133772
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",53470.17420315405,0.018702015
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62401.33179418369,0.016025299
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11997.902334747401,0.083347903
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",47442.57254503071,0.021078115
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14616.628063177508,0.068415232
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54798.57414110084,0.018248650
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",65314.69600254466,0.015310490
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12985.081245380961,0.077011455
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",51056.44202870321,0.019586167
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14596.829653260924,0.068508027
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",49347.71937787725,0.020264361
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62478.56204339886,0.016005490
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11572.55531013123,0.086411339
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49574.33493055231,0.020171728
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15172.59402259272,0.065908308
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",51089.3736044299,0.019573542
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",58033.42481528976,0.017231449
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13435.753364658613,0.074428279
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50562.60249355542,0.019777463
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",13969.55979835611,0.071584217
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",53951.50536569302,0.018535164
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",63690.86390861023,0.015700839
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11707.380761322074,0.085416202
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49452.846290712616,0.020221283
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14617.432056604426,0.068411469
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",50691.261526052316,0.019727266
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",64161.52690061841,0.015585664
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12365.725685641466,0.080868687
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",48702.24823701514,0.020532933
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14274.737624255702,0.070053827
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",52991.36240792751,0.018871000
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",63382.554534983756,0.015777212
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12028.582703133832,0.083135314
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",51234.201165557584,0.019518212
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14776.375442284621,0.067675595
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",50712.8091021784,0.019718884
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",64116.65332612833,0.015596572
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12868.143262943431,0.077711289
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",51394.43906002038,0.019457358
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14285.941024006825,0.069998889
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54213.40042494632,0.018445624
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62110.47801900867,0.016100343
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11517.188759260627,0.086826744
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",51189.80200859569,0.019535141
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15276.389917753751,0.065460492
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",51100.57871405394,0.019569250
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",64745.16819758775,0.015445168
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12953.503954555792,0.077199189
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50182.18642782622,0.019927390
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14035.706078335157,0.071246861
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",48776.971104229655,0.020501478
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",60591.7903213825,0.016503886
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11914.843138647537,0.083928927
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50404.01845029014,0.019839688
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15232.95723415805,0.065647135
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54337.34842868343,0.018403548
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",57561.49697652481,0.017372724
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12962.52072496423,0.077145489
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",48193.356372327995,0.020749748
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14123.412667884832,0.070804417
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",52703.28870629659,0.018974148
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",61510.79114564463,0.016257310
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11807.99914717907,0.084688353
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",51204.606284453985,0.019529493
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15195.37037180549,0.065809518
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",55566.36630082141,0.017996498
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",64267.3563153828,0.015559999
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12645.409564583142,0.079080080
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",52641.497713779754,0.018996420
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14562.52754684117,0.068669398
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54959.09065128281,0.018195352
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",56245.75977278513,0.017779118
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11676.219370941346,0.085644160
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50131.550200882135,0.019947518
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14787.38323309188,0.067625217
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",51313.073324175326,0.019488211
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",58767.95566733481,0.017016076
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12510.9907489856,0.079929721
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",48778.900706011176,0.020500667
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14198.131488980907,0.070431803
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",52959.31347782752,0.018882420
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",55457.08841412692,0.018031960
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12035.059765866095,0.083090572
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50577.34033998088,0.019771700
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14701.032741669691,0.068022432
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",55505.16303476033,0.018016342
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",65580.51775949933,0.015248431
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12749.114185171857,0.078436822
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",53275.20795045107,0.018770457
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",13744.126396044177,0.072758353
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54442.49685485695,0.018368004
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62332.75731632297,0.016042929
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11687.270974777068,0.085563174
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50520.15552124676,0.019794080
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15350.304619887545,0.065145287
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",55771.78586779755,0.017930213
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",62186.04210654223,0.016080779
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13101.43599468349,0.076327511
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",52533.923912701444,0.019035319
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14761.021061748139,0.067745991
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",53515.457137062185,0.018686190
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",55996.38711310346,0.017858295
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11824.424931804699,0.084570709
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49482.928142376244,0.020208990
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15267.658543335905,0.065497928
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",55971.90255269377,0.017866107
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",65129.917577438006,0.015353927
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13046.091790110091,0.076651308
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",52196.08775707356,0.019158524
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14291.599974915383,0.069971172
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",53606.414414893494,0.018654484
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62528.82187883477,0.015992625
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11789.690177670747,0.084819871
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50391.99428433844,0.019844422
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15255.725160910526,0.065549162
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",50971.815898975896,0.019618685
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",64202.04846907968,0.015575827
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12226.939728792295,0.081786614
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",48007.582125490575,0.020830043
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14291.521543411152,0.069971556
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",49939.398539871865,0.020024270
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62735.064365235005,0.015940049
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11693.78965166738,0.085515477
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",47489.153477345775,0.021057440
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15320.863855877493,0.065270471
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",55847.308098317626,0.017905966
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",64782.50633929216,0.015436266
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12543.478046812384,0.079722705
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",48790.55055842737,0.020495772
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14006.6291975329,0.071394765
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",48358.611991775164,0.020678840
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62474.248895533376,0.016006595
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11753.558254595659,0.085080618
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50089.923935946004,0.019964095
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15200.357123270398,0.065787928
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",51445.717257218916,0.019437964
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",64844.253505496556,0.015421567
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13481.026062463256,0.074178330
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49130.66482092585,0.020353887
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14616.21039754236,0.068417187
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",50499.45220719218,0.019802195
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",61887.90923766782,0.016158245
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11641.543555985381,0.085899262
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49624.0506733016,0.020151519
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14945.212346060578,0.066911060
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",55414.13867366038,0.018045936
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",65288.342701122376,0.015316670
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13267.791152654749,0.075370496
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",52903.0915349922,0.018902487
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14419.620443001597,0.069349953
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",48698.71197750665,0.020534424
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",61832.31151316404,0.016172774
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11810.502146529238,0.084670405
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50199.994267160655,0.019920321
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14922.648748664273,0.067012232
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",55185.350761676484,0.018120751
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",65231.61463249487,0.015329990
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13185.370794184815,0.075841629
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49014.41327639688,0.020402162
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14200.744939837907,0.070418841
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",53292.99550974537,0.018764192
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",63193.649038271644,0.015824375
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11800.12973298631,0.084744831
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50498.92687255449,0.019802401
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15008.944955970135,0.066626935
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54318.16954721352,0.018410046
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",57829.57508563115,0.017292190
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12848.004585401444,0.077833098
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",46890.98249831591,0.021326062
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14141.407284974246,0.070714320
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54849.011914247516,0.018231869
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62836.7342040075,0.015914258
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11877.272805230827,0.084194412
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",45729.23682293749,0.021867848
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15185.8644264034,0.065850713
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",50769.66043677241,0.019696803
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",58127.09500949245,0.017203681
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12419.124179518143,0.080520976
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",52484.473255854355,0.019053254
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14226.172672304738,0.070292975
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54650.57841079178,0.018298068
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62890.43957146958,0.015900668
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11770.491147990362,0.084958222
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",51585.28280135323,0.019385374
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14958.647193798923,0.066850965
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54227.570554949765,0.018440804
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",63297.02025479329,0.015798532
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12717.733317373426,0.078630364
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",52333.18339876289,0.019108335
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14748.721532884187,0.067802487
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",53874.520853480164,0.018561650
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62636.00233481963,0.015965259
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11621.54647733029,0.086047068
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50617.67483155071,0.019755945
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15207.73815949079,0.065755998
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54570.36045796756,0.018324966
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",64849.408972214034,0.015420341
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13251.616269820292,0.075462493
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49035.123613869,0.020393545
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",13947.971722216882,0.071695012
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",53813.54821728899,0.018582681
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",61632.640005167275,0.016225169
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11941.374585719384,0.083742453
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50662.82169625207,0.019738340
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15049.979552345281,0.066445273
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54898.82832175654,0.018215325
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",57870.303390852554,0.017280020
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12846.079813207723,0.077844760
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",48075.16417308001,0.020800761
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",13736.322228844656,0.072799690
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54498.35409520797,0.018349178
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62228.47383298897,0.016069814
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11897.752712015394,0.084049486
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50272.481879032544,0.019891598
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15158.124553157437,0.065971222
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",50836.729353946,0.019670817
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",63936.18657090731,0.015640595
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",13090.876682658743,0.076389078
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",53263.00628018781,0.018774757
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14496.640403586469,0.068981500
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",53233.0819542993,0.018785311
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62573.148010023724,0.015981296
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11846.35093298306,0.084414180
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49947.74716430406,0.020020923
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14701.951094459551,0.068018183
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",55544.94030029817,0.018003440
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",65133.64218403784,0.015353049
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12559.037365861474,0.079623937
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",52584.725956541144,0.019016929
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14575.618549532683,0.068607723
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",53184.36887997495,0.018802517
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",62529.22850624989,0.015992521
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11810.047154329575,0.084673667
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50888.925200964186,0.019650641
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14774.964873998508,0.067682056
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",51616.70754365793,0.019373572
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",64931.35457194653,0.015400880
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12093.082731282233,0.082691901
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",53270.874298635674,0.018771984
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14234.720433293502,0.070250765
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",53607.22766952067,0.018654201
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",63256.90844511356,0.015808550
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11462.323583091174,0.087242346
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49963.35937040571,0.020014667
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14971.466705037537,0.066793723
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",55004.89241015542,0.018180201
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",58154.58069093457,0.017195550
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12655.829328143025,0.079014972
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",52599.421322206385,0.019011616
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14038.056891471642,0.071234930
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",52822.415213024615,0.018931357
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",58442.10187720707,0.017110952
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11161.455102382743,0.089594053
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",49915.63508935373,0.020033803
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14638.18205255242,0.068314494
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",49865.17205454033,0.020054077
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",63972.99009179932,0.015631597
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12682.655927737676,0.078847838
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",47112.24327066384,0.021225905
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14102.906369253295,0.070907370
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",53375.86322114794,0.018735060
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",55720.53787703859,0.017946704
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11415.504133605416,0.087600161
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",48716.15159160783,0.020527073
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14746.338933806073,0.067813442
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54305.399993211824,0.018414375
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",56800.9801577136,0.017605330
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12044.337567275305,0.083026567
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",46511.80962753529,0.021499916
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14234.776358638586,0.070250489
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",48716.457744513755,0.020526944
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",59585.60476141417,0.016782577
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11449.28128109947,0.087341727
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50550.75809202634,0.019782097
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14685.638200681537,0.068093738
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",50264.93895348297,0.019894583
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",63008.20448733091,0.015870949
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12268.856732842467,0.081507187
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50512.612090011855,0.019797036
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14147.199259863806,0.070685369
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",52799.37257449582,0.018939619
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",55697.205927385774,0.017954222
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11342.81160600567,0.088161563
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50072.123887247195,0.019971192
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14613.178284004578,0.068431383
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54148.56525254079,0.018467710
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",63422.67706993067,0.015767231
+"old","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",12444.398272961429,0.080357441
+"old","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",50476.549100053606,0.019811180
+"old","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",14000.141597432115,0.071427849
+"old","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",48564.93058371647,0.020590990
+"old","esm/esm-loader-import.js","specifier='node:os' n=1000",60614.15718802682,0.016497796
+"new","esm/esm-loader-import.js","specifier='data:text/javascript,{i}' n=1000",11364.898642265107,0.087990226
+"new","esm/esm-loader-import.js","specifier='./relative-existing.js' n=1000",47963.89201466908,0.020849017
+"new","esm/esm-loader-import.js","specifier='./relative-nonexistent.js' n=1000",15099.85123928556,0.066225818
+"new","esm/esm-loader-import.js","specifier='node:prefixed-nonexistent' n=1000",54120.40860042567,0.018477318
+"new","esm/esm-loader-import.js","specifier='node:os' n=1000",63579.14876039416,0.015728427

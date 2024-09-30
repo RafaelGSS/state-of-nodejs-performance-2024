@@ -1,0 +1,841 @@
+"binary","filename","configuration","rate","time"
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.706551060155352,2.360986853
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.595742262754412,2.381757214
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.1200448404428,1.655625042
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.392281390043145,2.420861749
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.379820570594596,2.423298450
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.264863468264295,1.642497906
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.686295903086123,2.364756445
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.528089323031839,2.394618942
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",17.72478867387327,1.692544862
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.168826245545322,2.465315832
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.403271587793938,2.418716690
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.4363274927816,1.627222125
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.895311379808478,2.326426956
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.773898517482202,2.348539090
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.512893010290565,1.620492269
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.586296642344246,2.383544648
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.705659323477589,2.361152557
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.36355571524014,1.633670541
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.609230119610993,2.379209493
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.650723636340937,2.371405847
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.419680547959167,1.628692741
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.584690810966215,2.383848793
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.72223441325623,2.358076343
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.56269049160601,1.616145031
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.804612036869267,2.342905815
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.70418097733897,2.361427317
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.349782807536158,1.634896735
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.534360824581901,2.393420807
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.500178179623136,2.399965790
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.6795154286381,1.606037379
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.532111944234542,2.393850305
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.71197591127684,2.359979299
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.3199244757938,1.637561336
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.412735495581515,2.416872575
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.51684147800822,2.396770787
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.25290527188569,1.643573971
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.785280118118806,2.346448394
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.942676007000182,2.317913234
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.505118368316566,1.621173094
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.840495787207749,2.336358385
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.659226912152596,2.369812960
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.32971029399811,1.636687079
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.580253604955013,2.384689605
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.569881812754694,2.386657285
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",17.931259830465784,1.673055897
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.215634409760446,2.455869175
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.408714141442125,2.417655823
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.362546976490773,1.633760286
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.65585340708124,2.370444650
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.790432009213724,2.345503262
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.459239689821644,1.625202365
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.576750062684095,2.385353915
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.829506798220942,2.338359570
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.649515339006303,1.608620892
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.942850892791427,2.317881914
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.642515228741892,2.372945530
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.4643704755499,1.624750762
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.660529104932909,2.369569214
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.77858140738086,2.347678435
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.83819237514707,1.592509483
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",13.021048581891204,2.303961913
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",13.026003927572047,2.303085441
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.615282064654888,1.611579126
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.602412068147427,2.380496673
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.745589501232926,2.353755391
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.778177230015316,1.597599151
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.96059001333764,2.314709436
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.915687233688674,2.322756773
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.356507630808178,1.634297798
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.693110567189416,2.363486857
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.755663788969073,2.351896420
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.80667360530113,1.595178426
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",13.067282873265519,2.295810100
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.93429573162429,2.319415036
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.346114486258703,1.635223634
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.495705538399092,2.400824820
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.484239718918774,2.403029794
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.55212035940392,1.617065835
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.963321008288803,2.314221794
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.82869954832954,2.338506712
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.461875012999084,1.624970377
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.40445769337189,2.418485414
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.69128365117868,2.363827082
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.71654763366613,1.602859704
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.77462641157562,2.348405271
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.620994179220203,2.376991826
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.076421317645615,1.659620534
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.491967945680207,2.401543146
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.689768288599911,2.364109361
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.653472349380614,1.608279651
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.875880161690565,2.329937808
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.832801220303919,2.337759269
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.1402743589273,1.653778736
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.192120256168591,2.460605651
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.220393123113734,2.454912841
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.15801485115466,1.652162984
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.511218063777713,2.397848063
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.545234356747304,2.391346319
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.332963196917376,1.636396674
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.361988086570772,2.426794120
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.338251461128126,2.431462845
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.13910376953244,1.653885461
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.500112511429363,2.399978398
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.502153735605573,2.399586554
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.141711058748275,1.653647768
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.3443695439764,2.430257770
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.365653195976934,2.426074832
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.408596527404192,1.629673395
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.894590623555555,2.326556994
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.757218464444374,2.351609803
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.281915491717665,1.640965905
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.490287552399256,2.401866240
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.58862598834546,2.383103607
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.547078775865796,1.617505396
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.808528110656338,2.342189496
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.671648139351364,2.367489980
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.22088331392485,1.646462440
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.546907974711825,2.391027340
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.671079889189192,2.367596153
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.588692934178876,1.613884317
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.885051986507492,2.328279314
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.884638415989148,2.328354047
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.48386070919924,1.623037550
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.564373378539345,2.387703636
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.588288258674057,2.383167543
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.452011500641795,1.625839004
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",13.099624275703217,2.290142020
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.984997484933674,2.310358553
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.897734385018456,1.587491886
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.726991520152758,2.357194939
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.697857943107895,2.362603215
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.04710569262724,1.662316413
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.699545078547137,2.362289343
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.679037690522279,2.366110168
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.237519445823498,1.644960549
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.370766254317193,2.425072092
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.488930270135995,2.402127272
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.49810275627268,1.621787942
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.817218943135423,2.340601353
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.862654774829624,2.332333451
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.466743435340323,1.624541983
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.662981216010982,2.369110361
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.629203497882877,2.375446718
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.598176563724657,1.613061361
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.894109410443315,2.326643822
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.986260615917425,2.310133832
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.775411651307255,1.597834474
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.86294895341709,2.332280110
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.702606617897487,2.361719992
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.675758130308747,1.606360491
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.799919713442257,2.343764701
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.745261403894546,2.353815983
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.37132145794621,1.632979972
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.624852128473647,2.376265456
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.779369901256645,2.347533582
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.675191292225428,1.606409248
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.722161967259558,2.358089771
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.66852267449307,2.368074066
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.27294985685842,1.641771046
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.378082463589948,2.423638725
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.577440807101622,2.385222913
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.629724484389822,1.610329773
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.835930050611168,2.337189427
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.856225376292086,2.333499851
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.480822807776292,1.623304347
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.63341594711446,2.374654656
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.69771715374621,2.362629411
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.535362002425476,1.618527871
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.526362172834723,2.394949115
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.461966762847961,2.407324668
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",17.984910703083898,1.668064996
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.424736969436582,2.414538036
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.399972091134813,2.419360284
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.345812220034954,1.635250576
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.801234440446772,2.343523989
+"old","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.829234468541843,2.338409207
+"old","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.34073853592131,1.635702943
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npx-cli.js'",12.536837307705847,2.392948019
+"new","misc/startup-cli-version.js","n=30 cli='deps/npm/bin/npm-cli.js'",12.682061411996335,2.365546028
+"new","misc/startup-cli-version.js","n=30 cli='deps/corepack/dist/corepack.js'",18.153814108174913,1.652545290
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.46937916076472,1.133385102
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.04993408093364,1.109060004
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",50.338800599144484,0.595961756
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",42.90211800549037,0.699266176
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.259200151939835,5.704289461
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.635256244201424,5.323626593
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.617095366809764,1.127095184
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.40854159982188,1.135996090
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",54.16932031633973,0.553819022
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.43769792884785,0.690644335
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.274606698784476,5.687627858
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.520618352978831,5.434173870
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",25.481825843253436,1.177309671
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.237514727751087,1.143400978
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",49.53773409334895,0.605598955
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",42.873658464112154,0.699730349
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.280678446527437,5.681088198
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.656519154569279,5.303615029
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.21315907764274,1.102407843
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.813990093147698,1.118818941
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",53.49250553771357,0.560826226
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.42431012905818,0.690857262
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.20875702231079,5.759531472
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.589824669242668,5.366894630
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",25.92443432679064,1.157209435
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.06255106257981,1.108542943
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",51.54789868719633,0.581982986
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.593448066914085,0.672744569
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.258750197606522,5.704777537
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.581589901773261,5.374812648
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.732300428491865,1.122237874
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.45599503840036,1.133958483
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",53.65162462475585,0.559162937
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.459716167780755,0.690294430
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.279929095789933,5.681894483
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.6486364300017655,5.311016273
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.495258674060086,1.091097209
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.967336787020376,1.072679899
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",52.320887968345104,0.573384764
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.4325717979559,0.675180364
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.306143614861606,5.653823601
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.654715542545769,5.305306655
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.224046223236197,1.101966980
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.49943380499091,1.090931552
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",55.78131721474407,0.537814478
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",45.060412675515714,0.665772864
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.32552246385622,5.633250109
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.666352921083183,5.294410782
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.398877158030206,1.094935381
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.873523537599976,1.076290192
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",51.413023542674715,0.583509740
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.26139237449772,0.677791601
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.276677946162041,5.685395301
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.583362382466646,5.373106373
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.640300559920245,1.126113421
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.834908951273885,1.117946778
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",54.129495355802966,0.554226486
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.66587554385921,0.687035348
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.220890345057083,5.746146350
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.614765704411196,5.343054649
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.65550779443388,1.125470962
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.568428416332928,1.088201313
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",51.59992658775244,0.581396176
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.45257422667222,0.690407888
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.274314733194667,5.687942703
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.642924222944181,5.316392497
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.56725532699572,1.129209609
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.4009331314772,1.136323472
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",53.39877041748488,0.561810689
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.97077632438516,0.682271329
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.211495851780458,5.756504630
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.618879204577435,5.339143076
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.661637381285693,1.125212213
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.162343361420607,1.104470244
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",50.02687043264679,0.599677728
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.373737203280044,0.691662788
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.287403770797937,5.673862126
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.691189710856539,5.271305566
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.086086163747325,1.107579730
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.8665739416421,1.116629164
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",52.928919596138726,0.566797891
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.299624690977076,0.692846652
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.210009969717041,5.758146371
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.577257068710283,5.378988207
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.751440435768835,1.121434940
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",28.01982530036807,1.070670487
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",51.72869371276472,0.579948919
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.094151619821595,0.680362336
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.273285239038415,5.689053150
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.603126143204076,5.354153955
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",25.55867378096668,1.173769823
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",25.72746643194024,1.166068959
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",52.798071552548464,0.568202571
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.23480626081577,0.678198969
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.25701062780487,5.706665275
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.617908418347956,5.340065691
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.104817291020908,1.106814323
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",28.20872357089545,1.063500797
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",52.85354268522931,0.567606228
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.20567694372229,0.678645868
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.299317641772109,5.661106208
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.620641317366362,5.337469215
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.88008984917329,1.116067698
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.795769326379627,1.119579723
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",53.2007749721423,0.563901560
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.06470631319422,0.696626137
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.181129662721934,5.790243046
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.574784084301248,5.381374336
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.76857021151926,1.120717310
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.434604909590817,1.093509460
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",50.263541802378235,0.596854080
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.48582393666887,0.689879995
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.239128695315952,5.726142980
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.610370013440015,5.347240900
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.477750692696127,1.133026757
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.410881621287253,1.135895440
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",53.52775632647987,0.560456893
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",42.706261087639724,0.702473109
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.17445794219411,5.797708733
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.545818136181812,5.409481390
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.963880703476107,1.112599493
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.788758248296276,1.079573248
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",50.02106662231332,0.599747307
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",42.93833421722848,0.698676382
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.22209734586025,5.744818224
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.618463447319224,5.339538164
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.010978612256952,1.110659500
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.03932495049005,1.109495154
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",53.87960596658805,0.556796945
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.60593285611072,0.672556274
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.219018783196758,5.748206942
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.59285911801529,5.363982780
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.88260184702884,1.115963409
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.751139510352793,1.081036690
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",49.47733446771448,0.606338242
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.39462609224382,0.691329842
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.172134780509219,5.800312883
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.613761791673663,5.344010151
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.510676057799127,1.131619576
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.62279230494811,1.126854000
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",52.60892203827727,0.570245480
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.00549652247592,0.697585249
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.207825217761435,5.760561990
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.685285830385938,5.276779549
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.25339232876382,1.100780396
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.941493429849807,1.073672031
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",51.49730986121197,0.582554702
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",42.99045891106856,0.697829257
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.247726195399299,5.716761676
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.486249396548226,5.468216596
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.35817832921323,1.096564239
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.372591819249287,1.095986825
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",55.21471196883846,0.543333451
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",45.01343628566409,0.666467670
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.262274072726178,5.700957340
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.5643444117931296,5.391470725
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.77675738864433,1.120374643
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.811793710491752,1.118910593
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",49.78865256363805,0.602546935
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.83938680177938,0.684316141
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.2665880715939375,5.696287538
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.65053179725736,5.309234790
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.438630386569336,1.093349033
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.466938830826003,1.092222187
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",54.02852757042535,0.555262217
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.65223677045017,0.671858840
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.271851066158599,5.690600820
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.591558283254286,5.365230671
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.301961079215438,1.140599361
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.236415188790026,1.101466540
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",50.073793666269665,0.599115781
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.288038922665294,0.693032088
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.244309340935671,5.720486350
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.634193338977217,5.324630909
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.809335296874075,1.119013197
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.095518737546517,1.107194156
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",53.78502860919796,0.557776035
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.43416724944422,0.675156121
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.251220579664523,5.712957501
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.546148959286991,5.409158719
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.903784860505247,1.115084742
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.70337331464162,1.082900615
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",51.52620330804305,0.582228033
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.08620945869546,0.696278470
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.241243299285988,5.723832741
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.662577003622195,5.297941199
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.26578612240578,1.100280031
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.072635491176875,1.108130016
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",54.89591103963908,0.546488790
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.32858705230859,0.676764183
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.269533163627537,5.693103937
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.628206842508828,5.330294504
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.367195947141596,1.096202916
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.866600476802546,1.076557581
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",51.920086755418986,0.577811053
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.56447744498137,0.673181909
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.301803344839125,5.658452049
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.626294588582941,5.332106154
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.986630593817466,1.111661565
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.934198917085393,1.113825590
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",54.510056309542286,0.550357164
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.153461944685276,0.679448421
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.2224484645891405,5.744431985
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.631944326040638,5.326757202
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.898059482804488,1.115322093
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.219681680793567,1.102143675
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",51.23437099995654,0.585544419
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.91346243878605,0.683161799
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.2796656000881566,5.682178053
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.6213505194637925,5.336795828
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.15034651810784,1.104958273
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.73620813817201,1.122073850
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",56.0825920256869,0.534925347
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.9704454906792,0.667104799
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.273922965226987,5.688365226
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.664391763164519,5.296243843
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.009081998287314,1.110737492
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.431136474955863,1.093647725
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",51.03105994236559,0.587877266
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.60296914561509,0.672600963
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.241146663049525,5.723938277
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.636651464113501,5.322308855
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.124283221602838,1.106020010
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.9953727150643,1.111301567
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",53.230319558500064,0.563588576
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",41.83497189622808,0.717103386
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.138237594199331,5.838577810
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.592237619710541,5.364578911
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.291976973981,1.099224143
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",28.133676548932527,1.066337702
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",50.705132445507424,0.591656082
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.21099669287155,0.678564209
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.298632525809208,5.661838192
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.644724677545328,5.314696768
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.667658490221235,1.124958159
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.736435049324943,1.122064327
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",53.66631790477021,0.559009844
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.079863659813576,0.696381034
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.182484822037267,5.788728965
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.643424363695235,5.315921339
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.381214082338754,1.095641702
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.948898558083624,1.073387559
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",52.79680525264293,0.568216199
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.475545040021245,0.674527990
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.2669350346918815,5.695912291
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.547937271929153,5.407415140
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",25.77152274209442,1.164075569
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.714234364820474,1.122996811
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",53.62653644518138,0.559424531
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.203639128244475,0.678677154
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.2234760489300385,5.743301916
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.664116197775971,5.296501511
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.07053095548376,1.108216165
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.76261717807163,1.080589766
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",51.29472151668233,0.584855500
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.81008147430948,0.684773892
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.233030714458472,5.732815578
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.605081173638463,5.352286447
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.406166663788394,1.136098260
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.25240715868805,1.142752351
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",52.47910835559873,0.571656054
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",42.592111133471654,0.704355788
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.191506705620279,5.778669219
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.648341417533597,5.311293667
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.694167258786305,1.123841014
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.660654396923473,1.084573039
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",50.978859785648815,0.588479227
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.5698181697438,0.688550039
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.174844096178203,5.797276100
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.587668205506144,5.368965890
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.674164999696586,1.124683753
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.44109666041916,1.134597418
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",52.88411963836887,0.567278045
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",42.968843988751324,0.698180291
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.207029808564652,5.761441955
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.633197663369513,5.325572045
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.045832310985844,1.109228204
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.40693747587659,1.094613363
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",51.10496854752377,0.587027071
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.19324896429608,0.694552985
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.246245142605892,5.718375559
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.632745982588784,5.325999094
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.981014237334396,1.111892968
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.625562525581508,1.126736758
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",53.22638680809693,0.563630218
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.044190340910376,0.696958167
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.218009660272087,5.749318601
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.597440713080631,5.359592274
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.07830045351512,1.150381715
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.095649542289312,1.107188811
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",50.26997473173017,0.596777702
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.42789841691688,0.690800179
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.161811614490626,5.811912995
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.598811246511089,5.358280299
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.843722059124687,1.117579743
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.877420572657527,1.116178538
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",54.70576331963616,0.548388290
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.234864831988,0.678198071
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.284364883533702,5.677125002
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.619527526377256,5.338527102
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.595460123574263,1.128012069
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.76571909864942,1.120836690
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",49.5731149187277,0.605166733
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",42.938613539678144,0.698671837
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.1811602553389555,5.790208857
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.634713096601408,5.324139754
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.11871753653917,1.106247003
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.912033918434826,1.114742947
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",55.03235642071051,0.545133844
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.657390132895166,0.671781309
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.287847478953154,5.673386027
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.604622831756823,5.352724153
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",25.94650104959694,1.156225263
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.959754836544747,1.112769763
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",50.30730080544202,0.596334916
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.09167100022844,0.696190222
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.210122362717772,5.758022156
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.580217232611461,5.376134790
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.806212661458844,1.119143550
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.888742295051063,1.115708562
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",53.831647583625724,0.557292993
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.27839776332928,0.677531291
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.307058442674503,5.652848998
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.650038210718749,5.309698604
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",27.071730893307453,1.108167044
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",27.746696313937687,1.081209801
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",52.84483185585672,0.567699791
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.02938872464476,0.681363082
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.262278837519482,5.700952178
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.656983126987517,5.303180039
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.855064756987254,1.117107714
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.93282067894215,1.113882588
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",54.768723328864034,0.547757884
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",44.34012579178403,0.676588067
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.246514767128585,5.718081685
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.5002373331325005,5.454310093
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.081268015749988,1.150250823
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.48316640739014,1.132795057
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",49.54780190334941,0.605475901
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",42.202191017903424,0.710863566
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.19971001328183,5.769552518
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.57450668150411,5.381642128
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.479917694413693,1.132934035
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.1424283222565,1.147559807
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",52.7364081018332,0.568866957
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.69887209205401,0.686516575
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.212650023840342,5.755230039
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.494431496790168,5.460073534
+"old","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",25.667864486653183,1.168776624
+"old","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.556044265749687,1.129686323
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",49.2958944160815,0.608569950
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",42.208210493898996,0.710762187
+"old","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.228468289072216,5.737818103
+"old","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.633516253418298,5.325270870
+"new","misc/startup-core.js","n=30 mode='process' script='benchmark/fixtures/require-builtins'",26.35276487626688,1.138400473
+"new","misc/startup-core.js","n=30 mode='worker' script='benchmark/fixtures/require-builtins'",26.396769111483447,1.136502724
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/semicolon'",53.50152510288259,0.560731679
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/semicolon'",43.16281600058711,0.695042696
+"new","misc/startup-core.js","n=30 mode='process' script='test/fixtures/snapshot/typescript'",5.186663198757614,5.784065564
+"new","misc/startup-core.js","n=30 mode='worker' script='test/fixtures/snapshot/typescript'",5.590245380183577,5.366490728
+"old","misc/structured-clone.js","n=10000 type='string'",2589836.2394749057,0.003861248
+"old","misc/structured-clone.js","n=10000 type='object'",13765.293094371607,0.726464735
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",580797.768714364,0.017217697
+"new","misc/structured-clone.js","n=10000 type='string'",2655079.193047091,0.003766366
+"new","misc/structured-clone.js","n=10000 type='object'",14250.371166592442,0.701736108
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",591151.6538679377,0.016916133
+"old","misc/structured-clone.js","n=10000 type='string'",2213517.6868917253,0.004517696
+"old","misc/structured-clone.js","n=10000 type='object'",13866.6701115173,0.721153667
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",581163.3565345368,0.017206866
+"new","misc/structured-clone.js","n=10000 type='string'",2656141.969725825,0.003764859
+"new","misc/structured-clone.js","n=10000 type='object'",14181.867701290264,0.705125743
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",599793.7789029377,0.016672397
+"old","misc/structured-clone.js","n=10000 type='string'",2225058.9251229847,0.004494263
+"old","misc/structured-clone.js","n=10000 type='object'",13778.105951441292,0.725789164
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",580753.3799991905,0.017219013
+"new","misc/structured-clone.js","n=10000 type='string'",2582969.5005544345,0.003871513
+"new","misc/structured-clone.js","n=10000 type='object'",14048.265978629428,0.711831625
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",594695.9661475267,0.016815315
+"old","misc/structured-clone.js","n=10000 type='string'",2212025.766560939,0.004520743
+"old","misc/structured-clone.js","n=10000 type='object'",13911.906137593536,0.718808760
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",578626.0847647868,0.017282318
+"new","misc/structured-clone.js","n=10000 type='string'",2645645.4263669257,0.003779796
+"new","misc/structured-clone.js","n=10000 type='object'",14056.794764316259,0.711399730
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",585187.1917270448,0.017088549
+"old","misc/structured-clone.js","n=10000 type='string'",2601820.962455203,0.003843462
+"old","misc/structured-clone.js","n=10000 type='object'",13840.380738023245,0.722523476
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",587153.5500477944,0.017031320
+"new","misc/structured-clone.js","n=10000 type='string'",2503583.253531617,0.003994275
+"new","misc/structured-clone.js","n=10000 type='object'",13948.965027665416,0.716899066
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",591234.6623381983,0.016913758
+"old","misc/structured-clone.js","n=10000 type='string'",2198171.780530133,0.004549235
+"old","misc/structured-clone.js","n=10000 type='object'",13900.125480046741,0.719417966
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",562335.1936131319,0.017782988
+"new","misc/structured-clone.js","n=10000 type='string'",2303381.08703003,0.004341444
+"new","misc/structured-clone.js","n=10000 type='object'",14103.33306510204,0.709052247
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",587746.0819376813,0.017014150
+"old","misc/structured-clone.js","n=10000 type='string'",2235056.912371688,0.004474159
+"old","misc/structured-clone.js","n=10000 type='object'",13723.858084910205,0.728658074
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",579784.8951656144,0.017247776
+"new","misc/structured-clone.js","n=10000 type='string'",2234847.6213846314,0.004474578
+"new","misc/structured-clone.js","n=10000 type='object'",13956.567424558241,0.716508558
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",603056.7620543658,0.016582187
+"old","misc/structured-clone.js","n=10000 type='string'",2615157.8208517516,0.003823861
+"old","misc/structured-clone.js","n=10000 type='object'",13724.614611414938,0.728617909
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",571705.6036296445,0.017491520
+"new","misc/structured-clone.js","n=10000 type='string'",2259061.490976066,0.004426617
+"new","misc/structured-clone.js","n=10000 type='object'",14285.474187708833,0.700011765
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",589077.0852725015,0.016975707
+"old","misc/structured-clone.js","n=10000 type='string'",2199819.74676995,0.004545827
+"old","misc/structured-clone.js","n=10000 type='object'",13678.252426420077,0.731087546
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",573844.4565908188,0.017426325
+"new","misc/structured-clone.js","n=10000 type='string'",2602786.647496275,0.003842036
+"new","misc/structured-clone.js","n=10000 type='object'",14014.949505580471,0.713523798
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",586776.8774468963,0.017042253
+"old","misc/structured-clone.js","n=10000 type='string'",2604773.0904017757,0.003839106
+"old","misc/structured-clone.js","n=10000 type='object'",13701.08142937146,0.729869394
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",576149.4411811341,0.017356608
+"new","misc/structured-clone.js","n=10000 type='string'",2643862.4715619544,0.003782345
+"new","misc/structured-clone.js","n=10000 type='object'",14231.118935886298,0.702685435
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",576125.873824516,0.017357318
+"old","misc/structured-clone.js","n=10000 type='string'",2185170.471704009,0.004576302
+"old","misc/structured-clone.js","n=10000 type='object'",13728.258313632117,0.728424522
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",573024.9534603459,0.017451247
+"new","misc/structured-clone.js","n=10000 type='string'",2564681.919171998,0.003899119
+"new","misc/structured-clone.js","n=10000 type='object'",14244.018482611062,0.702049075
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",584872.0732709018,0.017097756
+"old","misc/structured-clone.js","n=10000 type='string'",2555437.6646979577,0.003913224
+"old","misc/structured-clone.js","n=10000 type='object'",13831.855939660156,0.722968779
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",578871.737305227,0.017274984
+"new","misc/structured-clone.js","n=10000 type='string'",2591892.9734818246,0.003858184
+"new","misc/structured-clone.js","n=10000 type='object'",13821.744161141014,0.723497692
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",580358.9020700648,0.017230717
+"old","misc/structured-clone.js","n=10000 type='string'",2467964.585695381,0.004051922
+"old","misc/structured-clone.js","n=10000 type='object'",13804.94529226496,0.724378097
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",574242.6227911614,0.017414242
+"new","misc/structured-clone.js","n=10000 type='string'",2263025.5792044243,0.004418863
+"new","misc/structured-clone.js","n=10000 type='object'",13943.25114630814,0.717192848
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",573398.046272305,0.017439892
+"old","misc/structured-clone.js","n=10000 type='string'",2444371.004675593,0.004091032
+"old","misc/structured-clone.js","n=10000 type='object'",13844.931174721933,0.722286003
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",590469.7009330011,0.016935670
+"new","misc/structured-clone.js","n=10000 type='string'",2657905.501359386,0.003762361
+"new","misc/structured-clone.js","n=10000 type='object'",13963.752015594293,0.716139902
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",588002.4105746824,0.017006733
+"old","misc/structured-clone.js","n=10000 type='string'",2620885.0466714106,0.003815505
+"old","misc/structured-clone.js","n=10000 type='object'",13781.677088315753,0.725601096
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",559970.4873154366,0.017858084
+"new","misc/structured-clone.js","n=10000 type='string'",2266500.577504347,0.004412088
+"new","misc/structured-clone.js","n=10000 type='object'",13994.81032128233,0.714550592
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",592944.951227906,0.016864972
+"old","misc/structured-clone.js","n=10000 type='string'",2446353.3067479962,0.004087717
+"old","misc/structured-clone.js","n=10000 type='object'",13670.211658306733,0.731517569
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",593794.2209689997,0.016840851
+"new","misc/structured-clone.js","n=10000 type='string'",2274821.6596689364,0.004395949
+"new","misc/structured-clone.js","n=10000 type='object'",13943.19898515932,0.717195531
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",586008.1185564745,0.017064610
+"old","misc/structured-clone.js","n=10000 type='string'",2666884.2844242756,0.003749694
+"old","misc/structured-clone.js","n=10000 type='object'",13824.768862064984,0.723339399
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",562379.8791726829,0.017781575
+"new","misc/structured-clone.js","n=10000 type='string'",2631040.9687282364,0.003800777
+"new","misc/structured-clone.js","n=10000 type='object'",14293.293284059167,0.699628826
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",597170.2252836619,0.016745644
+"old","misc/structured-clone.js","n=10000 type='string'",2039311.813835303,0.004903615
+"old","misc/structured-clone.js","n=10000 type='object'",13927.528650625592,0.718002472
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",552604.4329817093,0.018096127
+"new","misc/structured-clone.js","n=10000 type='string'",2597330.411856086,0.003850107
+"new","misc/structured-clone.js","n=10000 type='object'",14369.874638435094,0.695900295
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",596982.5279332602,0.016750909
+"old","misc/structured-clone.js","n=10000 type='string'",2224137.9463733654,0.004496124
+"old","misc/structured-clone.js","n=10000 type='object'",13679.524301436897,0.731019572
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",577607.0191729142,0.017312809
+"new","misc/structured-clone.js","n=10000 type='string'",2613067.4275919013,0.003826920
+"new","misc/structured-clone.js","n=10000 type='object'",14031.463131435416,0.712684052
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",594456.9504976675,0.016822076
+"old","misc/structured-clone.js","n=10000 type='string'",2626406.3092582924,0.003807484
+"old","misc/structured-clone.js","n=10000 type='object'",13873.886092392873,0.720778586
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",582714.1461375988,0.017161073
+"new","misc/structured-clone.js","n=10000 type='string'",2253623.7142513306,0.004437298
+"new","misc/structured-clone.js","n=10000 type='object'",13980.693657484402,0.715272092
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",583224.7757617382,0.017146048
+"old","misc/structured-clone.js","n=10000 type='string'",2205098.4080292042,0.004534945
+"old","misc/structured-clone.js","n=10000 type='object'",13726.915650139032,0.728495771
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",560678.5376516944,0.017835532
+"new","misc/structured-clone.js","n=10000 type='string'",2675608.9083863483,0.003737467
+"new","misc/structured-clone.js","n=10000 type='object'",14024.292084974662,0.713048469
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",584094.1354145153,0.017120528
+"old","misc/structured-clone.js","n=10000 type='string'",2277927.1591788162,0.004389956
+"old","misc/structured-clone.js","n=10000 type='object'",13928.186978277536,0.717968535
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",601805.5490443539,0.016616663
+"new","misc/structured-clone.js","n=10000 type='string'",2656149.024834728,0.003764849
+"new","misc/structured-clone.js","n=10000 type='object'",14385.586714701214,0.695140226
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",593743.5931355403,0.016842287
+"old","misc/structured-clone.js","n=10000 type='string'",2621879.37362253,0.003814058
+"old","misc/structured-clone.js","n=10000 type='object'",13900.93704339983,0.719375965
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",614462.8832466449,0.016274376
+"new","misc/structured-clone.js","n=10000 type='string'",2681480.595599744,0.003729283
+"new","misc/structured-clone.js","n=10000 type='object'",13907.333335198771,0.719045108
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",590976.207002418,0.016921155
+"old","misc/structured-clone.js","n=10000 type='string'",2663618.7764880243,0.003754291
+"old","misc/structured-clone.js","n=10000 type='object'",13698.217632988732,0.730021983
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",575909.4762448859,0.017363840
+"new","misc/structured-clone.js","n=10000 type='string'",2325278.568372491,0.004300560
+"new","misc/structured-clone.js","n=10000 type='object'",13998.581795279171,0.714358079
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",591418.7621569823,0.016908493
+"old","misc/structured-clone.js","n=10000 type='string'",2465059.020908138,0.004056698
+"old","misc/structured-clone.js","n=10000 type='object'",13670.217974674066,0.731517231
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",529765.1741698367,0.018876288
+"new","misc/structured-clone.js","n=10000 type='string'",2620739.4311475405,0.003815717
+"new","misc/structured-clone.js","n=10000 type='object'",13844.682854990357,0.722298958
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",585247.2625790853,0.017086795
+"old","misc/structured-clone.js","n=10000 type='string'",2208049.9761199397,0.004528883
+"old","misc/structured-clone.js","n=10000 type='object'",13810.058657312682,0.724109886
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",585883.1112807047,0.017068251
+"new","misc/structured-clone.js","n=10000 type='string'",2286495.091123689,0.004373506
+"new","misc/structured-clone.js","n=10000 type='object'",13974.251750821075,0.715601821
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",589014.0746680184,0.016977523
+"old","misc/structured-clone.js","n=10000 type='string'",2467677.1310983086,0.004052394
+"old","misc/structured-clone.js","n=10000 type='object'",13798.275746213409,0.724728233
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",551119.3813310183,0.018144889
+"new","misc/structured-clone.js","n=10000 type='string'",2543157.3807513504,0.003932120
+"new","misc/structured-clone.js","n=10000 type='object'",14120.529228285373,0.708188754
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",575127.5287782312,0.017387448
+"old","misc/structured-clone.js","n=10000 type='string'",2611520.4089014195,0.003829187
+"old","misc/structured-clone.js","n=10000 type='object'",13675.356085930385,0.731242385
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",545076.6982872927,0.018346042
+"new","misc/structured-clone.js","n=10000 type='string'",2617061.8299176753,0.003821079
+"new","misc/structured-clone.js","n=10000 type='object'",14084.01691846476,0.710024708
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",564033.3846848129,0.017729447
+"old","misc/structured-clone.js","n=10000 type='string'",2150902.13137194,0.004649212
+"old","misc/structured-clone.js","n=10000 type='object'",13730.185978911473,0.728322254
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",563084.939673895,0.017759310
+"new","misc/structured-clone.js","n=10000 type='string'",2226276.023497008,0.004491806
+"new","misc/structured-clone.js","n=10000 type='object'",13855.53774356901,0.721733085
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",579522.8834462418,0.017255574
+"old","misc/structured-clone.js","n=10000 type='string'",2606303.9716684334,0.003836851
+"old","misc/structured-clone.js","n=10000 type='object'",13706.38545396247,0.729586953
+"old","misc/structured-clone.js","n=10000 type='arraybuffer'",560610.8011649717,0.017837687
+"new","misc/structured-clone.js","n=10000 type='string'",2234418.6724112085,0.004475437
+"new","misc/structured-clone.js","n=10000 type='object'",13678.684553735311,0.731064450
+"new","misc/structured-clone.js","n=10000 type='arraybuffer'",588536.0013945949,0.016991314
+"old","misc/trace.js","method='trace' n=100000",1093584.0093259094,0.091442449
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6264662.442446546,0.015962552
+"new","misc/trace.js","method='trace' n=100000",1045865.6866654175,0.095614572
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",4655387.717448506,0.021480488
+"old","misc/trace.js","method='trace' n=100000",1085303.851705384,0.092140095
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6149149.717099143,0.016262411
+"new","misc/trace.js","method='trace' n=100000",1053178.522269207,0.094950664
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5846021.294366405,0.017105651
+"old","misc/trace.js","method='trace' n=100000",1097986.8257831112,0.091075774
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6877149.625044048,0.014540908
+"new","misc/trace.js","method='trace' n=100000",1066392.7146438456,0.093774084
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5770846.273253841,0.017328481
+"old","misc/trace.js","method='trace' n=100000",1113823.3700236406,0.089780842
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5617560.6293488,0.017801321
+"new","misc/trace.js","method='trace' n=100000",1091715.6782413018,0.091598941
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5646100.182143192,0.017711340
+"old","misc/trace.js","method='trace' n=100000",1092053.4080076541,0.091570613
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6361336.509166972,0.015719967
+"new","misc/trace.js","method='trace' n=100000",1078805.815471042,0.092695088
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6135201.935877077,0.016299382
+"old","misc/trace.js","method='trace' n=100000",1102667.1555745811,0.090689198
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6593794.250541103,0.015165775
+"new","misc/trace.js","method='trace' n=100000",1040378.959284374,0.096118822
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6181019.436771911,0.016178561
+"old","misc/trace.js","method='trace' n=100000",1100942.7427753522,0.090831245
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5156142.429978554,0.019394344
+"new","misc/trace.js","method='trace' n=100000",1065526.6951730575,0.093850300
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6530882.223572083,0.015311867
+"old","misc/trace.js","method='trace' n=100000",1099691.4749585513,0.090934596
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6791276.171116526,0.014724773
+"new","misc/trace.js","method='trace' n=100000",1070945.8922901095,0.093375399
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6189436.365166842,0.016156560
+"old","misc/trace.js","method='trace' n=100000",1108262.9123684212,0.090231297
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5950466.885532773,0.016805404
+"new","misc/trace.js","method='trace' n=100000",1076122.2284162622,0.092926247
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6354684.692619453,0.015736422
+"old","misc/trace.js","method='trace' n=100000",1121395.856146263,0.089174576
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5387928.13150424,0.018560010
+"new","misc/trace.js","method='trace' n=100000",1093134.908359276,0.091480017
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5982741.585348745,0.016714745
+"old","misc/trace.js","method='trace' n=100000",1120266.3383927809,0.089264487
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6873052.992956839,0.014549575
+"new","misc/trace.js","method='trace' n=100000",1085235.927360471,0.092145862
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5511197.458103463,0.018144877
+"old","misc/trace.js","method='trace' n=100000",1109389.1542455296,0.090139695
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6038076.350992412,0.016561566
+"new","misc/trace.js","method='trace' n=100000",1080048.9512746283,0.092588396
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6140806.481940564,0.016284506
+"old","misc/trace.js","method='trace' n=100000",1097726.1218113306,0.091097404
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",7146137.21984105,0.013993574
+"new","misc/trace.js","method='trace' n=100000",1046122.9761914128,0.095591056
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5340240.8993350165,0.018725747
+"old","misc/trace.js","method='trace' n=100000",1116621.2274407477,0.089555883
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6519414.817325997,0.015338800
+"new","misc/trace.js","method='trace' n=100000",1077343.0268924104,0.092820947
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6145302.481620629,0.016272592
+"old","misc/trace.js","method='trace' n=100000",1105388.5758643379,0.090465925
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6885412.551198207,0.014523458
+"new","misc/trace.js","method='trace' n=100000",1009384.4694773139,0.099070278
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6064129.871345847,0.016490412
+"old","misc/trace.js","method='trace' n=100000",1099760.543638031,0.090928885
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6347002.831017142,0.015755468
+"new","misc/trace.js","method='trace' n=100000",1080389.993561848,0.092559169
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6278565.511023435,0.015927205
+"old","misc/trace.js","method='trace' n=100000",1134109.2848574498,0.088174924
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6877782.965918728,0.014539569
+"new","misc/trace.js","method='trace' n=100000",1017270.8687650897,0.098302235
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5345669.427758383,0.018706731
+"old","misc/trace.js","method='trace' n=100000",1092475.4225804182,0.091535240
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5918880.791728435,0.016895086
+"new","misc/trace.js","method='trace' n=100000",1051942.1582030328,0.095062261
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6221082.464616194,0.016074373
+"old","misc/trace.js","method='trace' n=100000",1092176.484273849,0.091560294
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5584754.825633064,0.017905889
+"new","misc/trace.js","method='trace' n=100000",1068957.4853159983,0.093549090
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5994760.699044249,0.016681233
+"old","misc/trace.js","method='trace' n=100000",1092854.085051413,0.091503524
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6515154.150827512,0.015348831
+"new","misc/trace.js","method='trace' n=100000",1064139.689617056,0.093972625
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6384002.201203959,0.015664155
+"old","misc/trace.js","method='trace' n=100000",1130079.022922828,0.088489387
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6845261.829553665,0.014608645
+"new","misc/trace.js","method='trace' n=100000",1051370.0897783844,0.095113986
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",4363905.370632157,0.022915254
+"old","misc/trace.js","method='trace' n=100000",1116950.2540067742,0.089529502
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6685501.5072128875,0.014957741
+"new","misc/trace.js","method='trace' n=100000",1057770.607127326,0.094538456
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6525162.855014536,0.015325288
+"old","misc/trace.js","method='trace' n=100000",1104220.6637472617,0.090561609
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",7103081.913592997,0.014078396
+"new","misc/trace.js","method='trace' n=100000",1078909.7082259161,0.092686162
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6529966.17804018,0.015314015
+"old","misc/trace.js","method='trace' n=100000",1086535.6427097907,0.092035637
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6641955.051499062,0.015055808
+"new","misc/trace.js","method='trace' n=100000",1078919.5445056309,0.092685317
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6508187.951261482,0.015365260
+"old","misc/trace.js","method='trace' n=100000",1126442.037302894,0.088775096
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6458780.065621206,0.015482800
+"new","misc/trace.js","method='trace' n=100000",1054732.7509190494,0.094810747
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6187023.06559321,0.016162862
+"old","misc/trace.js","method='trace' n=100000",1119765.956373739,0.089304376
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6536850.054072823,0.015297888
+"new","misc/trace.js","method='trace' n=100000",1067004.0334246268,0.093720358
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",4621369.359803551,0.021638608
+"old","misc/trace.js","method='trace' n=100000",1111207.7861885095,0.089992170
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6081394.478349232,0.016443597
+"new","misc/trace.js","method='trace' n=100000",1008874.8908170371,0.099120318
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6299112.606212487,0.015875252
+"old","misc/trace.js","method='trace' n=100000",1089334.2542419874,0.091799188
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5602915.443433497,0.017847851
+"new","misc/trace.js","method='trace' n=100000",1070725.8655150968,0.093394587
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5744293.24571065,0.017408582
+"old","misc/trace.js","method='trace' n=100000",1105662.125598065,0.090443543
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6884893.4628143115,0.014524553
+"new","misc/trace.js","method='trace' n=100000",1056460.6482829202,0.094655679
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5845824.447436596,0.017106227
+"old","misc/trace.js","method='trace' n=100000",1094730.33272347,0.091346697
+"old","misc/trace.js","method='isTraceCategoryEnabled' n=100000",6671586.739500823,0.014988938
+"new","misc/trace.js","method='trace' n=100000",1080051.3192864668,0.092588193
+"new","misc/trace.js","method='isTraceCategoryEnabled' n=100000",5917958.162402974,0.016897720
