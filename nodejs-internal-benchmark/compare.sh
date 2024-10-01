@@ -16,9 +16,11 @@ run_comparison() {
     local version=$1
     if [[ "$version" == "v18-v20" ]]; then
         echo "Comparison between v18 and v20"
+        echo ""
         prefix="18-20"
     elif [[ "$version" == "v20-v22" ]]; then
         echo "Comparison between v20 and v22"
+        echo ""
         prefix="20-22"
     fi
 
