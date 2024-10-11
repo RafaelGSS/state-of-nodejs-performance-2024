@@ -1,0 +1,30 @@
+Running 1m test @ http://localhost:3000/plain
+  2 threads and 200 connections
+  Thread calibration: mean lat.: 0.755ms, rate sampling interval: 10ms
+  Thread calibration: mean lat.: 0.766ms, rate sampling interval: 10ms
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   748.13us  390.54us   3.29ms   66.34%
+    Req/Sec   524.96    127.19     1.00k    72.79%
+  59842 requests in 1.00m, 9.19MB read
+Requests/sec:    997.36
+Transfer/sec:    156.81KB
+Running 1m test @ http://localhost:3000/plain
+  2 threads and 200 connections
+  Thread calibration: mean lat.: 1.909ms, rate sampling interval: 10ms
+  Thread calibration: mean lat.: 0.709ms, rate sampling interval: 10ms
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.14ms  687.92us   6.13ms   70.36%
+    Req/Sec   522.41      1.53k   11.11k    97.11%
+  59432 requests in 1.00m, 9.13MB read
+Requests/sec:    990.51
+Transfer/sec:    155.73KB
+Running 1m test @ http://localhost:3000/plain
+  2 threads and 200 connections
+  Thread calibration: mean lat.: 0.734ms, rate sampling interval: 10ms
+  Thread calibration: mean lat.: 0.704ms, rate sampling interval: 10ms
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   725.82us  405.49us   2.09ms   64.52%
+    Req/Sec   524.94    127.36     1.00k    72.50%
+  59842 requests in 1.00m, 9.19MB read
+Requests/sec:    997.35
+Transfer/sec:    156.81KB
