@@ -17,7 +17,7 @@ This report was separated into three groups:
 
 ```console
 cd ~/repos/node
-nvm install v22.8.0
+nvm install v22.9.0
 cp $(which node) ./node22
 nvm install v20.17.0
 cp $(which node) ./node20
